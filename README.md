@@ -1,5 +1,105 @@
 # Squid Proxy Docker Setup
 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Squid](https://img.shields.io/badge/Squid-Proxy-blue?style=for-the-badge)
+
+## 🌍 Language / Язык
+- [English](#english)
+- [Русский](#русский)
+
+---
+
+# English
+
+## Description
+This configuration creates a Docker container with Squid proxy based on stable Debian with support for:
+- squid-openssl (stable version)
+- Kerberos authentication
+- LDAP authentication
+
+## Quick Start
+```bash
+# Clone the repository
+git clone https://github.com/Ajeris/squid_docker.git
+cd squid_docker
+
+# Build and start
+docker-compose up -d --build
+
+# Check logs
+docker-compose logs -f squid
+```
+
+## File Structure
+```
+.
+├── docker-compose.yml    # Docker Compose configuration
+├── Dockerfile           # Build instructions
+├── config/
+│   └── squid.conf      # Squid configuration
+├── cache/              # Cache directory (auto-created)
+├── logs/               # Logs directory
+├── .dockerignore       # Docker build exclusions
+├── .gitignore          # Git exclusions
+└── LICENSE            # MIT License
+```
+
+## Usage
+
+### Basic Commands
+```bash
+# Build and start
+docker-compose up -d --build
+
+# View logs
+docker-compose logs -f squid
+
+# Stop
+docker-compose down
+
+# Restart with rebuild
+docker-compose down && docker-compose up -d --build
+```
+
+### Authentication Setup
+
+#### Kerberos
+Uncomment the corresponding lines in `config/squid.conf`:
+```
+auth_param negotiate program /usr/lib/squid/negotiate_kerberos_auth -s GSS_C_NO_NAME
+auth_param negotiate children 10
+auth_param negotiate keep_alive on
+acl authenticated proxy_auth REQUIRED
+```
+
+#### LDAP
+Uncomment and configure lines in `config/squid.conf`:
+```
+auth_param basic program /usr/lib/squid/basic_ldap_auth -R -b "dc=example,dc=com" -D "cn=squid,ou=services,dc=example,dc=com" -w "password" -f sAMAccountName=%s -h ldap.example.com
+auth_param basic children 5
+auth_param basic realm Squid proxy-caching web server
+auth_param basic credentialsttl 2 hours
+acl ldap_users proxy_auth REQUIRED
+```
+
+## Ports
+- **3128**: HTTP proxy
+- **3129**: HTTPS proxy (requires SSL certificates)
+
+## Notes
+- For HTTPS functionality, add SSL certificates to `/etc/squid/ssl/` directory
+- Logs are saved in `logs/` directory
+- Cache is saved in `cache/` directory
+- Configuration can be modified in `config/squid.conf`
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+# Русский
+
 ## Описание
 Данная конфигурация создает Docker-контейнер с Squid proxy на базе стабильной версии Debian с поддержкой:
 - squid-openssl (стабильная версия)
