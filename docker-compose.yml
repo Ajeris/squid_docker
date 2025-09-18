@@ -1,13 +1,13 @@
 ---
 services:
-  squid-1:
+  squid:
     build:
       context: .
       dockerfile: Dockerfile
     container_name: squid-proxy
     ports:
-      - "8078:3128"
-      - "8077:3129"
+      - "3128:3128"
+      - "3129:3129"
     volumes:
       - ./config:/etc/squid
       - ./cache:/var/spool/squid
