@@ -1,0 +1,119 @@
+2025/09/01 00:00:21 kid1| storeDirWriteCleanLogs: Starting...
+2025/09/01 00:00:21 kid1|   Finished.  Wrote 4337 entries.
+2025/09/01 00:00:21 kid1|   Took 0.00 seconds (1489354.40 entries/sec).
+2025/09/01 00:00:21 kid1| logfileRotate: daemon:/var/log/squid/access.log
+2025/09/01 00:00:21 kid1| logfileRotate: daemon:/var/log/squid/access.log
+2025/09/01 00:00:21 kid1| Pinger socket opened on FD 16
+2025/09/01 00:00:21 kid1| helperOpenServers: Starting 1/30 'negotiate_kerberos_auth' processes
+2025/09/01 00:00:21 kid1| helperOpenServers: Starting 1/30 'basic_ldap_auth' processes
+2025/09/01 00:00:21 kid1| helperOpenServers: Starting 1/5 'ext_kerberos_ldap_group_acl' processes
+2025/09/01 00:00:21 kid1| helperOpenServers: Starting 1/5 'ext_kerberos_ldap_group_acl' processes
+2025/09/01 00:00:21 kid1| helperOpenServers: Starting 1/5 'ext_kerberos_ldap_group_acl' processes
+2025/09/01 00:00:21| WARNING: BCP 177 violation. Detected non-functional IPv6 loopback.
+2025/09/01 00:00:21| pinger: Initialising ICMP pinger ...
+2025/09/01 00:00:21| pinger: ICMP socket opened.
+2025/09/01 00:00:21| pinger: ICMPv6 socket opened
+2025/09/01 00:00:21 kid1| helperOpenServers: Starting 1/5 'ext_ldap_group_acl' processes
+2025/09/01 00:16:51 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/09/01 00:16:51 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/09/01 00:16:51 kid1| NETDB state saved; 123 entries, 0 msec
+basic_ldap_auth: WARNING, could not bind to binddn 'Can't contact LDAP server'
+2025/09/01 01:26:51 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/09/01 01:26:51 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/09/01 01:26:51 kid1| NETDB state saved; 123 entries, 0 msec
+basic_ldap_auth: WARNING, could not bind to binddn 'Can't contact LDAP server'
+2025/09/01 02:46:09 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/09/01 02:46:09 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/09/01 02:46:09 kid1| NETDB state saved; 123 entries, 0 msec
+2025/09/01 03:00:55 kid1| Starting new negotiateauthenticator helpers...
+    current master transaction: master429800
+2025/09/01 03:00:55 kid1| helperOpenServers: Starting 1/30 'negotiate_kerberos_auth' processes
+    current master transaction: master429800
+basic_ldap_auth: WARNING, could not bind to binddn 'Can't contact LDAP server'
+2025/09/01 03:58:14 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/09/01 03:58:14 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/09/01 03:58:14 kid1| NETDB state saved; 123 entries, 0 msec
+basic_ldap_auth: WARNING, could not bind to binddn 'Can't contact LDAP server'
+2025/09/01 04:38:33 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/09/01 04:38:33 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/09/01 04:38:33 kid1| NETDB state saved; 123 entries, 0 msec
+basic_ldap_auth: WARNING, could not bind to binddn 'Can't contact LDAP server'
+2025/09/01 05:45:46 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/09/01 05:45:46 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/09/01 05:45:46 kid1| NETDB state saved; 123 entries, 0 msec
+basic_ldap_auth: WARNING, could not bind to binddn 'Can't contact LDAP server'
+2025/09/01 06:43:19 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/09/01 06:43:19 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/09/01 06:43:19 kid1| NETDB state saved; 123 entries, 0 msec
+basic_ldap_auth: WARNING, could not bind to binddn 'Can't contact LDAP server'
+2025/09/01 07:28:50 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/09/01 07:28:50 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/09/01 07:28:50 kid1| NETDB state saved; 123 entries, 0 msec
+basic_ldap_auth: WARNING, could not bind to binddn 'Can't contact LDAP server'
+2025/09/01 08:39:20 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/09/01 08:39:20 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/09/01 08:39:20 kid1| NETDB state saved; 123 entries, 0 msec
+basic_ldap_auth: WARNING, could not bind to binddn 'Can't contact LDAP server'
+2025/09/01 09:39:31 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/09/01 09:39:31 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/09/01 09:39:31 kid1| NETDB state saved; 123 entries, 0 msec
+basic_ldap_auth: WARNING, could not bind to binddn 'Can't contact LDAP server'
+2025/09/01 10:58:48 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/09/01 10:58:48 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/09/01 10:58:48 kid1| NETDB state saved; 123 entries, 0 msec
+basic_ldap_auth: WARNING, could not bind to binddn 'Can't contact LDAP server'
+2025/09/01 11:50:52 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/09/01 11:50:52 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/09/01 11:50:52 kid1| NETDB state saved; 123 entries, 0 msec
+basic_ldap_auth: WARNING, could not bind to binddn 'Can't contact LDAP server'
+2025/09/01 12:40:47 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/09/01 12:40:47 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/09/01 12:40:47 kid1| NETDB state saved; 123 entries, 0 msec
+basic_ldap_auth: WARNING, could not bind to binddn 'Can't contact LDAP server'
+2025/09/01 13:56:17 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/09/01 13:56:17 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/09/01 13:56:17 kid1| NETDB state saved; 123 entries, 0 msec
+basic_ldap_auth: WARNING, could not bind to binddn 'Can't contact LDAP server'
+2025/09/01 14:37:37 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/09/01 14:37:37 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/09/01 14:37:37 kid1| NETDB state saved; 123 entries, 0 msec
+basic_ldap_auth: WARNING, could not bind to binddn 'Can't contact LDAP server'
+2025/09/01 15:52:43 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/09/01 15:52:43 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/09/01 15:52:43 kid1| NETDB state saved; 123 entries, 0 msec
+basic_ldap_auth: WARNING, could not bind to binddn 'Can't contact LDAP server'
+2025/09/01 16:43:37 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/09/01 16:43:37 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/09/01 16:43:37 kid1| NETDB state saved; 123 entries, 0 msec
+basic_ldap_auth: WARNING, could not bind to binddn 'Can't contact LDAP server'
+2025/09/01 17:32:34 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/09/01 17:32:34 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/09/01 17:32:34 kid1| NETDB state saved; 123 entries, 0 msec
+basic_ldap_auth: WARNING, could not bind to binddn 'Can't contact LDAP server'
+2025/09/01 18:50:46 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/09/01 18:50:46 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/09/01 18:50:46 kid1| NETDB state saved; 123 entries, 0 msec
+basic_ldap_auth: WARNING, could not bind to binddn 'Can't contact LDAP server'
+2025/09/01 20:01:04 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/09/01 20:01:04 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/09/01 20:01:04 kid1| NETDB state saved; 123 entries, 0 msec
+basic_ldap_auth: WARNING, could not bind to binddn 'Can't contact LDAP server'
+2025/09/01 20:43:11 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/09/01 20:43:11 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/09/01 20:43:11 kid1| NETDB state saved; 123 entries, 0 msec
+basic_ldap_auth: WARNING, could not bind to binddn 'Can't contact LDAP server'
+2025/09/01 21:36:05 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/09/01 21:36:05 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/09/01 21:36:05 kid1| NETDB state saved; 123 entries, 0 msec
+basic_ldap_auth: WARNING, could not bind to binddn 'Can't contact LDAP server'
+2025/09/01 22:52:25 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/09/01 22:52:25 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/09/01 22:52:25 kid1| NETDB state saved; 123 entries, 0 msec
+basic_ldap_auth: WARNING, could not bind to binddn 'Can't contact LDAP server'
+2025/09/01 23:42:45 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/09/01 23:42:45 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/09/01 23:42:45 kid1| NETDB state saved; 123 entries, 0 msec
+2025/09/02 00:00:18 kid1| Closing Pinger socket on FD 16
+2025/09/02 00:00:18 kid1| log rotation failed: (2) No such file or directory
+2025/09/02 00:00:18 kid1| renaming file /var/log/squid/cache.log to /var/log/squid/cache.log.0failed: (2) No such file or directory
+2025/09/02 00:00:38| Pinger exiting.

@@ -1,0 +1,108 @@
+2025/09/07 00:00:01 kid1| storeDirWriteCleanLogs: Starting...
+2025/09/07 00:00:01 kid1|   Finished.  Wrote 24060 entries.
+2025/09/07 00:00:01 kid1|   Took 0.02 seconds (1199641.01 entries/sec).
+2025/09/07 00:00:01 kid1| logfileRotate: daemon:/var/log/squid/access.log
+2025/09/07 00:00:01 kid1| logfileRotate: daemon:/var/log/squid/access.log
+2025/09/07 00:00:01 kid1| Pinger socket opened on FD 12
+2025/09/07 00:00:01 kid1| helperOpenServers: Starting 1/30 'negotiate_kerberos_auth' processes
+2025/09/07 00:00:01 kid1| helperOpenServers: Starting 1/30 'basic_ldap_auth' processes
+2025/09/07 00:00:01 kid1| helperOpenServers: Starting 1/5 'ext_kerberos_ldap_group_acl' processes
+2025/09/07 00:00:01 kid1| helperOpenServers: Starting 1/5 'ext_kerberos_ldap_group_acl' processes
+2025/09/07 00:00:01| WARNING: BCP 177 violation. Detected non-functional IPv6 loopback.
+2025/09/07 00:00:01| pinger: Initialising ICMP pinger ...
+2025/09/07 00:00:01| pinger: ICMP socket opened.
+2025/09/07 00:00:01| pinger: ICMPv6 socket opened
+2025/09/07 00:00:02 kid1| helperOpenServers: Starting 1/5 'ext_kerberos_ldap_group_acl' processes
+2025/09/07 00:00:02 kid1| helperOpenServers: Starting 1/5 'ext_ldap_group_acl' processes
+2025/09/07 00:21:27 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/09/07 00:21:27 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/09/07 00:21:27 kid1| NETDB state saved; 361 entries, 4 msec
+2025/09/07 01:03:34 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/09/07 01:03:34 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/09/07 01:03:34 kid1| NETDB state saved; 361 entries, 1 msec
+2025/09/07 01:59:46 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/09/07 01:59:46 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/09/07 01:59:46 kid1| NETDB state saved; 361 entries, 2 msec
+2025/09/07 02:50:06 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/09/07 02:50:06 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/09/07 02:50:06 kid1| NETDB state saved; 361 entries, 3 msec
+2025/09/07 03:41:37 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/09/07 03:41:37 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/09/07 03:41:37 kid1| NETDB state saved; 361 entries, 1 msec
+2025/09/07 04:33:45 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/09/07 04:33:45 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/09/07 04:33:45 kid1| NETDB state saved; 361 entries, 2 msec
+2025/09/07 05:48:34 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/09/07 05:48:34 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/09/07 05:48:34 kid1| NETDB state saved; 361 entries, 7 msec
+2025/09/07 06:34:10 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/09/07 06:34:10 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/09/07 06:34:10 kid1| NETDB state saved; 361 entries, 1 msec
+2025/09/07 07:52:08 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/09/07 07:52:08 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/09/07 07:52:08 kid1| NETDB state saved; 361 entries, 4 msec
+2025/09/07 09:03:19 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/09/07 09:03:19 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/09/07 09:03:19 kid1| NETDB state saved; 361 entries, 2 msec
+2025/09/07 10:04:55 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/09/07 10:04:55 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/09/07 10:04:55 kid1| NETDB state saved; 361 entries, 4 msec
+2025/09/07 11:20:22 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/09/07 11:20:22 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/09/07 11:20:22 kid1| NETDB state saved; 361 entries, 1 msec
+2025/09/07 12:03:57 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/09/07 12:03:57 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/09/07 12:03:57 kid1| NETDB state saved; 361 entries, 2 msec
+2025/09/07 13:07:20 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/09/07 13:07:20 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/09/07 13:07:20 kid1| NETDB state saved; 361 entries, 4 msec
+2025/09/07 14:15:37 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/09/07 14:15:37 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/09/07 14:15:37 kid1| NETDB state saved; 361 entries, 1 msec
+2025/09/07 15:00:58 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/09/07 15:00:58 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/09/07 15:00:58 kid1| NETDB state saved; 361 entries, 2 msec
+2025/09/07 16:14:13 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/09/07 16:14:13 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/09/07 16:14:13 kid1| NETDB state saved; 361 entries, 6 msec
+2025/09/07 17:20:27 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/09/07 17:20:27 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/09/07 17:20:27 kid1| NETDB state saved; 361 entries, 1 msec
+2025/09/07 18:30:58 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/09/07 18:30:58 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/09/07 18:30:58 kid1| NETDB state saved; 361 entries, 1 msec
+2025/09/07 19:35:12 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/09/07 19:35:12 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/09/07 19:35:12 kid1| NETDB state saved; 361 entries, 4 msec
+2025/09/07 20:27:10 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/09/07 20:27:10 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/09/07 20:27:10 kid1| NETDB state saved; 361 entries, 1 msec
+2025/09/07 21:01:39 kid1| DNS error while resolving ipv6.msftconnecttest.com: No valid address records
+    current master transaction: master394917
+2025/09/07 21:01:39 kid1| DNS error while resolving ipv6.msftconnecttest.com: No valid address records
+    current master transaction: master394917
+2025/09/07 21:04:52 kid1| DNS error while resolving ipv6.msftncsi.com: No valid address records
+    current master transaction: master394929
+2025/09/07 21:04:52 kid1| DNS error while resolving ipv6.msftncsi.com: No valid address records
+    current master transaction: master394929
+2025/09/07 21:08:03 kid1| DNS error while resolving ipv6.msftconnecttest.com: No valid address records
+    current master transaction: master394933
+2025/09/07 21:08:03 kid1| DNS error while resolving ipv6.msftconnecttest.com: No valid address records
+    current master transaction: master394933
+2025/09/07 21:10:13 kid1| DNS error while resolving ipv6.msftconnecttest.com: No valid address records
+    current master transaction: master394953
+2025/09/07 21:10:13 kid1| DNS error while resolving ipv6.msftconnecttest.com: No valid address records
+    current master transaction: master394953
+2025/09/07 21:45:32 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/09/07 21:45:32 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/09/07 21:45:32 kid1| NETDB state saved; 361 entries, 3 msec
+2025/09/07 22:56:13 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/09/07 22:56:13 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/09/07 22:56:13 kid1| NETDB state saved; 361 entries, 2 msec
+2025/09/07 23:36:43 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/09/07 23:36:43 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/09/07 23:36:43 kid1| NETDB state saved; 361 entries, 3 msec
+2025/09/08 00:00:01 kid1| Closing Pinger socket on FD 12
+2025/09/08 00:00:01 kid1| log rotation failed: (2) No such file or directory
+2025/09/08 00:00:01 kid1| renaming file /var/log/squid/cache.log to /var/log/squid/cache.log.0failed: (2) No such file or directory
+2025/09/08 00:00:21| Pinger exiting.

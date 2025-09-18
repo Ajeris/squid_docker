@@ -1,0 +1,1543 @@
+2025/08/28 00:00:01 kid1| storeDirWriteCleanLogs: Starting...
+2025/08/28 00:00:01 kid1|   Finished.  Wrote 7998 entries.
+2025/08/28 00:00:01 kid1|   Took 0.00 seconds (3769085.77 entries/sec).
+2025/08/28 00:00:01 kid1| logfileRotate: daemon:/var/log/squid/access.log
+2025/08/28 00:00:01 kid1| logfileRotate: daemon:/var/log/squid/access.log
+2025/08/28 00:00:01 kid1| Pinger socket opened on FD 20
+2025/08/28 00:00:01 kid1| helperOpenServers: Starting 1/30 'negotiate_kerberos_auth' processes
+2025/08/28 00:00:01 kid1| helperOpenServers: Starting 1/30 'basic_ldap_auth' processes
+2025/08/28 00:00:01 kid1| helperOpenServers: Starting 1/5 'ext_kerberos_ldap_group_acl' processes
+2025/08/28 00:00:01 kid1| helperOpenServers: Starting 1/5 'ext_kerberos_ldap_group_acl' processes
+2025/08/28 00:00:01 kid1| helperOpenServers: Starting 1/5 'ext_kerberos_ldap_group_acl' processes
+2025/08/28 00:00:01 kid1| helperOpenServers: Starting 1/5 'ext_ldap_group_acl' processes
+2025/08/28 00:00:01| WARNING: BCP 177 violation. Detected non-functional IPv6 loopback.
+2025/08/28 00:00:01| pinger: Initialising ICMP pinger ...
+2025/08/28 00:00:01| pinger: ICMP socket opened.
+2025/08/28 00:00:01| pinger: ICMPv6 socket opened
+2025/08/28 00:12:33 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/08/28 00:12:33 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/08/28 00:12:33 kid1| NETDB state saved; 11 entries, 0 msec
+2025/08/28 00:56:53 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/08/28 00:56:53 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/08/28 00:56:53 kid1| NETDB state saved; 11 entries, 1 msec
+2025/08/28 01:52:37 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/08/28 01:52:37 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/08/28 01:52:37 kid1| NETDB state saved; 11 entries, 0 msec
+2025/08/28 02:38:14 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/08/28 02:38:14 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/08/28 02:38:14 kid1| NETDB state saved; 11 entries, 0 msec
+2025/08/28 03:49:25 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/08/28 03:49:25 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/08/28 03:49:25 kid1| NETDB state saved; 11 entries, 0 msec
+2025/08/28 04:35:20 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/08/28 04:35:20 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/08/28 04:35:20 kid1| NETDB state saved; 11 entries, 0 msec
+2025/08/28 05:47:19 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/08/28 05:47:19 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/08/28 05:47:19 kid1| NETDB state saved; 11 entries, 0 msec
+2025/08/28 06:54:32 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/08/28 06:54:32 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/08/28 06:54:32 kid1| NETDB state saved; 11 entries, 0 msec
+2025/08/28 07:41:14 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/08/28 07:41:14 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/08/28 07:41:14 kid1| NETDB state saved; 11 entries, 0 msec
+2025/08/28 08:31:52 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/08/28 08:31:52 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/08/28 08:31:52 kid1| NETDB state saved; 11 entries, 0 msec
+2025/08/28 09:21:38 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/08/28 09:21:38 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/08/28 09:21:38 kid1| NETDB state saved; 11 entries, 0 msec
+2025/08/28 10:08:10 kid1| DNS error while resolving ipv6.msftconnecttest.com: No valid address records
+    current master transaction: master1122
+2025/08/28 10:08:10 kid1| DNS error while resolving ipv6.msftconnecttest.com: No valid address records
+    current master transaction: master1122
+2025/08/28 10:40:23 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/08/28 10:40:23 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/08/28 10:40:23 kid1| NETDB state saved; 11 entries, 0 msec
+2025/08/28 10:46:11 kid1| Preparing for shutdown after 741 requests
+2025/08/28 10:46:11 kid1| Waiting 30 seconds for active connections to finish
+2025/08/28 10:46:11 kid1| Closing HTTP(S) port 0.0.0.0:8443
+2025/08/28 10:46:11 kid1| Closing HTTP(S) port 0.0.0.0:8080
+2025/08/28 10:46:11 kid1| Closing Pinger socket on FD 20
+2025/08/28 10:46:18| Pinger exiting.
+2025/08/28 10:46:42 kid1| Shutdown: NTLM authentication.
+2025/08/28 10:46:42 kid1| Shutdown: Negotiate authentication.
+2025/08/28 10:46:42 kid1| Shutdown: Digest authentication.
+2025/08/28 10:46:42 kid1| Shutdown: Basic authentication.
+2025/08/28 10:46:43 kid1| Shutting down...
+2025/08/28 10:46:43 kid1| Closing unlinkd pipe on FD 25
+2025/08/28 10:46:43 kid1| storeDirWriteCleanLogs: Starting...
+2025/08/28 10:46:43 kid1|   Finished.  Wrote 7998 entries.
+2025/08/28 10:46:43 kid1|   Took 0.00 seconds (3642076.50 entries/sec).
+CPU Usage: 20.569 seconds = 13.985 user + 6.584 sys
+Maximum Resident Size: 188016 KB
+Page faults with physical i/o: 0
+2025/08/28 10:46:43 kid1| Logfile: closing log daemon:/var/log/squid/access.log
+2025/08/28 10:46:43 kid1| Logfile Daemon: closing log daemon:/var/log/squid/access.log
+2025/08/28 10:46:43 kid1| Open FD UNSTARTED     5 IPC UNIX STREAM Parent
+2025/08/28 10:46:43 kid1| Open FD UNSTARTED    12 security_file_certgen #1
+2025/08/28 10:46:43 kid1| Open FD UNSTARTED    15 security_file_certgen #2
+2025/08/28 10:46:43 kid1| Open FD UNSTARTED    18 security_file_certgen #3
+2025/08/28 10:46:43 kid1| Open FD UNSTARTED    21 security_file_certgen #4
+2025/08/28 10:46:43 kid1| Open FD READ/WRITE   23 negotiate_kerberos_auth #1
+2025/08/28 10:46:43 kid1| Open FD UNSTARTED    26 security_file_certgen #5
+2025/08/28 10:46:43 kid1| Open FD UNSTARTED    27 basic_ldap_auth #1
+2025/08/28 10:46:43 kid1| Open FD READ/WRITE   33 ext_kerberos_ldap_group_acl #1
+2025/08/28 10:46:43 kid1| Open FD READ/WRITE   35 ext_kerberos_ldap_group_acl #1
+2025/08/28 10:46:43 kid1| Open FD READ/WRITE   37 ext_kerberos_ldap_group_acl #1
+2025/08/28 10:46:43 kid1| Open FD UNSTARTED    39 ext_ldap_group_acl #1
+2025/08/28 10:46:43 kid1| Squid Cache (Version 5.7): Exiting normally.
+2025/08/28 10:46:43 kid1| Set Current Directory to /var/spool/squid
+2025/08/28 10:46:43 kid1| Creating missing swap directories
+2025/08/28 10:46:43 kid1| /var/spool/squid exists
+2025/08/28 10:46:43 kid1| /var/spool/squid/00 exists
+2025/08/28 10:46:43 kid1| Making directories in /var/spool/squid/00
+2025/08/28 10:46:43 kid1| /var/spool/squid/01 exists
+2025/08/28 10:46:43 kid1| Making directories in /var/spool/squid/01
+2025/08/28 10:46:43 kid1| /var/spool/squid/02 exists
+2025/08/28 10:46:43 kid1| Making directories in /var/spool/squid/02
+2025/08/28 10:46:43 kid1| /var/spool/squid/03 exists
+2025/08/28 10:46:43 kid1| Making directories in /var/spool/squid/03
+2025/08/28 10:46:43 kid1| /var/spool/squid/04 exists
+2025/08/28 10:46:43 kid1| Making directories in /var/spool/squid/04
+2025/08/28 10:46:43 kid1| /var/spool/squid/05 exists
+2025/08/28 10:46:43 kid1| Making directories in /var/spool/squid/05
+2025/08/28 10:46:43 kid1| /var/spool/squid/06 exists
+2025/08/28 10:46:43 kid1| Making directories in /var/spool/squid/06
+2025/08/28 10:46:43 kid1| /var/spool/squid/07 exists
+2025/08/28 10:46:43 kid1| Making directories in /var/spool/squid/07
+2025/08/28 10:46:43 kid1| /var/spool/squid/08 exists
+2025/08/28 10:46:43 kid1| Making directories in /var/spool/squid/08
+2025/08/28 10:46:43 kid1| /var/spool/squid/09 exists
+2025/08/28 10:46:43 kid1| Making directories in /var/spool/squid/09
+2025/08/28 10:46:43 kid1| /var/spool/squid/0A exists
+2025/08/28 10:46:43 kid1| Making directories in /var/spool/squid/0A
+2025/08/28 10:46:43 kid1| /var/spool/squid/0B exists
+2025/08/28 10:46:43 kid1| Making directories in /var/spool/squid/0B
+2025/08/28 10:46:43 kid1| /var/spool/squid/0C exists
+2025/08/28 10:46:43 kid1| Making directories in /var/spool/squid/0C
+2025/08/28 10:46:43 kid1| /var/spool/squid/0D exists
+2025/08/28 10:46:43 kid1| Making directories in /var/spool/squid/0D
+2025/08/28 10:46:43 kid1| /var/spool/squid/0E exists
+2025/08/28 10:46:43 kid1| Making directories in /var/spool/squid/0E
+2025/08/28 10:46:43 kid1| /var/spool/squid/0F exists
+2025/08/28 10:46:43 kid1| Making directories in /var/spool/squid/0F
+2025/08/28 10:46:43| Removing PID file (/run/squid.pid)
+2025/08/28 10:46:43 kid1| Set Current Directory to /var/spool/squid
+2025/08/28 10:46:43 kid1| Starting Squid Cache version 5.7 for x86_64-pc-linux-gnu...
+2025/08/28 10:46:43 kid1| Service Name: squid
+2025/08/28 10:46:43 kid1| Process ID 426379
+2025/08/28 10:46:43 kid1| Process Roles: worker
+2025/08/28 10:46:43 kid1| With 1024 file descriptors available
+2025/08/28 10:46:43 kid1| Initializing IP Cache...
+2025/08/28 10:46:43 kid1| DNS Socket created at 0.0.0.0, FD 9
+2025/08/28 10:46:43 kid1| Adding nameserver 192.168.10.61 from squid.conf
+2025/08/28 10:46:43 kid1| helperOpenServers: Starting 5/5 'security_file_certgen' processes
+2025/08/28 10:46:43 kid1| helperOpenServers: Starting 0/30 'negotiate_kerberos_auth' processes
+2025/08/28 10:46:43 kid1| helperStatefulOpenServers: No 'negotiate_kerberos_auth' processes needed.
+2025/08/28 10:46:43 kid1| helperOpenServers: Starting 0/30 'basic_ldap_auth' processes
+2025/08/28 10:46:43 kid1| helperOpenServers: No 'basic_ldap_auth' processes needed.
+2025/08/28 10:46:43 kid1| helperOpenServers: Starting 0/5 'ext_kerberos_ldap_group_acl' processes
+2025/08/28 10:46:43 kid1| helperOpenServers: No 'ext_kerberos_ldap_group_acl' processes needed.
+2025/08/28 10:46:43 kid1| helperOpenServers: Starting 0/5 'ext_kerberos_ldap_group_acl' processes
+2025/08/28 10:46:43 kid1| helperOpenServers: No 'ext_kerberos_ldap_group_acl' processes needed.
+2025/08/28 10:46:43 kid1| helperOpenServers: Starting 0/5 'ext_kerberos_ldap_group_acl' processes
+2025/08/28 10:46:43 kid1| helperOpenServers: No 'ext_kerberos_ldap_group_acl' processes needed.
+2025/08/28 10:46:43 kid1| helperOpenServers: Starting 0/5 'ext_ldap_group_acl' processes
+2025/08/28 10:46:43 kid1| helperOpenServers: No 'ext_ldap_group_acl' processes needed.
+2025/08/28 10:46:43 kid1| Logfile: opening log daemon:/var/log/squid/access.log
+2025/08/28 10:46:43 kid1| Logfile Daemon: opening log /var/log/squid/access.log
+2025/08/28 10:46:44 kid1| Unlinkd pipe opened on FD 25
+2025/08/28 10:46:44 kid1| Local cache digest enabled; rebuild/rewrite every 3600/3600 sec
+2025/08/28 10:46:44 kid1| Store logging disabled
+2025/08/28 10:46:44 kid1| Swap maxSize 8388608 + 1048576 KB, estimated 725937 objects
+2025/08/28 10:46:44 kid1| Target number of buckets: 36296
+2025/08/28 10:46:44 kid1| Using 65536 Store buckets
+2025/08/28 10:46:44 kid1| Max Mem  size: 1048576 KB
+2025/08/28 10:46:44 kid1| Max Swap size: 8388608 KB
+2025/08/28 10:46:44 kid1| Rebuilding storage in /var/spool/squid (clean log)
+2025/08/28 10:46:44 kid1| Using Least Load store dir selection
+2025/08/28 10:46:44 kid1| Set Current Directory to /var/spool/squid
+2025/08/28 10:46:44 kid1| Finished loading MIME types and icons.
+2025/08/28 10:46:44 kid1| HTCP Disabled.
+2025/08/28 10:46:44 kid1| Pinger socket opened on FD 31
+2025/08/28 10:46:44 kid1| Squid plugin modules loaded: 0
+2025/08/28 10:46:44 kid1| Adaptation support is off.
+2025/08/28 10:46:44 kid1| Accepting HTTP Socket connections at conn12 local=0.0.0.0:8443 remote=[::] FD 28 flags=9
+2025/08/28 10:46:44 kid1| Accepting SSL bumped HTTP Socket connections at conn14 local=0.0.0.0:8080 remote=[::] FD 29 flags=9
+2025/08/28 10:46:44 kid1| Store rebuilding is 50.01% complete
+2025/08/28 10:46:44| WARNING: BCP 177 violation. Detected non-functional IPv6 loopback.
+2025/08/28 10:46:44| pinger: Initialising ICMP pinger ...
+2025/08/28 10:46:44| pinger: ICMP socket opened.
+2025/08/28 10:46:44| pinger: ICMPv6 socket opened
+2025/08/28 10:46:44 kid1| Done reading /var/spool/squid swaplog (7998 entries)
+2025/08/28 10:46:44 kid1| Finished rebuilding storage from disk.
+2025/08/28 10:46:44 kid1|      7998 Entries scanned
+2025/08/28 10:46:44 kid1|         0 Invalid entries.
+2025/08/28 10:46:44 kid1|         0 With invalid flags.
+2025/08/28 10:46:44 kid1|      7998 Objects loaded.
+2025/08/28 10:46:44 kid1|         0 Objects expired.
+2025/08/28 10:46:44 kid1|         0 Objects cancelled.
+2025/08/28 10:46:44 kid1|         0 Duplicate URLs purged.
+2025/08/28 10:46:44 kid1|         0 Swapfile clashes avoided.
+2025/08/28 10:46:44 kid1|   Took 0.06 seconds (126582.68 objects/sec).
+2025/08/28 10:46:44 kid1| Beginning Validation Procedure
+2025/08/28 10:46:44 kid1|   Completed Validation Procedure
+2025/08/28 10:46:44 kid1|   Validated 7998 Entries
+2025/08/28 10:46:44 kid1|   store_swap_size = 207160.00 KB
+2025/08/28 10:46:45 kid1| storeLateRelease: released 0 objects
+2025/08/28 10:48:00 kid1| Starting new basicauthenticator helpers...
+    current master transaction: master60
+2025/08/28 10:48:00 kid1| helperOpenServers: Starting 1/30 'basic_ldap_auth' processes
+    current master transaction: master60
+2025/08/28 10:49:14 kid1| Preparing for shutdown after 5 requests
+2025/08/28 10:49:14 kid1| Waiting 30 seconds for active connections to finish
+2025/08/28 10:49:14 kid1| Closing HTTP(S) port 0.0.0.0:8443
+2025/08/28 10:49:14 kid1| Closing HTTP(S) port 0.0.0.0:8080
+2025/08/28 10:49:14 kid1| Closing Pinger socket on FD 31
+2025/08/28 10:49:24| Pinger exiting.
+2025/08/28 10:49:45 kid1| Shutdown: NTLM authentication.
+2025/08/28 10:49:45 kid1| Shutdown: Negotiate authentication.
+2025/08/28 10:49:45 kid1| Shutdown: Digest authentication.
+2025/08/28 10:49:45 kid1| Shutdown: Basic authentication.
+2025/08/28 10:49:46 kid1| Shutting down...
+2025/08/28 10:49:46 kid1| Closing unlinkd pipe on FD 25
+2025/08/28 10:49:46 kid1| storeDirWriteCleanLogs: Starting...
+2025/08/28 10:49:46 kid1|   Finished.  Wrote 7998 entries.
+2025/08/28 10:49:46 kid1|   Took 0.00 seconds (4009022.56 entries/sec).
+CPU Usage: 0.196 seconds = 0.131 user + 0.065 sys
+Maximum Resident Size: 112448 KB
+Page faults with physical i/o: 0
+2025/08/28 10:49:46 kid1| Logfile: closing log daemon:/var/log/squid/access.log
+2025/08/28 10:49:46 kid1| Logfile Daemon: closing log daemon:/var/log/squid/access.log
+2025/08/28 10:49:46 kid1| Open FD UNSTARTED    10 security_file_certgen #1
+2025/08/28 10:49:46 kid1| Open FD UNSTARTED    12 security_file_certgen #2
+2025/08/28 10:49:46 kid1| Open FD UNSTARTED    14 security_file_certgen #3
+2025/08/28 10:49:46 kid1| Open FD READ/WRITE   15 basic_ldap_auth #1
+2025/08/28 10:49:46 kid1| Open FD UNSTARTED    16 security_file_certgen #4
+2025/08/28 10:49:46 kid1| Open FD UNSTARTED    18 security_file_certgen #5
+2025/08/28 10:49:46 kid1| Open FD UNSTARTED    20 IPC UNIX STREAM Parent
+2025/08/28 10:49:46 kid1| Squid Cache (Version 5.7): Exiting normally.
+2025/08/28 10:49:46| Removing PID file (/run/squid.pid)
+2025/08/28 10:49:46 kid1| Set Current Directory to /var/spool/squid
+2025/08/28 10:49:46 kid1| Creating missing swap directories
+2025/08/28 10:49:46 kid1| /var/spool/squid exists
+2025/08/28 10:49:46 kid1| /var/spool/squid/00 exists
+2025/08/28 10:49:46 kid1| Making directories in /var/spool/squid/00
+2025/08/28 10:49:46 kid1| /var/spool/squid/01 exists
+2025/08/28 10:49:46 kid1| Making directories in /var/spool/squid/01
+2025/08/28 10:49:46 kid1| /var/spool/squid/02 exists
+2025/08/28 10:49:46 kid1| Making directories in /var/spool/squid/02
+2025/08/28 10:49:46 kid1| /var/spool/squid/03 exists
+2025/08/28 10:49:46 kid1| Making directories in /var/spool/squid/03
+2025/08/28 10:49:46 kid1| /var/spool/squid/04 exists
+2025/08/28 10:49:46 kid1| Making directories in /var/spool/squid/04
+2025/08/28 10:49:46 kid1| /var/spool/squid/05 exists
+2025/08/28 10:49:46 kid1| Making directories in /var/spool/squid/05
+2025/08/28 10:49:46 kid1| /var/spool/squid/06 exists
+2025/08/28 10:49:46 kid1| Making directories in /var/spool/squid/06
+2025/08/28 10:49:46 kid1| /var/spool/squid/07 exists
+2025/08/28 10:49:46 kid1| Making directories in /var/spool/squid/07
+2025/08/28 10:49:46 kid1| /var/spool/squid/08 exists
+2025/08/28 10:49:46 kid1| Making directories in /var/spool/squid/08
+2025/08/28 10:49:46 kid1| /var/spool/squid/09 exists
+2025/08/28 10:49:46 kid1| Making directories in /var/spool/squid/09
+2025/08/28 10:49:46 kid1| /var/spool/squid/0A exists
+2025/08/28 10:49:46 kid1| Making directories in /var/spool/squid/0A
+2025/08/28 10:49:46 kid1| /var/spool/squid/0B exists
+2025/08/28 10:49:46 kid1| Making directories in /var/spool/squid/0B
+2025/08/28 10:49:46 kid1| /var/spool/squid/0C exists
+2025/08/28 10:49:46 kid1| Making directories in /var/spool/squid/0C
+2025/08/28 10:49:46 kid1| /var/spool/squid/0D exists
+2025/08/28 10:49:46 kid1| Making directories in /var/spool/squid/0D
+2025/08/28 10:49:46 kid1| /var/spool/squid/0E exists
+2025/08/28 10:49:46 kid1| Making directories in /var/spool/squid/0E
+2025/08/28 10:49:46 kid1| /var/spool/squid/0F exists
+2025/08/28 10:49:46 kid1| Making directories in /var/spool/squid/0F
+2025/08/28 10:49:46| Removing PID file (/run/squid.pid)
+2025/08/28 10:49:46 kid1| Set Current Directory to /var/spool/squid
+2025/08/28 10:49:46 kid1| Starting Squid Cache version 5.7 for x86_64-pc-linux-gnu...
+2025/08/28 10:49:46 kid1| Service Name: squid
+2025/08/28 10:49:46 kid1| Process ID 427798
+2025/08/28 10:49:46 kid1| Process Roles: worker
+2025/08/28 10:49:46 kid1| With 1024 file descriptors available
+2025/08/28 10:49:46 kid1| Initializing IP Cache...
+2025/08/28 10:49:46 kid1| DNS Socket created at 0.0.0.0, FD 9
+2025/08/28 10:49:46 kid1| Adding nameserver 192.168.10.61 from squid.conf
+2025/08/28 10:49:46 kid1| helperOpenServers: Starting 5/5 'security_file_certgen' processes
+2025/08/28 10:49:46 kid1| helperOpenServers: Starting 0/30 'negotiate_kerberos_auth' processes
+2025/08/28 10:49:46 kid1| helperStatefulOpenServers: No 'negotiate_kerberos_auth' processes needed.
+2025/08/28 10:49:46 kid1| helperOpenServers: Starting 0/30 'basic_ldap_auth' processes
+2025/08/28 10:49:46 kid1| helperOpenServers: No 'basic_ldap_auth' processes needed.
+2025/08/28 10:49:46 kid1| helperOpenServers: Starting 0/5 'ext_kerberos_ldap_group_acl' processes
+2025/08/28 10:49:46 kid1| helperOpenServers: No 'ext_kerberos_ldap_group_acl' processes needed.
+2025/08/28 10:49:46 kid1| helperOpenServers: Starting 0/5 'ext_kerberos_ldap_group_acl' processes
+2025/08/28 10:49:46 kid1| helperOpenServers: No 'ext_kerberos_ldap_group_acl' processes needed.
+2025/08/28 10:49:46 kid1| helperOpenServers: Starting 0/5 'ext_kerberos_ldap_group_acl' processes
+2025/08/28 10:49:46 kid1| helperOpenServers: No 'ext_kerberos_ldap_group_acl' processes needed.
+2025/08/28 10:49:46 kid1| helperOpenServers: Starting 0/5 'ext_ldap_group_acl' processes
+2025/08/28 10:49:46 kid1| helperOpenServers: No 'ext_ldap_group_acl' processes needed.
+2025/08/28 10:49:46 kid1| Logfile: opening log daemon:/var/log/squid/access.log
+2025/08/28 10:49:46 kid1| Logfile Daemon: opening log /var/log/squid/access.log
+2025/08/28 10:49:46 kid1| Unlinkd pipe opened on FD 25
+2025/08/28 10:49:46 kid1| Local cache digest enabled; rebuild/rewrite every 3600/3600 sec
+2025/08/28 10:49:46 kid1| Store logging disabled
+2025/08/28 10:49:46 kid1| Swap maxSize 8388608 + 1048576 KB, estimated 725937 objects
+2025/08/28 10:49:46 kid1| Target number of buckets: 36296
+2025/08/28 10:49:46 kid1| Using 65536 Store buckets
+2025/08/28 10:49:46 kid1| Max Mem  size: 1048576 KB
+2025/08/28 10:49:46 kid1| Max Swap size: 8388608 KB
+2025/08/28 10:49:46 kid1| Rebuilding storage in /var/spool/squid (clean log)
+2025/08/28 10:49:46 kid1| Using Least Load store dir selection
+2025/08/28 10:49:46 kid1| Set Current Directory to /var/spool/squid
+2025/08/28 10:49:46 kid1| Finished loading MIME types and icons.
+2025/08/28 10:49:46 kid1| HTCP Disabled.
+2025/08/28 10:49:46 kid1| Pinger socket opened on FD 31
+2025/08/28 10:49:46 kid1| Squid plugin modules loaded: 0
+2025/08/28 10:49:46 kid1| Adaptation support is off.
+2025/08/28 10:49:46 kid1| Accepting HTTP Socket connections at conn12 local=0.0.0.0:8443 remote=[::] FD 28 flags=9
+2025/08/28 10:49:46 kid1| Accepting SSL bumped HTTP Socket connections at conn14 local=0.0.0.0:8080 remote=[::] FD 29 flags=9
+2025/08/28 10:49:46 kid1| Store rebuilding is 50.01% complete
+2025/08/28 10:49:46| WARNING: BCP 177 violation. Detected non-functional IPv6 loopback.
+2025/08/28 10:49:46| pinger: Initialising ICMP pinger ...
+2025/08/28 10:49:46| pinger: ICMP socket opened.
+2025/08/28 10:49:46| pinger: ICMPv6 socket opened
+2025/08/28 10:49:46 kid1| Done reading /var/spool/squid swaplog (7998 entries)
+2025/08/28 10:49:46 kid1| Finished rebuilding storage from disk.
+2025/08/28 10:49:46 kid1|      7998 Entries scanned
+2025/08/28 10:49:46 kid1|         0 Invalid entries.
+2025/08/28 10:49:46 kid1|         0 With invalid flags.
+2025/08/28 10:49:46 kid1|      7998 Objects loaded.
+2025/08/28 10:49:46 kid1|         0 Objects expired.
+2025/08/28 10:49:46 kid1|         0 Objects cancelled.
+2025/08/28 10:49:46 kid1|         0 Duplicate URLs purged.
+2025/08/28 10:49:46 kid1|         0 Swapfile clashes avoided.
+2025/08/28 10:49:46 kid1|   Took 0.06 seconds (126855.73 objects/sec).
+2025/08/28 10:49:46 kid1| Beginning Validation Procedure
+2025/08/28 10:49:46 kid1|   Completed Validation Procedure
+2025/08/28 10:49:46 kid1|   Validated 7998 Entries
+2025/08/28 10:49:46 kid1|   store_swap_size = 207160.00 KB
+2025/08/28 10:49:47 kid1| storeLateRelease: released 0 objects
+2025/08/28 10:49:51 kid1| Starting new basicauthenticator helpers...
+    current master transaction: master58
+2025/08/28 10:49:51 kid1| helperOpenServers: Starting 1/30 'basic_ldap_auth' processes
+    current master transaction: master58
+2025/08/28 10:50:55 kid1| Preparing for shutdown after 3 requests
+2025/08/28 10:50:55 kid1| Waiting 30 seconds for active connections to finish
+2025/08/28 10:50:55 kid1| Closing HTTP(S) port 0.0.0.0:8443
+2025/08/28 10:50:55 kid1| Closing HTTP(S) port 0.0.0.0:8080
+2025/08/28 10:50:55 kid1| Closing Pinger socket on FD 31
+2025/08/28 10:51:06| Pinger exiting.
+2025/08/28 10:51:26 kid1| Shutdown: NTLM authentication.
+2025/08/28 10:51:26 kid1| Shutdown: Negotiate authentication.
+2025/08/28 10:51:26 kid1| Shutdown: Digest authentication.
+2025/08/28 10:51:26 kid1| Shutdown: Basic authentication.
+2025/08/28 10:51:26 kid1| Shutting down...
+2025/08/28 10:51:26 kid1| Closing unlinkd pipe on FD 25
+2025/08/28 10:51:26 kid1| storeDirWriteCleanLogs: Starting...
+2025/08/28 10:51:26 kid1|   Finished.  Wrote 7998 entries.
+2025/08/28 10:51:26 kid1|   Took 0.00 seconds (3668807.34 entries/sec).
+CPU Usage: 0.181 seconds = 0.111 user + 0.070 sys
+Maximum Resident Size: 112640 KB
+Page faults with physical i/o: 0
+2025/08/28 10:51:26 kid1| Logfile: closing log daemon:/var/log/squid/access.log
+2025/08/28 10:51:26 kid1| Logfile Daemon: closing log daemon:/var/log/squid/access.log
+2025/08/28 10:51:26 kid1| Open FD UNSTARTED    10 security_file_certgen #1
+2025/08/28 10:51:26 kid1| Open FD UNSTARTED    12 security_file_certgen #2
+2025/08/28 10:51:26 kid1| Open FD UNSTARTED    14 security_file_certgen #3
+2025/08/28 10:51:26 kid1| Open FD READ/WRITE   15 basic_ldap_auth #1
+2025/08/28 10:51:26 kid1| Open FD UNSTARTED    16 security_file_certgen #4
+2025/08/28 10:51:26 kid1| Open FD UNSTARTED    18 security_file_certgen #5
+2025/08/28 10:51:26 kid1| Open FD UNSTARTED    20 IPC UNIX STREAM Parent
+2025/08/28 10:51:26 kid1| Squid Cache (Version 5.7): Exiting normally.
+2025/08/28 10:51:26| Removing PID file (/run/squid.pid)
+2025/08/28 10:51:26 kid1| Set Current Directory to /var/spool/squid
+2025/08/28 10:51:26 kid1| Creating missing swap directories
+2025/08/28 10:51:26 kid1| /var/spool/squid exists
+2025/08/28 10:51:26 kid1| /var/spool/squid/00 exists
+2025/08/28 10:51:26 kid1| Making directories in /var/spool/squid/00
+2025/08/28 10:51:26 kid1| /var/spool/squid/01 exists
+2025/08/28 10:51:26 kid1| Making directories in /var/spool/squid/01
+2025/08/28 10:51:26 kid1| /var/spool/squid/02 exists
+2025/08/28 10:51:26 kid1| Making directories in /var/spool/squid/02
+2025/08/28 10:51:26 kid1| /var/spool/squid/03 exists
+2025/08/28 10:51:26 kid1| Making directories in /var/spool/squid/03
+2025/08/28 10:51:26 kid1| /var/spool/squid/04 exists
+2025/08/28 10:51:26 kid1| Making directories in /var/spool/squid/04
+2025/08/28 10:51:26 kid1| /var/spool/squid/05 exists
+2025/08/28 10:51:26 kid1| Making directories in /var/spool/squid/05
+2025/08/28 10:51:26 kid1| /var/spool/squid/06 exists
+2025/08/28 10:51:26 kid1| Making directories in /var/spool/squid/06
+2025/08/28 10:51:26 kid1| /var/spool/squid/07 exists
+2025/08/28 10:51:26 kid1| Making directories in /var/spool/squid/07
+2025/08/28 10:51:26 kid1| /var/spool/squid/08 exists
+2025/08/28 10:51:26 kid1| Making directories in /var/spool/squid/08
+2025/08/28 10:51:26 kid1| /var/spool/squid/09 exists
+2025/08/28 10:51:26 kid1| Making directories in /var/spool/squid/09
+2025/08/28 10:51:26 kid1| /var/spool/squid/0A exists
+2025/08/28 10:51:26 kid1| Making directories in /var/spool/squid/0A
+2025/08/28 10:51:26 kid1| /var/spool/squid/0B exists
+2025/08/28 10:51:26 kid1| Making directories in /var/spool/squid/0B
+2025/08/28 10:51:26 kid1| /var/spool/squid/0C exists
+2025/08/28 10:51:26 kid1| Making directories in /var/spool/squid/0C
+2025/08/28 10:51:26 kid1| /var/spool/squid/0D exists
+2025/08/28 10:51:26 kid1| Making directories in /var/spool/squid/0D
+2025/08/28 10:51:26 kid1| /var/spool/squid/0E exists
+2025/08/28 10:51:26 kid1| Making directories in /var/spool/squid/0E
+2025/08/28 10:51:26 kid1| /var/spool/squid/0F exists
+2025/08/28 10:51:26 kid1| Making directories in /var/spool/squid/0F
+2025/08/28 10:51:26| Removing PID file (/run/squid.pid)
+2025/08/28 10:51:27 kid1| Set Current Directory to /var/spool/squid
+2025/08/28 10:51:27 kid1| Starting Squid Cache version 5.7 for x86_64-pc-linux-gnu...
+2025/08/28 10:51:27 kid1| Service Name: squid
+2025/08/28 10:51:27 kid1| Process ID 428296
+2025/08/28 10:51:27 kid1| Process Roles: worker
+2025/08/28 10:51:27 kid1| With 1024 file descriptors available
+2025/08/28 10:51:27 kid1| Initializing IP Cache...
+2025/08/28 10:51:27 kid1| DNS Socket created at 0.0.0.0, FD 9
+2025/08/28 10:51:27 kid1| Adding nameserver 192.168.10.61 from squid.conf
+2025/08/28 10:51:27 kid1| helperOpenServers: Starting 5/5 'security_file_certgen' processes
+2025/08/28 10:51:27 kid1| helperOpenServers: Starting 0/30 'negotiate_kerberos_auth' processes
+2025/08/28 10:51:27 kid1| helperStatefulOpenServers: No 'negotiate_kerberos_auth' processes needed.
+2025/08/28 10:51:27 kid1| helperOpenServers: Starting 0/30 'basic_ldap_auth' processes
+2025/08/28 10:51:27 kid1| helperOpenServers: No 'basic_ldap_auth' processes needed.
+2025/08/28 10:51:27 kid1| helperOpenServers: Starting 0/5 'ext_kerberos_ldap_group_acl' processes
+2025/08/28 10:51:27 kid1| helperOpenServers: No 'ext_kerberos_ldap_group_acl' processes needed.
+2025/08/28 10:51:27 kid1| helperOpenServers: Starting 0/5 'ext_kerberos_ldap_group_acl' processes
+2025/08/28 10:51:27 kid1| helperOpenServers: No 'ext_kerberos_ldap_group_acl' processes needed.
+2025/08/28 10:51:27 kid1| helperOpenServers: Starting 0/5 'ext_kerberos_ldap_group_acl' processes
+2025/08/28 10:51:27 kid1| helperOpenServers: No 'ext_kerberos_ldap_group_acl' processes needed.
+2025/08/28 10:51:27 kid1| helperOpenServers: Starting 0/5 'ext_ldap_group_acl' processes
+2025/08/28 10:51:27 kid1| helperOpenServers: No 'ext_ldap_group_acl' processes needed.
+2025/08/28 10:51:27 kid1| Logfile: opening log daemon:/var/log/squid/access.log
+2025/08/28 10:51:27 kid1| Logfile Daemon: opening log /var/log/squid/access.log
+2025/08/28 10:51:27 kid1| Unlinkd pipe opened on FD 25
+2025/08/28 10:51:27 kid1| Local cache digest enabled; rebuild/rewrite every 3600/3600 sec
+2025/08/28 10:51:27 kid1| Store logging disabled
+2025/08/28 10:51:27 kid1| Swap maxSize 8388608 + 1048576 KB, estimated 725937 objects
+2025/08/28 10:51:27 kid1| Target number of buckets: 36296
+2025/08/28 10:51:27 kid1| Using 65536 Store buckets
+2025/08/28 10:51:27 kid1| Max Mem  size: 1048576 KB
+2025/08/28 10:51:27 kid1| Max Swap size: 8388608 KB
+2025/08/28 10:51:27 kid1| Rebuilding storage in /var/spool/squid (clean log)
+2025/08/28 10:51:27 kid1| Using Least Load store dir selection
+2025/08/28 10:51:27 kid1| Set Current Directory to /var/spool/squid
+2025/08/28 10:51:27 kid1| Finished loading MIME types and icons.
+2025/08/28 10:51:27 kid1| HTCP Disabled.
+2025/08/28 10:51:27 kid1| Pinger socket opened on FD 31
+2025/08/28 10:51:27 kid1| Squid plugin modules loaded: 0
+2025/08/28 10:51:27 kid1| Adaptation support is off.
+2025/08/28 10:51:27 kid1| Accepting HTTP Socket connections at conn12 local=0.0.0.0:8443 remote=[::] FD 28 flags=9
+2025/08/28 10:51:27 kid1| Accepting SSL bumped HTTP Socket connections at conn14 local=0.0.0.0:8080 remote=[::] FD 29 flags=9
+2025/08/28 10:51:27 kid1| Store rebuilding is 50.01% complete
+2025/08/28 10:51:27| WARNING: BCP 177 violation. Detected non-functional IPv6 loopback.
+2025/08/28 10:51:27| pinger: Initialising ICMP pinger ...
+2025/08/28 10:51:27| pinger: ICMP socket opened.
+2025/08/28 10:51:27| pinger: ICMPv6 socket opened
+2025/08/28 10:51:27 kid1| Done reading /var/spool/squid swaplog (7998 entries)
+2025/08/28 10:51:27 kid1| Finished rebuilding storage from disk.
+2025/08/28 10:51:27 kid1|      7998 Entries scanned
+2025/08/28 10:51:27 kid1|         0 Invalid entries.
+2025/08/28 10:51:27 kid1|         0 With invalid flags.
+2025/08/28 10:51:27 kid1|      7998 Objects loaded.
+2025/08/28 10:51:27 kid1|         0 Objects expired.
+2025/08/28 10:51:27 kid1|         0 Objects cancelled.
+2025/08/28 10:51:27 kid1|         0 Duplicate URLs purged.
+2025/08/28 10:51:27 kid1|         0 Swapfile clashes avoided.
+2025/08/28 10:51:27 kid1|   Took 0.06 seconds (132707.24 objects/sec).
+2025/08/28 10:51:27 kid1| Beginning Validation Procedure
+2025/08/28 10:51:27 kid1|   Completed Validation Procedure
+2025/08/28 10:51:27 kid1|   Validated 7998 Entries
+2025/08/28 10:51:27 kid1|   store_swap_size = 207160.00 KB
+2025/08/28 10:51:28 kid1| storeLateRelease: released 0 objects
+2025/08/28 10:51:33 kid1| Starting new basicauthenticator helpers...
+    current master transaction: master60
+2025/08/28 10:51:33 kid1| helperOpenServers: Starting 1/30 'basic_ldap_auth' processes
+    current master transaction: master60
+2025/08/28 10:52:06 kid1| Preparing for shutdown after 7 requests
+2025/08/28 10:52:06 kid1| Waiting 30 seconds for active connections to finish
+2025/08/28 10:52:06 kid1| Closing HTTP(S) port 0.0.0.0:8443
+2025/08/28 10:52:06 kid1| Closing HTTP(S) port 0.0.0.0:8080
+2025/08/28 10:52:06 kid1| Closing Pinger socket on FD 31
+2025/08/28 10:52:07| Pinger exiting.
+2025/08/28 10:52:37 kid1| Shutdown: NTLM authentication.
+2025/08/28 10:52:37 kid1| Shutdown: Negotiate authentication.
+2025/08/28 10:52:37 kid1| Shutdown: Digest authentication.
+2025/08/28 10:52:37 kid1| Shutdown: Basic authentication.
+2025/08/28 10:52:38 kid1| Shutting down...
+2025/08/28 10:52:38 kid1| Closing unlinkd pipe on FD 25
+2025/08/28 10:52:38 kid1| storeDirWriteCleanLogs: Starting...
+2025/08/28 10:52:38 kid1|   Finished.  Wrote 7998 entries.
+2025/08/28 10:52:38 kid1|   Took 0.00 seconds (4536585.37 entries/sec).
+CPU Usage: 0.175 seconds = 0.121 user + 0.053 sys
+Maximum Resident Size: 111952 KB
+Page faults with physical i/o: 0
+2025/08/28 10:52:38 kid1| Logfile: closing log daemon:/var/log/squid/access.log
+2025/08/28 10:52:38 kid1| Logfile Daemon: closing log daemon:/var/log/squid/access.log
+2025/08/28 10:52:38 kid1| Open FD UNSTARTED    10 security_file_certgen #1
+2025/08/28 10:52:38 kid1| Open FD UNSTARTED    12 security_file_certgen #2
+2025/08/28 10:52:38 kid1| Open FD UNSTARTED    14 security_file_certgen #3
+2025/08/28 10:52:38 kid1| Open FD READ/WRITE   15 basic_ldap_auth #1
+2025/08/28 10:52:38 kid1| Open FD UNSTARTED    16 security_file_certgen #4
+2025/08/28 10:52:38 kid1| Open FD UNSTARTED    18 security_file_certgen #5
+2025/08/28 10:52:38 kid1| Open FD UNSTARTED    20 IPC UNIX STREAM Parent
+2025/08/28 10:52:38 kid1| Squid Cache (Version 5.7): Exiting normally.
+2025/08/28 10:52:38| Removing PID file (/run/squid.pid)
+2025/08/28 10:52:38 kid1| Set Current Directory to /var/spool/squid
+2025/08/28 10:52:38 kid1| Creating missing swap directories
+2025/08/28 10:52:38 kid1| /var/spool/squid exists
+2025/08/28 10:52:38 kid1| /var/spool/squid/00 exists
+2025/08/28 10:52:38 kid1| Making directories in /var/spool/squid/00
+2025/08/28 10:52:38 kid1| /var/spool/squid/01 exists
+2025/08/28 10:52:38 kid1| Making directories in /var/spool/squid/01
+2025/08/28 10:52:38 kid1| /var/spool/squid/02 exists
+2025/08/28 10:52:38 kid1| Making directories in /var/spool/squid/02
+2025/08/28 10:52:38 kid1| /var/spool/squid/03 exists
+2025/08/28 10:52:38 kid1| Making directories in /var/spool/squid/03
+2025/08/28 10:52:38 kid1| /var/spool/squid/04 exists
+2025/08/28 10:52:38 kid1| Making directories in /var/spool/squid/04
+2025/08/28 10:52:38 kid1| /var/spool/squid/05 exists
+2025/08/28 10:52:38 kid1| Making directories in /var/spool/squid/05
+2025/08/28 10:52:38 kid1| /var/spool/squid/06 exists
+2025/08/28 10:52:38 kid1| Making directories in /var/spool/squid/06
+2025/08/28 10:52:38 kid1| /var/spool/squid/07 exists
+2025/08/28 10:52:38 kid1| Making directories in /var/spool/squid/07
+2025/08/28 10:52:38 kid1| /var/spool/squid/08 exists
+2025/08/28 10:52:38 kid1| Making directories in /var/spool/squid/08
+2025/08/28 10:52:38 kid1| /var/spool/squid/09 exists
+2025/08/28 10:52:38 kid1| Making directories in /var/spool/squid/09
+2025/08/28 10:52:38 kid1| /var/spool/squid/0A exists
+2025/08/28 10:52:38 kid1| Making directories in /var/spool/squid/0A
+2025/08/28 10:52:38 kid1| /var/spool/squid/0B exists
+2025/08/28 10:52:38 kid1| Making directories in /var/spool/squid/0B
+2025/08/28 10:52:38 kid1| /var/spool/squid/0C exists
+2025/08/28 10:52:38 kid1| Making directories in /var/spool/squid/0C
+2025/08/28 10:52:38 kid1| /var/spool/squid/0D exists
+2025/08/28 10:52:38 kid1| Making directories in /var/spool/squid/0D
+2025/08/28 10:52:38 kid1| /var/spool/squid/0E exists
+2025/08/28 10:52:38 kid1| Making directories in /var/spool/squid/0E
+2025/08/28 10:52:38 kid1| /var/spool/squid/0F exists
+2025/08/28 10:52:38 kid1| Making directories in /var/spool/squid/0F
+2025/08/28 10:52:38| Removing PID file (/run/squid.pid)
+2025/08/28 10:52:38 kid1| Set Current Directory to /var/spool/squid
+2025/08/28 10:52:38 kid1| Starting Squid Cache version 5.7 for x86_64-pc-linux-gnu...
+2025/08/28 10:52:38 kid1| Service Name: squid
+2025/08/28 10:52:38 kid1| Process ID 428724
+2025/08/28 10:52:38 kid1| Process Roles: worker
+2025/08/28 10:52:38 kid1| With 1024 file descriptors available
+2025/08/28 10:52:38 kid1| Initializing IP Cache...
+2025/08/28 10:52:38 kid1| DNS Socket created at 0.0.0.0, FD 9
+2025/08/28 10:52:38 kid1| Adding nameserver 192.168.10.61 from squid.conf
+2025/08/28 10:52:38 kid1| helperOpenServers: Starting 5/5 'security_file_certgen' processes
+2025/08/28 10:52:38 kid1| helperOpenServers: Starting 0/30 'negotiate_kerberos_auth' processes
+2025/08/28 10:52:38 kid1| helperStatefulOpenServers: No 'negotiate_kerberos_auth' processes needed.
+2025/08/28 10:52:38 kid1| helperOpenServers: Starting 0/30 'basic_ldap_auth' processes
+2025/08/28 10:52:38 kid1| helperOpenServers: No 'basic_ldap_auth' processes needed.
+2025/08/28 10:52:38 kid1| helperOpenServers: Starting 0/5 'ext_kerberos_ldap_group_acl' processes
+2025/08/28 10:52:38 kid1| helperOpenServers: No 'ext_kerberos_ldap_group_acl' processes needed.
+2025/08/28 10:52:38 kid1| helperOpenServers: Starting 0/5 'ext_kerberos_ldap_group_acl' processes
+2025/08/28 10:52:38 kid1| helperOpenServers: No 'ext_kerberos_ldap_group_acl' processes needed.
+2025/08/28 10:52:38 kid1| helperOpenServers: Starting 0/5 'ext_kerberos_ldap_group_acl' processes
+2025/08/28 10:52:38 kid1| helperOpenServers: No 'ext_kerberos_ldap_group_acl' processes needed.
+2025/08/28 10:52:38 kid1| helperOpenServers: Starting 0/5 'ext_ldap_group_acl' processes
+2025/08/28 10:52:38 kid1| helperOpenServers: No 'ext_ldap_group_acl' processes needed.
+2025/08/28 10:52:38 kid1| Logfile: opening log daemon:/var/log/squid/access.log
+2025/08/28 10:52:38 kid1| Logfile Daemon: opening log /var/log/squid/access.log
+2025/08/28 10:52:38 kid1| Unlinkd pipe opened on FD 25
+2025/08/28 10:52:38 kid1| Local cache digest enabled; rebuild/rewrite every 3600/3600 sec
+2025/08/28 10:52:38 kid1| Store logging disabled
+2025/08/28 10:52:38 kid1| Swap maxSize 8388608 + 1048576 KB, estimated 725937 objects
+2025/08/28 10:52:38 kid1| Target number of buckets: 36296
+2025/08/28 10:52:38 kid1| Using 65536 Store buckets
+2025/08/28 10:52:38 kid1| Max Mem  size: 1048576 KB
+2025/08/28 10:52:38 kid1| Max Swap size: 8388608 KB
+2025/08/28 10:52:38 kid1| Rebuilding storage in /var/spool/squid (clean log)
+2025/08/28 10:52:38 kid1| Using Least Load store dir selection
+2025/08/28 10:52:38 kid1| Set Current Directory to /var/spool/squid
+2025/08/28 10:52:38 kid1| Finished loading MIME types and icons.
+2025/08/28 10:52:38 kid1| HTCP Disabled.
+2025/08/28 10:52:38 kid1| Pinger socket opened on FD 32
+2025/08/28 10:52:38 kid1| Squid plugin modules loaded: 0
+2025/08/28 10:52:38 kid1| Adaptation support is off.
+2025/08/28 10:52:38 kid1| Accepting HTTP Socket connections at conn12 local=0.0.0.0:3128 remote=[::] FD 28 flags=9
+2025/08/28 10:52:38 kid1| Accepting HTTP Socket connections at conn14 local=0.0.0.0:8443 remote=[::] FD 29 flags=9
+2025/08/28 10:52:38 kid1| Accepting SSL bumped HTTP Socket connections at conn16 local=0.0.0.0:8080 remote=[::] FD 30 flags=9
+2025/08/28 10:52:38 kid1| Store rebuilding is 50.01% complete
+2025/08/28 10:52:38| WARNING: BCP 177 violation. Detected non-functional IPv6 loopback.
+2025/08/28 10:52:38| pinger: Initialising ICMP pinger ...
+2025/08/28 10:52:38| pinger: ICMP socket opened.
+2025/08/28 10:52:38| pinger: ICMPv6 socket opened
+2025/08/28 10:52:38 kid1| Done reading /var/spool/squid swaplog (7998 entries)
+2025/08/28 10:52:38 kid1| Finished rebuilding storage from disk.
+2025/08/28 10:52:38 kid1|      7998 Entries scanned
+2025/08/28 10:52:38 kid1|         0 Invalid entries.
+2025/08/28 10:52:38 kid1|         0 With invalid flags.
+2025/08/28 10:52:38 kid1|      7998 Objects loaded.
+2025/08/28 10:52:38 kid1|         0 Objects expired.
+2025/08/28 10:52:38 kid1|         0 Objects cancelled.
+2025/08/28 10:52:38 kid1|         0 Duplicate URLs purged.
+2025/08/28 10:52:38 kid1|         0 Swapfile clashes avoided.
+2025/08/28 10:52:38 kid1|   Took 0.06 seconds (127527.27 objects/sec).
+2025/08/28 10:52:38 kid1| Beginning Validation Procedure
+2025/08/28 10:52:38 kid1|   Completed Validation Procedure
+2025/08/28 10:52:38 kid1|   Validated 7998 Entries
+2025/08/28 10:52:38 kid1|   store_swap_size = 207160.00 KB
+2025/08/28 10:52:39 kid1| storeLateRelease: released 0 objects
+2025/08/28 10:52:44 kid1| Starting new basicauthenticator helpers...
+    current master transaction: master56
+2025/08/28 10:52:44 kid1| helperOpenServers: Starting 1/30 'basic_ldap_auth' processes
+    current master transaction: master56
+2025/08/28 10:52:49 kid1| CacheManager: unknown@conn24 local=127.0.0.1:3128 remote=127.0.0.1:57646 FD 13 flags=1: password needed for 'active_requests'
+    current master transaction: master58
+2025/08/28 10:53:16 kid1| Preparing for shutdown after 6 requests
+2025/08/28 10:53:16 kid1| Waiting 30 seconds for active connections to finish
+2025/08/28 10:53:16 kid1| Closing HTTP(S) port 0.0.0.0:3128
+2025/08/28 10:53:16 kid1| Closing HTTP(S) port 0.0.0.0:8443
+2025/08/28 10:53:16 kid1| Closing HTTP(S) port 0.0.0.0:8080
+2025/08/28 10:53:16 kid1| Closing Pinger socket on FD 32
+2025/08/28 10:53:18| Pinger exiting.
+2025/08/28 10:53:47 kid1| Shutdown: NTLM authentication.
+2025/08/28 10:53:47 kid1| Shutdown: Negotiate authentication.
+2025/08/28 10:53:47 kid1| Shutdown: Digest authentication.
+2025/08/28 10:53:47 kid1| Shutdown: Basic authentication.
+2025/08/28 10:53:47 kid1| Shutting down...
+2025/08/28 10:53:47 kid1| Closing unlinkd pipe on FD 25
+2025/08/28 10:53:47 kid1| storeDirWriteCleanLogs: Starting...
+2025/08/28 10:53:47 kid1|   Finished.  Wrote 7998 entries.
+2025/08/28 10:53:47 kid1|   Took 0.00 seconds (4342019.54 entries/sec).
+CPU Usage: 0.179 seconds = 0.102 user + 0.077 sys
+Maximum Resident Size: 112816 KB
+Page faults with physical i/o: 0
+2025/08/28 10:53:47 kid1| Logfile: closing log daemon:/var/log/squid/access.log
+2025/08/28 10:53:47 kid1| Logfile Daemon: closing log daemon:/var/log/squid/access.log
+2025/08/28 10:53:47 kid1| Open FD UNSTARTED    10 security_file_certgen #1
+2025/08/28 10:53:47 kid1| Open FD UNSTARTED    12 security_file_certgen #2
+2025/08/28 10:53:47 kid1| Open FD UNSTARTED    14 security_file_certgen #3
+2025/08/28 10:53:47 kid1| Open FD READ/WRITE   15 basic_ldap_auth #1
+2025/08/28 10:53:47 kid1| Open FD UNSTARTED    16 security_file_certgen #4
+2025/08/28 10:53:47 kid1| Open FD UNSTARTED    18 security_file_certgen #5
+2025/08/28 10:53:47 kid1| Open FD UNSTARTED    20 IPC UNIX STREAM Parent
+2025/08/28 10:53:47 kid1| Squid Cache (Version 5.7): Exiting normally.
+2025/08/28 10:53:47| Removing PID file (/run/squid.pid)
+2025/08/28 10:53:47 kid1| Set Current Directory to /var/spool/squid
+2025/08/28 10:53:47 kid1| Creating missing swap directories
+2025/08/28 10:53:47 kid1| /var/spool/squid exists
+2025/08/28 10:53:47 kid1| /var/spool/squid/00 exists
+2025/08/28 10:53:47 kid1| Making directories in /var/spool/squid/00
+2025/08/28 10:53:47 kid1| /var/spool/squid/01 exists
+2025/08/28 10:53:47 kid1| Making directories in /var/spool/squid/01
+2025/08/28 10:53:47 kid1| /var/spool/squid/02 exists
+2025/08/28 10:53:47 kid1| Making directories in /var/spool/squid/02
+2025/08/28 10:53:47 kid1| /var/spool/squid/03 exists
+2025/08/28 10:53:47 kid1| Making directories in /var/spool/squid/03
+2025/08/28 10:53:47 kid1| /var/spool/squid/04 exists
+2025/08/28 10:53:47 kid1| Making directories in /var/spool/squid/04
+2025/08/28 10:53:47 kid1| /var/spool/squid/05 exists
+2025/08/28 10:53:47 kid1| Making directories in /var/spool/squid/05
+2025/08/28 10:53:47 kid1| /var/spool/squid/06 exists
+2025/08/28 10:53:47 kid1| Making directories in /var/spool/squid/06
+2025/08/28 10:53:47 kid1| /var/spool/squid/07 exists
+2025/08/28 10:53:47 kid1| Making directories in /var/spool/squid/07
+2025/08/28 10:53:47 kid1| /var/spool/squid/08 exists
+2025/08/28 10:53:47 kid1| Making directories in /var/spool/squid/08
+2025/08/28 10:53:47 kid1| /var/spool/squid/09 exists
+2025/08/28 10:53:47 kid1| Making directories in /var/spool/squid/09
+2025/08/28 10:53:47 kid1| /var/spool/squid/0A exists
+2025/08/28 10:53:47 kid1| Making directories in /var/spool/squid/0A
+2025/08/28 10:53:47 kid1| /var/spool/squid/0B exists
+2025/08/28 10:53:47 kid1| Making directories in /var/spool/squid/0B
+2025/08/28 10:53:47 kid1| /var/spool/squid/0C exists
+2025/08/28 10:53:47 kid1| Making directories in /var/spool/squid/0C
+2025/08/28 10:53:47 kid1| /var/spool/squid/0D exists
+2025/08/28 10:53:47 kid1| Making directories in /var/spool/squid/0D
+2025/08/28 10:53:47 kid1| /var/spool/squid/0E exists
+2025/08/28 10:53:47 kid1| Making directories in /var/spool/squid/0E
+2025/08/28 10:53:47 kid1| /var/spool/squid/0F exists
+2025/08/28 10:53:47 kid1| Making directories in /var/spool/squid/0F
+2025/08/28 10:53:47| Removing PID file (/run/squid.pid)
+2025/08/28 10:53:48 kid1| Set Current Directory to /var/spool/squid
+2025/08/28 10:53:48 kid1| Starting Squid Cache version 5.7 for x86_64-pc-linux-gnu...
+2025/08/28 10:53:48 kid1| Service Name: squid
+2025/08/28 10:53:48 kid1| Process ID 429117
+2025/08/28 10:53:48 kid1| Process Roles: worker
+2025/08/28 10:53:48 kid1| With 1024 file descriptors available
+2025/08/28 10:53:48 kid1| Initializing IP Cache...
+2025/08/28 10:53:48 kid1| DNS Socket created at 0.0.0.0, FD 9
+2025/08/28 10:53:48 kid1| Adding nameserver 192.168.10.61 from squid.conf
+2025/08/28 10:53:48 kid1| helperOpenServers: Starting 5/5 'security_file_certgen' processes
+2025/08/28 10:53:48 kid1| helperOpenServers: Starting 0/30 'negotiate_kerberos_auth' processes
+2025/08/28 10:53:48 kid1| helperStatefulOpenServers: No 'negotiate_kerberos_auth' processes needed.
+2025/08/28 10:53:48 kid1| helperOpenServers: Starting 0/30 'basic_ldap_auth' processes
+2025/08/28 10:53:48 kid1| helperOpenServers: No 'basic_ldap_auth' processes needed.
+2025/08/28 10:53:48 kid1| helperOpenServers: Starting 0/5 'ext_kerberos_ldap_group_acl' processes
+2025/08/28 10:53:48 kid1| helperOpenServers: No 'ext_kerberos_ldap_group_acl' processes needed.
+2025/08/28 10:53:48 kid1| helperOpenServers: Starting 0/5 'ext_kerberos_ldap_group_acl' processes
+2025/08/28 10:53:48 kid1| helperOpenServers: No 'ext_kerberos_ldap_group_acl' processes needed.
+2025/08/28 10:53:48 kid1| helperOpenServers: Starting 0/5 'ext_kerberos_ldap_group_acl' processes
+2025/08/28 10:53:48 kid1| helperOpenServers: No 'ext_kerberos_ldap_group_acl' processes needed.
+2025/08/28 10:53:48 kid1| helperOpenServers: Starting 0/5 'ext_ldap_group_acl' processes
+2025/08/28 10:53:48 kid1| helperOpenServers: No 'ext_ldap_group_acl' processes needed.
+2025/08/28 10:53:48 kid1| Logfile: opening log daemon:/var/log/squid/access.log
+2025/08/28 10:53:48 kid1| Logfile Daemon: opening log /var/log/squid/access.log
+2025/08/28 10:53:48 kid1| Unlinkd pipe opened on FD 25
+2025/08/28 10:53:48 kid1| Local cache digest enabled; rebuild/rewrite every 3600/3600 sec
+2025/08/28 10:53:48 kid1| Store logging disabled
+2025/08/28 10:53:48 kid1| Swap maxSize 8388608 + 1048576 KB, estimated 725937 objects
+2025/08/28 10:53:48 kid1| Target number of buckets: 36296
+2025/08/28 10:53:48 kid1| Using 65536 Store buckets
+2025/08/28 10:53:48 kid1| Max Mem  size: 1048576 KB
+2025/08/28 10:53:48 kid1| Max Swap size: 8388608 KB
+2025/08/28 10:53:48 kid1| Rebuilding storage in /var/spool/squid (clean log)
+2025/08/28 10:53:48 kid1| Using Least Load store dir selection
+2025/08/28 10:53:48 kid1| Set Current Directory to /var/spool/squid
+2025/08/28 10:53:48 kid1| Finished loading MIME types and icons.
+2025/08/28 10:53:48 kid1| HTCP Disabled.
+2025/08/28 10:53:48 kid1| Pinger socket opened on FD 32
+2025/08/28 10:53:48 kid1| Squid plugin modules loaded: 0
+2025/08/28 10:53:48 kid1| Adaptation support is off.
+2025/08/28 10:53:48 kid1| Accepting HTTP Socket connections at conn12 local=0.0.0.0:3128 remote=[::] FD 28 flags=9
+2025/08/28 10:53:48 kid1| Accepting HTTP Socket connections at conn14 local=0.0.0.0:8443 remote=[::] FD 29 flags=9
+2025/08/28 10:53:48 kid1| Accepting SSL bumped HTTP Socket connections at conn16 local=0.0.0.0:8080 remote=[::] FD 30 flags=9
+2025/08/28 10:53:48 kid1| Store rebuilding is 50.01% complete
+2025/08/28 10:53:48| WARNING: BCP 177 violation. Detected non-functional IPv6 loopback.
+2025/08/28 10:53:48| pinger: Initialising ICMP pinger ...
+2025/08/28 10:53:48| pinger: ICMP socket opened.
+2025/08/28 10:53:48| pinger: ICMPv6 socket opened
+2025/08/28 10:53:48 kid1| Done reading /var/spool/squid swaplog (7998 entries)
+2025/08/28 10:53:48 kid1| Finished rebuilding storage from disk.
+2025/08/28 10:53:48 kid1|      7998 Entries scanned
+2025/08/28 10:53:48 kid1|         0 Invalid entries.
+2025/08/28 10:53:48 kid1|         0 With invalid flags.
+2025/08/28 10:53:48 kid1|      7998 Objects loaded.
+2025/08/28 10:53:48 kid1|         0 Objects expired.
+2025/08/28 10:53:48 kid1|         0 Objects cancelled.
+2025/08/28 10:53:48 kid1|         0 Duplicate URLs purged.
+2025/08/28 10:53:48 kid1|         0 Swapfile clashes avoided.
+2025/08/28 10:53:48 kid1|   Took 0.06 seconds (126640.80 objects/sec).
+2025/08/28 10:53:48 kid1| Beginning Validation Procedure
+2025/08/28 10:53:48 kid1|   Completed Validation Procedure
+2025/08/28 10:53:48 kid1|   Validated 7998 Entries
+2025/08/28 10:53:48 kid1|   store_swap_size = 207160.00 KB
+2025/08/28 10:53:49 kid1| storeLateRelease: released 0 objects
+2025/08/28 10:53:55 kid1| CacheManager: unknown@conn21 local=127.0.0.1:3128 remote=127.0.0.1:55662 FD 13 flags=1: password needed for 'active_requests'
+    current master transaction: master56
+2025/08/28 10:55:39 kid1| Preparing for shutdown after 2 requests
+2025/08/28 10:55:39 kid1| Waiting 30 seconds for active connections to finish
+2025/08/28 10:55:39 kid1| Closing HTTP(S) port 0.0.0.0:3128
+2025/08/28 10:55:39 kid1| Closing HTTP(S) port 0.0.0.0:8443
+2025/08/28 10:55:39 kid1| Closing HTTP(S) port 0.0.0.0:8080
+2025/08/28 10:55:39 kid1| Closing Pinger socket on FD 32
+2025/08/28 10:55:48| Pinger exiting.
+2025/08/28 10:56:10 kid1| Shutdown: NTLM authentication.
+2025/08/28 10:56:10 kid1| Shutdown: Negotiate authentication.
+2025/08/28 10:56:10 kid1| Shutdown: Digest authentication.
+2025/08/28 10:56:10 kid1| Shutdown: Basic authentication.
+2025/08/28 10:56:11 kid1| Shutting down...
+2025/08/28 10:56:11 kid1| Closing unlinkd pipe on FD 25
+2025/08/28 10:56:11 kid1| storeDirWriteCleanLogs: Starting...
+2025/08/28 10:56:11 kid1|   Finished.  Wrote 7998 entries.
+2025/08/28 10:56:11 kid1|   Took 0.00 seconds (3830459.77 entries/sec).
+CPU Usage: 0.185 seconds = 0.121 user + 0.064 sys
+Maximum Resident Size: 112912 KB
+Page faults with physical i/o: 0
+2025/08/28 10:56:11 kid1| Logfile: closing log daemon:/var/log/squid/access.log
+2025/08/28 10:56:11 kid1| Logfile Daemon: closing log daemon:/var/log/squid/access.log
+2025/08/28 10:56:11 kid1| Open FD UNSTARTED    10 security_file_certgen #1
+2025/08/28 10:56:11 kid1| Open FD UNSTARTED    12 security_file_certgen #2
+2025/08/28 10:56:11 kid1| Open FD UNSTARTED    14 security_file_certgen #3
+2025/08/28 10:56:11 kid1| Open FD UNSTARTED    16 security_file_certgen #4
+2025/08/28 10:56:11 kid1| Open FD UNSTARTED    18 security_file_certgen #5
+2025/08/28 10:56:11 kid1| Open FD UNSTARTED    20 IPC UNIX STREAM Parent
+2025/08/28 10:56:11 kid1| Squid Cache (Version 5.7): Exiting normally.
+2025/08/28 10:56:11| Removing PID file (/run/squid.pid)
+2025/08/28 10:56:11 kid1| Set Current Directory to /var/spool/squid
+2025/08/28 10:56:11 kid1| Creating missing swap directories
+2025/08/28 10:56:11 kid1| /var/spool/squid exists
+2025/08/28 10:56:11 kid1| /var/spool/squid/00 exists
+2025/08/28 10:56:11 kid1| Making directories in /var/spool/squid/00
+2025/08/28 10:56:11 kid1| /var/spool/squid/01 exists
+2025/08/28 10:56:11 kid1| Making directories in /var/spool/squid/01
+2025/08/28 10:56:11 kid1| /var/spool/squid/02 exists
+2025/08/28 10:56:11 kid1| Making directories in /var/spool/squid/02
+2025/08/28 10:56:11 kid1| /var/spool/squid/03 exists
+2025/08/28 10:56:11 kid1| Making directories in /var/spool/squid/03
+2025/08/28 10:56:11 kid1| /var/spool/squid/04 exists
+2025/08/28 10:56:11 kid1| Making directories in /var/spool/squid/04
+2025/08/28 10:56:11 kid1| /var/spool/squid/05 exists
+2025/08/28 10:56:11 kid1| Making directories in /var/spool/squid/05
+2025/08/28 10:56:11 kid1| /var/spool/squid/06 exists
+2025/08/28 10:56:11 kid1| Making directories in /var/spool/squid/06
+2025/08/28 10:56:11 kid1| /var/spool/squid/07 exists
+2025/08/28 10:56:11 kid1| Making directories in /var/spool/squid/07
+2025/08/28 10:56:11 kid1| /var/spool/squid/08 exists
+2025/08/28 10:56:11 kid1| Making directories in /var/spool/squid/08
+2025/08/28 10:56:11 kid1| /var/spool/squid/09 exists
+2025/08/28 10:56:11 kid1| Making directories in /var/spool/squid/09
+2025/08/28 10:56:11 kid1| /var/spool/squid/0A exists
+2025/08/28 10:56:11 kid1| Making directories in /var/spool/squid/0A
+2025/08/28 10:56:11 kid1| /var/spool/squid/0B exists
+2025/08/28 10:56:11 kid1| Making directories in /var/spool/squid/0B
+2025/08/28 10:56:11 kid1| /var/spool/squid/0C exists
+2025/08/28 10:56:11 kid1| Making directories in /var/spool/squid/0C
+2025/08/28 10:56:11 kid1| /var/spool/squid/0D exists
+2025/08/28 10:56:11 kid1| Making directories in /var/spool/squid/0D
+2025/08/28 10:56:11 kid1| /var/spool/squid/0E exists
+2025/08/28 10:56:11 kid1| Making directories in /var/spool/squid/0E
+2025/08/28 10:56:11 kid1| /var/spool/squid/0F exists
+2025/08/28 10:56:11 kid1| Making directories in /var/spool/squid/0F
+2025/08/28 10:56:11| Removing PID file (/run/squid.pid)
+2025/08/28 10:56:11 kid1| Set Current Directory to /var/spool/squid
+2025/08/28 10:56:11 kid1| Starting Squid Cache version 5.7 for x86_64-pc-linux-gnu...
+2025/08/28 10:56:11 kid1| Service Name: squid
+2025/08/28 10:56:11 kid1| Process ID 429951
+2025/08/28 10:56:11 kid1| Process Roles: worker
+2025/08/28 10:56:11 kid1| With 1024 file descriptors available
+2025/08/28 10:56:11 kid1| Initializing IP Cache...
+2025/08/28 10:56:11 kid1| DNS Socket created at 0.0.0.0, FD 9
+2025/08/28 10:56:11 kid1| Adding nameserver 192.168.10.61 from squid.conf
+2025/08/28 10:56:11 kid1| helperOpenServers: Starting 5/5 'security_file_certgen' processes
+2025/08/28 10:56:11 kid1| helperOpenServers: Starting 0/30 'negotiate_kerberos_auth' processes
+2025/08/28 10:56:11 kid1| helperStatefulOpenServers: No 'negotiate_kerberos_auth' processes needed.
+2025/08/28 10:56:11 kid1| helperOpenServers: Starting 0/30 'basic_ldap_auth' processes
+2025/08/28 10:56:11 kid1| helperOpenServers: No 'basic_ldap_auth' processes needed.
+2025/08/28 10:56:11 kid1| helperOpenServers: Starting 0/5 'ext_kerberos_ldap_group_acl' processes
+2025/08/28 10:56:11 kid1| helperOpenServers: No 'ext_kerberos_ldap_group_acl' processes needed.
+2025/08/28 10:56:11 kid1| helperOpenServers: Starting 0/5 'ext_kerberos_ldap_group_acl' processes
+2025/08/28 10:56:11 kid1| helperOpenServers: No 'ext_kerberos_ldap_group_acl' processes needed.
+2025/08/28 10:56:11 kid1| helperOpenServers: Starting 0/5 'ext_kerberos_ldap_group_acl' processes
+2025/08/28 10:56:11 kid1| helperOpenServers: No 'ext_kerberos_ldap_group_acl' processes needed.
+2025/08/28 10:56:11 kid1| helperOpenServers: Starting 0/5 'ext_ldap_group_acl' processes
+2025/08/28 10:56:11 kid1| helperOpenServers: No 'ext_ldap_group_acl' processes needed.
+2025/08/28 10:56:11 kid1| Logfile: opening log daemon:/var/log/squid/access.log
+2025/08/28 10:56:11 kid1| Logfile Daemon: opening log /var/log/squid/access.log
+2025/08/28 10:56:12 kid1| Unlinkd pipe opened on FD 25
+2025/08/28 10:56:12 kid1| Local cache digest enabled; rebuild/rewrite every 3600/3600 sec
+2025/08/28 10:56:12 kid1| Store logging disabled
+2025/08/28 10:56:12 kid1| Swap maxSize 8388608 + 1048576 KB, estimated 725937 objects
+2025/08/28 10:56:12 kid1| Target number of buckets: 36296
+2025/08/28 10:56:12 kid1| Using 65536 Store buckets
+2025/08/28 10:56:12 kid1| Max Mem  size: 1048576 KB
+2025/08/28 10:56:12 kid1| Max Swap size: 8388608 KB
+2025/08/28 10:56:12 kid1| Rebuilding storage in /var/spool/squid (clean log)
+2025/08/28 10:56:12 kid1| Using Least Load store dir selection
+2025/08/28 10:56:12 kid1| Set Current Directory to /var/spool/squid
+2025/08/28 10:56:12 kid1| Finished loading MIME types and icons.
+2025/08/28 10:56:12 kid1| HTCP Disabled.
+2025/08/28 10:56:12 kid1| Pinger socket opened on FD 32
+2025/08/28 10:56:12 kid1| Squid plugin modules loaded: 0
+2025/08/28 10:56:12 kid1| Adaptation support is off.
+2025/08/28 10:56:12 kid1| Accepting HTTP Socket connections at conn12 local=0.0.0.0:8443 remote=[::] FD 28 flags=9
+2025/08/28 10:56:12 kid1| Accepting HTTP Socket connections at conn14 local=0.0.0.0:3128 remote=[::] FD 29 flags=9
+2025/08/28 10:56:12 kid1| Accepting SSL bumped HTTP Socket connections at conn16 local=0.0.0.0:8080 remote=[::] FD 30 flags=9
+2025/08/28 10:56:12 kid1| Store rebuilding is 50.01% complete
+2025/08/28 10:56:12| WARNING: BCP 177 violation. Detected non-functional IPv6 loopback.
+2025/08/28 10:56:12| pinger: Initialising ICMP pinger ...
+2025/08/28 10:56:12| pinger: ICMP socket opened.
+2025/08/28 10:56:12| pinger: ICMPv6 socket opened
+2025/08/28 10:56:12 kid1| Done reading /var/spool/squid swaplog (7998 entries)
+2025/08/28 10:56:12 kid1| Finished rebuilding storage from disk.
+2025/08/28 10:56:12 kid1|      7998 Entries scanned
+2025/08/28 10:56:12 kid1|         0 Invalid entries.
+2025/08/28 10:56:12 kid1|         0 With invalid flags.
+2025/08/28 10:56:12 kid1|      7998 Objects loaded.
+2025/08/28 10:56:12 kid1|         0 Objects expired.
+2025/08/28 10:56:12 kid1|         0 Objects cancelled.
+2025/08/28 10:56:12 kid1|         0 Duplicate URLs purged.
+2025/08/28 10:56:12 kid1|         0 Swapfile clashes avoided.
+2025/08/28 10:56:12 kid1|   Took 0.06 seconds (123363.10 objects/sec).
+2025/08/28 10:56:12 kid1| Beginning Validation Procedure
+2025/08/28 10:56:12 kid1|   Completed Validation Procedure
+2025/08/28 10:56:12 kid1|   Validated 7998 Entries
+2025/08/28 10:56:12 kid1|   store_swap_size = 207160.00 KB
+2025/08/28 10:56:13 kid1| storeLateRelease: released 0 objects
+2025/08/28 10:57:18 kid1| Preparing for shutdown after 6 requests
+2025/08/28 10:57:18 kid1| Waiting 30 seconds for active connections to finish
+2025/08/28 10:57:18 kid1| Closing HTTP(S) port 0.0.0.0:8443
+2025/08/28 10:57:18 kid1| Closing HTTP(S) port 0.0.0.0:3128
+2025/08/28 10:57:18 kid1| Closing HTTP(S) port 0.0.0.0:8080
+2025/08/28 10:57:18 kid1| Closing Pinger socket on FD 32
+2025/08/28 10:57:32| Pinger exiting.
+2025/08/28 10:57:49 kid1| Shutdown: NTLM authentication.
+2025/08/28 10:57:49 kid1| Shutdown: Negotiate authentication.
+2025/08/28 10:57:49 kid1| Shutdown: Digest authentication.
+2025/08/28 10:57:49 kid1| Shutdown: Basic authentication.
+2025/08/28 10:57:50 kid1| Shutting down...
+2025/08/28 10:57:50 kid1| Closing unlinkd pipe on FD 25
+2025/08/28 10:57:50 kid1| storeDirWriteCleanLogs: Starting...
+2025/08/28 10:57:50 kid1|   Finished.  Wrote 7998 entries.
+2025/08/28 10:57:50 kid1|   Took 0.00 seconds (4715801.89 entries/sec).
+CPU Usage: 0.184 seconds = 0.112 user + 0.072 sys
+Maximum Resident Size: 111792 KB
+Page faults with physical i/o: 0
+2025/08/28 10:57:50 kid1| Logfile: closing log daemon:/var/log/squid/access.log
+2025/08/28 10:57:50 kid1| Logfile Daemon: closing log daemon:/var/log/squid/access.log
+2025/08/28 10:57:50 kid1| Open FD UNSTARTED    10 security_file_certgen #1
+2025/08/28 10:57:50 kid1| Open FD UNSTARTED    12 security_file_certgen #2
+2025/08/28 10:57:50 kid1| Open FD UNSTARTED    14 security_file_certgen #3
+2025/08/28 10:57:50 kid1| Open FD UNSTARTED    16 security_file_certgen #4
+2025/08/28 10:57:50 kid1| Open FD UNSTARTED    18 security_file_certgen #5
+2025/08/28 10:57:50 kid1| Open FD UNSTARTED    20 IPC UNIX STREAM Parent
+2025/08/28 10:57:50 kid1| Squid Cache (Version 5.7): Exiting normally.
+2025/08/28 10:57:50| Removing PID file (/run/squid.pid)
+2025/08/28 10:57:50 kid1| Set Current Directory to /var/spool/squid
+2025/08/28 10:57:50 kid1| Creating missing swap directories
+2025/08/28 10:57:50 kid1| /var/spool/squid exists
+2025/08/28 10:57:50 kid1| /var/spool/squid/00 exists
+2025/08/28 10:57:50 kid1| Making directories in /var/spool/squid/00
+2025/08/28 10:57:50 kid1| /var/spool/squid/01 exists
+2025/08/28 10:57:50 kid1| Making directories in /var/spool/squid/01
+2025/08/28 10:57:50 kid1| /var/spool/squid/02 exists
+2025/08/28 10:57:50 kid1| Making directories in /var/spool/squid/02
+2025/08/28 10:57:50 kid1| /var/spool/squid/03 exists
+2025/08/28 10:57:50 kid1| Making directories in /var/spool/squid/03
+2025/08/28 10:57:50 kid1| /var/spool/squid/04 exists
+2025/08/28 10:57:50 kid1| Making directories in /var/spool/squid/04
+2025/08/28 10:57:50 kid1| /var/spool/squid/05 exists
+2025/08/28 10:57:50 kid1| Making directories in /var/spool/squid/05
+2025/08/28 10:57:50 kid1| /var/spool/squid/06 exists
+2025/08/28 10:57:50 kid1| Making directories in /var/spool/squid/06
+2025/08/28 10:57:50 kid1| /var/spool/squid/07 exists
+2025/08/28 10:57:50 kid1| Making directories in /var/spool/squid/07
+2025/08/28 10:57:50 kid1| /var/spool/squid/08 exists
+2025/08/28 10:57:50 kid1| Making directories in /var/spool/squid/08
+2025/08/28 10:57:50 kid1| /var/spool/squid/09 exists
+2025/08/28 10:57:50 kid1| Making directories in /var/spool/squid/09
+2025/08/28 10:57:50 kid1| /var/spool/squid/0A exists
+2025/08/28 10:57:50 kid1| Making directories in /var/spool/squid/0A
+2025/08/28 10:57:50 kid1| /var/spool/squid/0B exists
+2025/08/28 10:57:50 kid1| Making directories in /var/spool/squid/0B
+2025/08/28 10:57:50 kid1| /var/spool/squid/0C exists
+2025/08/28 10:57:50 kid1| Making directories in /var/spool/squid/0C
+2025/08/28 10:57:50 kid1| /var/spool/squid/0D exists
+2025/08/28 10:57:50 kid1| Making directories in /var/spool/squid/0D
+2025/08/28 10:57:50 kid1| /var/spool/squid/0E exists
+2025/08/28 10:57:50 kid1| Making directories in /var/spool/squid/0E
+2025/08/28 10:57:50 kid1| /var/spool/squid/0F exists
+2025/08/28 10:57:50 kid1| Making directories in /var/spool/squid/0F
+2025/08/28 10:57:50| Removing PID file (/run/squid.pid)
+2025/08/28 10:57:50 kid1| Set Current Directory to /var/spool/squid
+2025/08/28 10:57:50 kid1| Starting Squid Cache version 5.7 for x86_64-pc-linux-gnu...
+2025/08/28 10:57:50 kid1| Service Name: squid
+2025/08/28 10:57:50 kid1| Process ID 430394
+2025/08/28 10:57:50 kid1| Process Roles: worker
+2025/08/28 10:57:50 kid1| With 1024 file descriptors available
+2025/08/28 10:57:50 kid1| Initializing IP Cache...
+2025/08/28 10:57:50 kid1| DNS Socket created at 0.0.0.0, FD 9
+2025/08/28 10:57:50 kid1| Adding nameserver 192.168.10.61 from squid.conf
+2025/08/28 10:57:50 kid1| helperOpenServers: Starting 5/5 'security_file_certgen' processes
+2025/08/28 10:57:50 kid1| helperOpenServers: Starting 0/30 'negotiate_kerberos_auth' processes
+2025/08/28 10:57:50 kid1| helperStatefulOpenServers: No 'negotiate_kerberos_auth' processes needed.
+2025/08/28 10:57:50 kid1| helperOpenServers: Starting 0/30 'basic_ldap_auth' processes
+2025/08/28 10:57:50 kid1| helperOpenServers: No 'basic_ldap_auth' processes needed.
+2025/08/28 10:57:50 kid1| helperOpenServers: Starting 0/5 'ext_kerberos_ldap_group_acl' processes
+2025/08/28 10:57:50 kid1| helperOpenServers: No 'ext_kerberos_ldap_group_acl' processes needed.
+2025/08/28 10:57:50 kid1| helperOpenServers: Starting 0/5 'ext_kerberos_ldap_group_acl' processes
+2025/08/28 10:57:50 kid1| helperOpenServers: No 'ext_kerberos_ldap_group_acl' processes needed.
+2025/08/28 10:57:50 kid1| helperOpenServers: Starting 0/5 'ext_kerberos_ldap_group_acl' processes
+2025/08/28 10:57:50 kid1| helperOpenServers: No 'ext_kerberos_ldap_group_acl' processes needed.
+2025/08/28 10:57:50 kid1| helperOpenServers: Starting 0/5 'ext_ldap_group_acl' processes
+2025/08/28 10:57:50 kid1| helperOpenServers: No 'ext_ldap_group_acl' processes needed.
+2025/08/28 10:57:50 kid1| Logfile: opening log daemon:/var/log/squid/access.log
+2025/08/28 10:57:50 kid1| Logfile Daemon: opening log /var/log/squid/access.log
+2025/08/28 10:57:50 kid1| Unlinkd pipe opened on FD 25
+2025/08/28 10:57:50 kid1| Local cache digest enabled; rebuild/rewrite every 3600/3600 sec
+2025/08/28 10:57:50 kid1| Store logging disabled
+2025/08/28 10:57:50 kid1| Swap maxSize 8388608 + 1048576 KB, estimated 725937 objects
+2025/08/28 10:57:50 kid1| Target number of buckets: 36296
+2025/08/28 10:57:50 kid1| Using 65536 Store buckets
+2025/08/28 10:57:50 kid1| Max Mem  size: 1048576 KB
+2025/08/28 10:57:50 kid1| Max Swap size: 8388608 KB
+2025/08/28 10:57:50 kid1| Rebuilding storage in /var/spool/squid (clean log)
+2025/08/28 10:57:50 kid1| Using Least Load store dir selection
+2025/08/28 10:57:50 kid1| Set Current Directory to /var/spool/squid
+2025/08/28 10:57:50 kid1| Finished loading MIME types and icons.
+2025/08/28 10:57:50 kid1| HTCP Disabled.
+2025/08/28 10:57:50 kid1| Pinger socket opened on FD 32
+2025/08/28 10:57:50 kid1| Squid plugin modules loaded: 0
+2025/08/28 10:57:50 kid1| Adaptation support is off.
+2025/08/28 10:57:50 kid1| Accepting HTTP Socket connections at conn12 local=0.0.0.0:8443 remote=[::] FD 28 flags=9
+2025/08/28 10:57:50 kid1| Accepting HTTP Socket connections at conn14 local=0.0.0.0:3128 remote=[::] FD 29 flags=9
+2025/08/28 10:57:50 kid1| Accepting SSL bumped HTTP Socket connections at conn16 local=0.0.0.0:8080 remote=[::] FD 30 flags=9
+2025/08/28 10:57:50 kid1| Store rebuilding is 50.01% complete
+2025/08/28 10:57:50| WARNING: BCP 177 violation. Detected non-functional IPv6 loopback.
+2025/08/28 10:57:50| pinger: Initialising ICMP pinger ...
+2025/08/28 10:57:50| pinger: ICMP socket opened.
+2025/08/28 10:57:50| pinger: ICMPv6 socket opened
+2025/08/28 10:57:50 kid1| Done reading /var/spool/squid swaplog (7998 entries)
+2025/08/28 10:57:50 kid1| Finished rebuilding storage from disk.
+2025/08/28 10:57:50 kid1|      7998 Entries scanned
+2025/08/28 10:57:50 kid1|         0 Invalid entries.
+2025/08/28 10:57:50 kid1|         0 With invalid flags.
+2025/08/28 10:57:50 kid1|      7998 Objects loaded.
+2025/08/28 10:57:50 kid1|         0 Objects expired.
+2025/08/28 10:57:50 kid1|         0 Objects cancelled.
+2025/08/28 10:57:50 kid1|         0 Duplicate URLs purged.
+2025/08/28 10:57:50 kid1|         0 Swapfile clashes avoided.
+2025/08/28 10:57:50 kid1|   Took 0.06 seconds (134046.19 objects/sec).
+2025/08/28 10:57:50 kid1| Beginning Validation Procedure
+2025/08/28 10:57:50 kid1|   Completed Validation Procedure
+2025/08/28 10:57:50 kid1|   Validated 7998 Entries
+2025/08/28 10:57:50 kid1|   store_swap_size = 207160.00 KB
+2025/08/28 10:57:51 kid1| storeLateRelease: released 0 objects
+2025/08/28 10:58:40 kid1| Preparing for shutdown after 3 requests
+2025/08/28 10:58:40 kid1| Waiting 30 seconds for active connections to finish
+2025/08/28 10:58:40 kid1| Closing HTTP(S) port 0.0.0.0:8443
+2025/08/28 10:58:40 kid1| Closing HTTP(S) port 0.0.0.0:3128
+2025/08/28 10:58:40 kid1| Closing HTTP(S) port 0.0.0.0:8080
+2025/08/28 10:58:40 kid1| Closing Pinger socket on FD 32
+2025/08/28 10:58:51| Pinger exiting.
+2025/08/28 10:59:11 kid1| Shutdown: NTLM authentication.
+2025/08/28 10:59:11 kid1| Shutdown: Negotiate authentication.
+2025/08/28 10:59:11 kid1| Shutdown: Digest authentication.
+2025/08/28 10:59:11 kid1| Shutdown: Basic authentication.
+2025/08/28 10:59:12 kid1| Shutting down...
+2025/08/28 10:59:12 kid1| Closing unlinkd pipe on FD 25
+2025/08/28 10:59:12 kid1| storeDirWriteCleanLogs: Starting...
+2025/08/28 10:59:12 kid1|   Finished.  Wrote 7998 entries.
+2025/08/28 10:59:12 kid1|   Took 0.00 seconds (2551196.17 entries/sec).
+CPU Usage: 0.174 seconds = 0.121 user + 0.054 sys
+Maximum Resident Size: 111536 KB
+Page faults with physical i/o: 0
+2025/08/28 10:59:12 kid1| Logfile: closing log daemon:/var/log/squid/access.log
+2025/08/28 10:59:12 kid1| Logfile Daemon: closing log daemon:/var/log/squid/access.log
+2025/08/28 10:59:12 kid1| Open FD UNSTARTED    10 security_file_certgen #1
+2025/08/28 10:59:12 kid1| Open FD UNSTARTED    12 security_file_certgen #2
+2025/08/28 10:59:12 kid1| Open FD UNSTARTED    14 security_file_certgen #3
+2025/08/28 10:59:12 kid1| Open FD UNSTARTED    16 security_file_certgen #4
+2025/08/28 10:59:12 kid1| Open FD UNSTARTED    18 security_file_certgen #5
+2025/08/28 10:59:12 kid1| Open FD UNSTARTED    20 IPC UNIX STREAM Parent
+2025/08/28 10:59:12 kid1| Squid Cache (Version 5.7): Exiting normally.
+2025/08/28 10:59:12| Removing PID file (/run/squid.pid)
+2025/08/28 10:59:12 kid1| Set Current Directory to /var/spool/squid
+2025/08/28 10:59:12 kid1| Creating missing swap directories
+2025/08/28 10:59:12 kid1| /var/spool/squid exists
+2025/08/28 10:59:12 kid1| /var/spool/squid/00 exists
+2025/08/28 10:59:12 kid1| Making directories in /var/spool/squid/00
+2025/08/28 10:59:12 kid1| /var/spool/squid/01 exists
+2025/08/28 10:59:12 kid1| Making directories in /var/spool/squid/01
+2025/08/28 10:59:12 kid1| /var/spool/squid/02 exists
+2025/08/28 10:59:12 kid1| Making directories in /var/spool/squid/02
+2025/08/28 10:59:12 kid1| /var/spool/squid/03 exists
+2025/08/28 10:59:12 kid1| Making directories in /var/spool/squid/03
+2025/08/28 10:59:12 kid1| /var/spool/squid/04 exists
+2025/08/28 10:59:12 kid1| Making directories in /var/spool/squid/04
+2025/08/28 10:59:12 kid1| /var/spool/squid/05 exists
+2025/08/28 10:59:12 kid1| Making directories in /var/spool/squid/05
+2025/08/28 10:59:12 kid1| /var/spool/squid/06 exists
+2025/08/28 10:59:12 kid1| Making directories in /var/spool/squid/06
+2025/08/28 10:59:12 kid1| /var/spool/squid/07 exists
+2025/08/28 10:59:12 kid1| Making directories in /var/spool/squid/07
+2025/08/28 10:59:12 kid1| /var/spool/squid/08 exists
+2025/08/28 10:59:12 kid1| Making directories in /var/spool/squid/08
+2025/08/28 10:59:12 kid1| /var/spool/squid/09 exists
+2025/08/28 10:59:12 kid1| Making directories in /var/spool/squid/09
+2025/08/28 10:59:12 kid1| /var/spool/squid/0A exists
+2025/08/28 10:59:12 kid1| Making directories in /var/spool/squid/0A
+2025/08/28 10:59:12 kid1| /var/spool/squid/0B exists
+2025/08/28 10:59:12 kid1| Making directories in /var/spool/squid/0B
+2025/08/28 10:59:12 kid1| /var/spool/squid/0C exists
+2025/08/28 10:59:12 kid1| Making directories in /var/spool/squid/0C
+2025/08/28 10:59:12 kid1| /var/spool/squid/0D exists
+2025/08/28 10:59:12 kid1| Making directories in /var/spool/squid/0D
+2025/08/28 10:59:12 kid1| /var/spool/squid/0E exists
+2025/08/28 10:59:12 kid1| Making directories in /var/spool/squid/0E
+2025/08/28 10:59:12 kid1| /var/spool/squid/0F exists
+2025/08/28 10:59:12 kid1| Making directories in /var/spool/squid/0F
+2025/08/28 10:59:12| Removing PID file (/run/squid.pid)
+2025/08/28 10:59:12 kid1| Set Current Directory to /var/spool/squid
+2025/08/28 10:59:12 kid1| Starting Squid Cache version 5.7 for x86_64-pc-linux-gnu...
+2025/08/28 10:59:12 kid1| Service Name: squid
+2025/08/28 10:59:12 kid1| Process ID 430718
+2025/08/28 10:59:12 kid1| Process Roles: worker
+2025/08/28 10:59:12 kid1| With 1024 file descriptors available
+2025/08/28 10:59:12 kid1| Initializing IP Cache...
+2025/08/28 10:59:12 kid1| DNS Socket created at 0.0.0.0, FD 9
+2025/08/28 10:59:12 kid1| Adding nameserver 192.168.10.61 from squid.conf
+2025/08/28 10:59:12 kid1| helperOpenServers: Starting 5/5 'security_file_certgen' processes
+2025/08/28 10:59:12 kid1| helperOpenServers: Starting 0/30 'negotiate_kerberos_auth' processes
+2025/08/28 10:59:12 kid1| helperStatefulOpenServers: No 'negotiate_kerberos_auth' processes needed.
+2025/08/28 10:59:12 kid1| helperOpenServers: Starting 0/30 'basic_ldap_auth' processes
+2025/08/28 10:59:12 kid1| helperOpenServers: No 'basic_ldap_auth' processes needed.
+2025/08/28 10:59:12 kid1| helperOpenServers: Starting 0/5 'ext_kerberos_ldap_group_acl' processes
+2025/08/28 10:59:12 kid1| helperOpenServers: No 'ext_kerberos_ldap_group_acl' processes needed.
+2025/08/28 10:59:12 kid1| helperOpenServers: Starting 0/5 'ext_kerberos_ldap_group_acl' processes
+2025/08/28 10:59:12 kid1| helperOpenServers: No 'ext_kerberos_ldap_group_acl' processes needed.
+2025/08/28 10:59:12 kid1| helperOpenServers: Starting 0/5 'ext_kerberos_ldap_group_acl' processes
+2025/08/28 10:59:12 kid1| helperOpenServers: No 'ext_kerberos_ldap_group_acl' processes needed.
+2025/08/28 10:59:12 kid1| helperOpenServers: Starting 0/5 'ext_ldap_group_acl' processes
+2025/08/28 10:59:12 kid1| helperOpenServers: No 'ext_ldap_group_acl' processes needed.
+2025/08/28 10:59:12 kid1| Logfile: opening log daemon:/var/log/squid/access.log
+2025/08/28 10:59:12 kid1| Logfile Daemon: opening log /var/log/squid/access.log
+2025/08/28 10:59:12 kid1| Unlinkd pipe opened on FD 25
+2025/08/28 10:59:12 kid1| Local cache digest enabled; rebuild/rewrite every 3600/3600 sec
+2025/08/28 10:59:12 kid1| Store logging disabled
+2025/08/28 10:59:12 kid1| Swap maxSize 8388608 + 1048576 KB, estimated 725937 objects
+2025/08/28 10:59:12 kid1| Target number of buckets: 36296
+2025/08/28 10:59:12 kid1| Using 65536 Store buckets
+2025/08/28 10:59:12 kid1| Max Mem  size: 1048576 KB
+2025/08/28 10:59:12 kid1| Max Swap size: 8388608 KB
+2025/08/28 10:59:12 kid1| Rebuilding storage in /var/spool/squid (clean log)
+2025/08/28 10:59:12 kid1| Using Least Load store dir selection
+2025/08/28 10:59:12 kid1| Set Current Directory to /var/spool/squid
+2025/08/28 10:59:12 kid1| Finished loading MIME types and icons.
+2025/08/28 10:59:12 kid1| HTCP Disabled.
+2025/08/28 10:59:12 kid1| Pinger socket opened on FD 32
+2025/08/28 10:59:12 kid1| Squid plugin modules loaded: 0
+2025/08/28 10:59:12 kid1| Adaptation support is off.
+2025/08/28 10:59:12 kid1| Accepting HTTP Socket connections at conn12 local=0.0.0.0:8443 remote=[::] FD 28 flags=9
+2025/08/28 10:59:12 kid1| Accepting HTTP Socket connections at conn14 local=0.0.0.0:3128 remote=[::] FD 29 flags=9
+2025/08/28 10:59:12 kid1| Accepting SSL bumped HTTP Socket connections at conn16 local=0.0.0.0:8080 remote=[::] FD 30 flags=9
+2025/08/28 10:59:12 kid1| Store rebuilding is 50.01% complete
+2025/08/28 10:59:12| WARNING: BCP 177 violation. Detected non-functional IPv6 loopback.
+2025/08/28 10:59:12| pinger: Initialising ICMP pinger ...
+2025/08/28 10:59:12| pinger: ICMP socket opened.
+2025/08/28 10:59:12| pinger: ICMPv6 socket opened
+2025/08/28 10:59:12 kid1| Done reading /var/spool/squid swaplog (7998 entries)
+2025/08/28 10:59:12 kid1| Finished rebuilding storage from disk.
+2025/08/28 10:59:12 kid1|      7998 Entries scanned
+2025/08/28 10:59:12 kid1|         0 Invalid entries.
+2025/08/28 10:59:12 kid1|         0 With invalid flags.
+2025/08/28 10:59:12 kid1|      7998 Objects loaded.
+2025/08/28 10:59:12 kid1|         0 Objects expired.
+2025/08/28 10:59:12 kid1|         0 Objects cancelled.
+2025/08/28 10:59:12 kid1|         0 Duplicate URLs purged.
+2025/08/28 10:59:12 kid1|         0 Swapfile clashes avoided.
+2025/08/28 10:59:12 kid1|   Took 0.07 seconds (120113.54 objects/sec).
+2025/08/28 10:59:12 kid1| Beginning Validation Procedure
+2025/08/28 10:59:12 kid1|   Completed Validation Procedure
+2025/08/28 10:59:12 kid1|   Validated 7998 Entries
+2025/08/28 10:59:12 kid1|   store_swap_size = 207160.00 KB
+2025/08/28 10:59:13 kid1| storeLateRelease: released 0 objects
+2025/08/28 11:01:12 kid1| Preparing for shutdown after 2 requests
+2025/08/28 11:01:12 kid1| Waiting 30 seconds for active connections to finish
+2025/08/28 11:01:12 kid1| Closing HTTP(S) port 0.0.0.0:8443
+2025/08/28 11:01:12 kid1| Closing HTTP(S) port 0.0.0.0:3128
+2025/08/28 11:01:12 kid1| Closing HTTP(S) port 0.0.0.0:8080
+2025/08/28 11:01:12 kid1| Closing Pinger socket on FD 32
+2025/08/28 11:01:12| Pinger exiting.
+2025/08/28 11:01:43 kid1| Shutdown: NTLM authentication.
+2025/08/28 11:01:43 kid1| Shutdown: Negotiate authentication.
+2025/08/28 11:01:43 kid1| Shutdown: Digest authentication.
+2025/08/28 11:01:43 kid1| Shutdown: Basic authentication.
+2025/08/28 11:01:43 kid1| Shutting down...
+2025/08/28 11:01:43 kid1| Closing unlinkd pipe on FD 25
+2025/08/28 11:01:43 kid1| storeDirWriteCleanLogs: Starting...
+2025/08/28 11:01:43 kid1|   Finished.  Wrote 7998 entries.
+2025/08/28 11:01:43 kid1|   Took 0.00 seconds (4202837.62 entries/sec).
+CPU Usage: 0.193 seconds = 0.128 user + 0.065 sys
+Maximum Resident Size: 113008 KB
+Page faults with physical i/o: 0
+2025/08/28 11:01:43 kid1| Logfile: closing log daemon:/var/log/squid/access.log
+2025/08/28 11:01:43 kid1| Logfile Daemon: closing log daemon:/var/log/squid/access.log
+2025/08/28 11:01:43 kid1| Open FD UNSTARTED    10 security_file_certgen #1
+2025/08/28 11:01:43 kid1| Open FD UNSTARTED    12 security_file_certgen #2
+2025/08/28 11:01:43 kid1| Open FD UNSTARTED    14 security_file_certgen #3
+2025/08/28 11:01:43 kid1| Open FD UNSTARTED    16 security_file_certgen #4
+2025/08/28 11:01:43 kid1| Open FD UNSTARTED    18 security_file_certgen #5
+2025/08/28 11:01:43 kid1| Open FD UNSTARTED    20 IPC UNIX STREAM Parent
+2025/08/28 11:01:43 kid1| Squid Cache (Version 5.7): Exiting normally.
+2025/08/28 11:01:43| Removing PID file (/run/squid.pid)
+2025/08/28 11:01:44 kid1| Set Current Directory to /var/spool/squid
+2025/08/28 11:01:44 kid1| Creating missing swap directories
+2025/08/28 11:01:44 kid1| /var/spool/squid exists
+2025/08/28 11:01:44 kid1| /var/spool/squid/00 exists
+2025/08/28 11:01:44 kid1| Making directories in /var/spool/squid/00
+2025/08/28 11:01:44 kid1| /var/spool/squid/01 exists
+2025/08/28 11:01:44 kid1| Making directories in /var/spool/squid/01
+2025/08/28 11:01:44 kid1| /var/spool/squid/02 exists
+2025/08/28 11:01:44 kid1| Making directories in /var/spool/squid/02
+2025/08/28 11:01:44 kid1| /var/spool/squid/03 exists
+2025/08/28 11:01:44 kid1| Making directories in /var/spool/squid/03
+2025/08/28 11:01:44 kid1| /var/spool/squid/04 exists
+2025/08/28 11:01:44 kid1| Making directories in /var/spool/squid/04
+2025/08/28 11:01:44 kid1| /var/spool/squid/05 exists
+2025/08/28 11:01:44 kid1| Making directories in /var/spool/squid/05
+2025/08/28 11:01:44 kid1| /var/spool/squid/06 exists
+2025/08/28 11:01:44 kid1| Making directories in /var/spool/squid/06
+2025/08/28 11:01:44 kid1| /var/spool/squid/07 exists
+2025/08/28 11:01:44 kid1| Making directories in /var/spool/squid/07
+2025/08/28 11:01:44 kid1| /var/spool/squid/08 exists
+2025/08/28 11:01:44 kid1| Making directories in /var/spool/squid/08
+2025/08/28 11:01:44 kid1| /var/spool/squid/09 exists
+2025/08/28 11:01:44 kid1| Making directories in /var/spool/squid/09
+2025/08/28 11:01:44 kid1| /var/spool/squid/0A exists
+2025/08/28 11:01:44 kid1| Making directories in /var/spool/squid/0A
+2025/08/28 11:01:44 kid1| /var/spool/squid/0B exists
+2025/08/28 11:01:44 kid1| Making directories in /var/spool/squid/0B
+2025/08/28 11:01:44 kid1| /var/spool/squid/0C exists
+2025/08/28 11:01:44 kid1| Making directories in /var/spool/squid/0C
+2025/08/28 11:01:44 kid1| /var/spool/squid/0D exists
+2025/08/28 11:01:44 kid1| Making directories in /var/spool/squid/0D
+2025/08/28 11:01:44 kid1| /var/spool/squid/0E exists
+2025/08/28 11:01:44 kid1| Making directories in /var/spool/squid/0E
+2025/08/28 11:01:44 kid1| /var/spool/squid/0F exists
+2025/08/28 11:01:44 kid1| Making directories in /var/spool/squid/0F
+2025/08/28 11:01:44| Removing PID file (/run/squid.pid)
+2025/08/28 11:01:44 kid1| Set Current Directory to /var/spool/squid
+2025/08/28 11:01:44 kid1| Starting Squid Cache version 5.7 for x86_64-pc-linux-gnu...
+2025/08/28 11:01:44 kid1| Service Name: squid
+2025/08/28 11:01:44 kid1| Process ID 431451
+2025/08/28 11:01:44 kid1| Process Roles: worker
+2025/08/28 11:01:44 kid1| With 1024 file descriptors available
+2025/08/28 11:01:44 kid1| Initializing IP Cache...
+2025/08/28 11:01:44 kid1| DNS Socket created at 0.0.0.0, FD 9
+2025/08/28 11:01:44 kid1| Adding nameserver 192.168.10.61 from squid.conf
+2025/08/28 11:01:44 kid1| helperOpenServers: Starting 5/5 'security_file_certgen' processes
+2025/08/28 11:01:44 kid1| helperOpenServers: Starting 0/30 'negotiate_kerberos_auth' processes
+2025/08/28 11:01:44 kid1| helperStatefulOpenServers: No 'negotiate_kerberos_auth' processes needed.
+2025/08/28 11:01:44 kid1| helperOpenServers: Starting 0/30 'basic_ldap_auth' processes
+2025/08/28 11:01:44 kid1| helperOpenServers: No 'basic_ldap_auth' processes needed.
+2025/08/28 11:01:44 kid1| helperOpenServers: Starting 0/5 'ext_kerberos_ldap_group_acl' processes
+2025/08/28 11:01:44 kid1| helperOpenServers: No 'ext_kerberos_ldap_group_acl' processes needed.
+2025/08/28 11:01:44 kid1| helperOpenServers: Starting 0/5 'ext_kerberos_ldap_group_acl' processes
+2025/08/28 11:01:44 kid1| helperOpenServers: No 'ext_kerberos_ldap_group_acl' processes needed.
+2025/08/28 11:01:44 kid1| helperOpenServers: Starting 0/5 'ext_kerberos_ldap_group_acl' processes
+2025/08/28 11:01:44 kid1| helperOpenServers: No 'ext_kerberos_ldap_group_acl' processes needed.
+2025/08/28 11:01:44 kid1| helperOpenServers: Starting 0/5 'ext_ldap_group_acl' processes
+2025/08/28 11:01:44 kid1| helperOpenServers: No 'ext_ldap_group_acl' processes needed.
+2025/08/28 11:01:44 kid1| Logfile: opening log daemon:/var/log/squid/access.log
+2025/08/28 11:01:44 kid1| Logfile Daemon: opening log /var/log/squid/access.log
+2025/08/28 11:01:44 kid1| Unlinkd pipe opened on FD 25
+2025/08/28 11:01:44 kid1| Local cache digest enabled; rebuild/rewrite every 3600/3600 sec
+2025/08/28 11:01:44 kid1| Store logging disabled
+2025/08/28 11:01:44 kid1| Swap maxSize 8388608 + 1048576 KB, estimated 725937 objects
+2025/08/28 11:01:44 kid1| Target number of buckets: 36296
+2025/08/28 11:01:44 kid1| Using 65536 Store buckets
+2025/08/28 11:01:44 kid1| Max Mem  size: 1048576 KB
+2025/08/28 11:01:44 kid1| Max Swap size: 8388608 KB
+2025/08/28 11:01:44 kid1| Rebuilding storage in /var/spool/squid (clean log)
+2025/08/28 11:01:44 kid1| Using Least Load store dir selection
+2025/08/28 11:01:44 kid1| Set Current Directory to /var/spool/squid
+2025/08/28 11:01:44 kid1| Finished loading MIME types and icons.
+2025/08/28 11:01:44 kid1| HTCP Disabled.
+2025/08/28 11:01:44 kid1| Pinger socket opened on FD 32
+2025/08/28 11:01:44 kid1| Squid plugin modules loaded: 0
+2025/08/28 11:01:44 kid1| Adaptation support is off.
+2025/08/28 11:01:44 kid1| Accepting HTTP Socket connections at conn12 local=0.0.0.0:8443 remote=[::] FD 28 flags=9
+2025/08/28 11:01:44 kid1| Accepting HTTP Socket connections at conn14 local=0.0.0.0:3128 remote=[::] FD 29 flags=9
+2025/08/28 11:01:44 kid1| Accepting SSL bumped HTTP Socket connections at conn16 local=0.0.0.0:8080 remote=[::] FD 30 flags=9
+2025/08/28 11:01:44 kid1| Store rebuilding is 50.01% complete
+2025/08/28 11:01:44| WARNING: BCP 177 violation. Detected non-functional IPv6 loopback.
+2025/08/28 11:01:44| pinger: Initialising ICMP pinger ...
+2025/08/28 11:01:44| pinger: ICMP socket opened.
+2025/08/28 11:01:44| pinger: ICMPv6 socket opened
+2025/08/28 11:01:44 kid1| Done reading /var/spool/squid swaplog (7998 entries)
+2025/08/28 11:01:44 kid1| Finished rebuilding storage from disk.
+2025/08/28 11:01:44 kid1|      7998 Entries scanned
+2025/08/28 11:01:44 kid1|         0 Invalid entries.
+2025/08/28 11:01:44 kid1|         0 With invalid flags.
+2025/08/28 11:01:44 kid1|      7998 Objects loaded.
+2025/08/28 11:01:44 kid1|         0 Objects expired.
+2025/08/28 11:01:44 kid1|         0 Objects cancelled.
+2025/08/28 11:01:44 kid1|         0 Duplicate URLs purged.
+2025/08/28 11:01:44 kid1|         0 Swapfile clashes avoided.
+2025/08/28 11:01:44 kid1|   Took 0.06 seconds (126256.97 objects/sec).
+2025/08/28 11:01:44 kid1| Beginning Validation Procedure
+2025/08/28 11:01:44 kid1|   Completed Validation Procedure
+2025/08/28 11:01:44 kid1|   Validated 7998 Entries
+2025/08/28 11:01:44 kid1|   store_swap_size = 207160.00 KB
+2025/08/28 11:01:45 kid1| storeLateRelease: released 0 objects
+2025/08/28 11:06:07 kid1| Starting new negotiateauthenticator helpers...
+    current master transaction: master61
+2025/08/28 11:06:07 kid1| helperOpenServers: Starting 1/30 'negotiate_kerberos_auth' processes
+    current master transaction: master61
+2025/08/28 11:06:07 kid1| Starting new external_acl_type helpers...
+    current master transaction: master61
+2025/08/28 11:06:07 kid1| helperOpenServers: Starting 1/5 'ext_kerberos_ldap_group_acl' processes
+    current master transaction: master61
+2025/08/28 11:06:07 kid1| Starting new external_acl_type helpers...
+    current master transaction: master61
+2025/08/28 11:06:07 kid1| helperOpenServers: Starting 1/5 'ext_kerberos_ldap_group_acl' processes
+    current master transaction: master61
+2025/08/28 11:06:11 kid1| Starting new negotiateauthenticator helpers...
+    current master transaction: master98
+2025/08/28 11:06:11 kid1| helperOpenServers: Starting 1/30 'negotiate_kerberos_auth' processes
+    current master transaction: master98
+2025/08/28 11:06:11 kid1| Starting new negotiateauthenticator helpers...
+    current master transaction: master99
+2025/08/28 11:06:11 kid1| helperOpenServers: Starting 1/30 'negotiate_kerberos_auth' processes
+    current master transaction: master99
+2025/08/28 11:11:23 kid1| parse URL too large (9151 bytes)
+    current from-client connection: conn858 local=192.168.10.11:8080 remote=192.168.10.41:49675 FD 34 flags=1
+2025/08/28 11:11:23 kid1| ALE missing HttpRequest object
+    current from-client connection: conn858 local=192.168.10.11:8080 remote=192.168.10.41:49675 FD 34 flags=1
+2025/08/28 11:11:24 kid1| Starting new negotiateauthenticator helpers...
+    current master transaction: master639
+2025/08/28 11:11:24 kid1| helperOpenServers: Starting 1/30 'negotiate_kerberos_auth' processes
+    current master transaction: master639
+2025/08/28 11:35:07 kid1| Starting new external_acl_type helpers...
+    current master transaction: master61
+2025/08/28 11:35:07 kid1| helperOpenServers: Starting 1/5 'ext_kerberos_ldap_group_acl' processes
+    current master transaction: master61
+2025/08/28 11:47:09 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/08/28 11:47:09 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/08/28 11:47:09 kid1| NETDB state saved; 18 entries, 0 msec
+2025/08/28 12:16:40 kid1| parse URL too large (9075 bytes)
+    current from-client connection: conn5575 local=192.168.10.11:8080 remote=192.168.10.41:59629 FD 17 flags=1
+2025/08/28 12:16:40 kid1| ALE missing HttpRequest object
+    current from-client connection: conn5575 local=192.168.10.11:8080 remote=192.168.10.41:59629 FD 17 flags=1
+2025/08/28 12:17:21 kid1| parse URL too large (9102 bytes)
+    current from-client connection: conn6149 local=192.168.10.11:8080 remote=192.168.10.41:59713 FD 37 flags=1
+2025/08/28 12:17:21 kid1| ALE missing HttpRequest object
+    current from-client connection: conn6149 local=192.168.10.11:8080 remote=192.168.10.41:59713 FD 37 flags=1
+2025/08/28 12:17:21 kid1| parse URL too large (9106 bytes)
+    current from-client connection: conn6144 local=192.168.10.11:8080 remote=192.168.10.41:59712 FD 34 flags=1
+2025/08/28 12:17:21 kid1| ALE missing HttpRequest object
+    current from-client connection: conn6144 local=192.168.10.11:8080 remote=192.168.10.41:59712 FD 34 flags=1
+2025/08/28 12:17:22 kid1| parse URL too large (9103 bytes)
+    current from-client connection: conn6292 local=192.168.10.11:8080 remote=192.168.10.41:59729 FD 38 flags=1
+2025/08/28 12:17:22 kid1| ALE missing HttpRequest object
+    current from-client connection: conn6292 local=192.168.10.11:8080 remote=192.168.10.41:59729 FD 38 flags=1
+2025/08/28 12:17:22 kid1| parse URL too large (8310 bytes)
+    current from-client connection: conn6140 local=192.168.10.11:8080 remote=192.168.10.41:59708 FD 24 flags=1
+2025/08/28 12:17:22 kid1| ALE missing HttpRequest object
+    current from-client connection: conn6140 local=192.168.10.11:8080 remote=192.168.10.41:59708 FD 24 flags=1
+2025/08/28 12:17:22 kid1| parse URL too large (8311 bytes)
+    current from-client connection: conn6141 local=192.168.10.11:8080 remote=192.168.10.41:59709 FD 27 flags=1
+2025/08/28 12:17:22 kid1| ALE missing HttpRequest object
+    current from-client connection: conn6141 local=192.168.10.11:8080 remote=192.168.10.41:59709 FD 27 flags=1
+2025/08/28 12:17:22 kid1| parse URL too large (8314 bytes)
+    current from-client connection: conn6313 local=192.168.10.11:8080 remote=192.168.10.41:59732 FD 38 flags=1
+2025/08/28 12:17:22 kid1| ALE missing HttpRequest object
+    current from-client connection: conn6313 local=192.168.10.11:8080 remote=192.168.10.41:59732 FD 38 flags=1
+2025/08/28 13:05:55 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/08/28 13:05:55 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/08/28 13:05:55 kid1| NETDB state saved; 25 entries, 0 msec
+2025/08/28 13:56:55 kid1| Preparing for shutdown after 3860 requests
+2025/08/28 13:56:55 kid1| Waiting 30 seconds for active connections to finish
+2025/08/28 13:56:55 kid1| Closing HTTP(S) port 0.0.0.0:8443
+2025/08/28 13:56:55 kid1| Closing HTTP(S) port 0.0.0.0:3128
+2025/08/28 13:56:55 kid1| Closing HTTP(S) port 0.0.0.0:8080
+2025/08/28 13:56:55 kid1| Closing Pinger socket on FD 32
+2025/08/28 13:56:58| Pinger exiting.
+2025/08/28 13:57:26 kid1| Shutdown: NTLM authentication.
+2025/08/28 13:57:26 kid1| Shutdown: Negotiate authentication.
+2025/08/28 13:57:26 kid1| Shutdown: Digest authentication.
+2025/08/28 13:57:26 kid1| Shutdown: Basic authentication.
+2025/08/28 13:57:26 kid1| Shutting down...
+2025/08/28 13:57:26 kid1| Closing unlinkd pipe on FD 25
+2025/08/28 13:57:26 kid1| storeDirWriteCleanLogs: Starting...
+2025/08/28 13:57:26 kid1|   Finished.  Wrote 8808 entries.
+2025/08/28 13:57:26 kid1|   Took 0.00 seconds (3663893.51 entries/sec).
+CPU Usage: 22.022 seconds = 17.344 user + 4.678 sys
+Maximum Resident Size: 246992 KB
+Page faults with physical i/o: 0
+2025/08/28 13:57:26 kid1| Logfile: closing log daemon:/var/log/squid/access.log
+2025/08/28 13:57:26 kid1| Logfile Daemon: closing log daemon:/var/log/squid/access.log
+2025/08/28 13:57:26 kid1| Open FD READ/WRITE   10 security_file_certgen #1
+2025/08/28 13:57:26 kid1| Open FD READ/WRITE   12 security_file_certgen #2
+2025/08/28 13:57:26 kid1| Open FD READ/WRITE   14 security_file_certgen #3
+2025/08/28 13:57:26 kid1| Open FD READ/WRITE   15 negotiate_kerberos_auth #1
+2025/08/28 13:57:26 kid1| Open FD READ/WRITE   16 security_file_certgen #4
+2025/08/28 13:57:26 kid1| Open FD UNSTARTED    18 security_file_certgen #5
+2025/08/28 13:57:26 kid1| Open FD READ/WRITE   19 ext_kerberos_ldap_group_acl #1
+2025/08/28 13:57:26 kid1| Open FD UNSTARTED    20 IPC UNIX STREAM Parent
+2025/08/28 13:57:26 kid1| Open FD READ/WRITE   21 ext_kerberos_ldap_group_acl #1
+2025/08/28 13:57:26 kid1| Open FD READ/WRITE   26 ext_kerberos_ldap_group_acl #1
+2025/08/28 13:57:26 kid1| Open FD READ/WRITE   36 negotiate_kerberos_auth #1
+2025/08/28 13:57:26 kid1| Open FD READ/WRITE   42 negotiate_kerberos_auth #1
+2025/08/28 13:57:26 kid1| Open FD READ/WRITE   72 negotiate_kerberos_auth #1
+2025/08/28 13:57:26 kid1| Squid Cache (Version 5.7): Exiting normally.
+2025/08/28 13:57:26| Removing PID file (/run/squid.pid)
+2025/08/28 13:57:40 kid1| Set Current Directory to /var/spool/squid
+2025/08/28 13:57:40 kid1| Creating missing swap directories
+2025/08/28 13:57:40 kid1| /var/spool/squid exists
+2025/08/28 13:57:40 kid1| /var/spool/squid/00 exists
+2025/08/28 13:57:40 kid1| Making directories in /var/spool/squid/00
+2025/08/28 13:57:40 kid1| /var/spool/squid/01 exists
+2025/08/28 13:57:40 kid1| Making directories in /var/spool/squid/01
+2025/08/28 13:57:40 kid1| /var/spool/squid/02 exists
+2025/08/28 13:57:40 kid1| Making directories in /var/spool/squid/02
+2025/08/28 13:57:40 kid1| /var/spool/squid/03 exists
+2025/08/28 13:57:40 kid1| Making directories in /var/spool/squid/03
+2025/08/28 13:57:40 kid1| /var/spool/squid/04 exists
+2025/08/28 13:57:40 kid1| Making directories in /var/spool/squid/04
+2025/08/28 13:57:40 kid1| /var/spool/squid/05 exists
+2025/08/28 13:57:40 kid1| Making directories in /var/spool/squid/05
+2025/08/28 13:57:40 kid1| /var/spool/squid/06 exists
+2025/08/28 13:57:40 kid1| Making directories in /var/spool/squid/06
+2025/08/28 13:57:40 kid1| /var/spool/squid/07 exists
+2025/08/28 13:57:40 kid1| Making directories in /var/spool/squid/07
+2025/08/28 13:57:40 kid1| /var/spool/squid/08 exists
+2025/08/28 13:57:40 kid1| Making directories in /var/spool/squid/08
+2025/08/28 13:57:40 kid1| /var/spool/squid/09 exists
+2025/08/28 13:57:40 kid1| Making directories in /var/spool/squid/09
+2025/08/28 13:57:40 kid1| /var/spool/squid/0A exists
+2025/08/28 13:57:40 kid1| Making directories in /var/spool/squid/0A
+2025/08/28 13:57:40 kid1| /var/spool/squid/0B exists
+2025/08/28 13:57:40 kid1| Making directories in /var/spool/squid/0B
+2025/08/28 13:57:40 kid1| /var/spool/squid/0C exists
+2025/08/28 13:57:40 kid1| Making directories in /var/spool/squid/0C
+2025/08/28 13:57:40 kid1| /var/spool/squid/0D exists
+2025/08/28 13:57:40 kid1| Making directories in /var/spool/squid/0D
+2025/08/28 13:57:40 kid1| /var/spool/squid/0E exists
+2025/08/28 13:57:40 kid1| Making directories in /var/spool/squid/0E
+2025/08/28 13:57:40 kid1| /var/spool/squid/0F exists
+2025/08/28 13:57:40 kid1| Making directories in /var/spool/squid/0F
+2025/08/28 13:57:40| Removing PID file (/run/squid.pid)
+2025/08/28 13:57:40 kid1| Set Current Directory to /var/spool/squid
+2025/08/28 13:57:40 kid1| Starting Squid Cache version 5.7 for x86_64-pc-linux-gnu...
+2025/08/28 13:57:40 kid1| Service Name: squid
+2025/08/28 13:57:40 kid1| Process ID 492852
+2025/08/28 13:57:40 kid1| Process Roles: worker
+2025/08/28 13:57:40 kid1| With 1024 file descriptors available
+2025/08/28 13:57:40 kid1| Initializing IP Cache...
+2025/08/28 13:57:40 kid1| DNS Socket created at 0.0.0.0, FD 9
+2025/08/28 13:57:40 kid1| Adding nameserver 192.168.10.61 from squid.conf
+2025/08/28 13:57:40 kid1| helperOpenServers: Starting 5/5 'security_file_certgen' processes
+2025/08/28 13:57:40 kid1| helperOpenServers: Starting 0/30 'negotiate_kerberos_auth' processes
+2025/08/28 13:57:40 kid1| helperStatefulOpenServers: No 'negotiate_kerberos_auth' processes needed.
+2025/08/28 13:57:40 kid1| helperOpenServers: Starting 0/30 'basic_ldap_auth' processes
+2025/08/28 13:57:40 kid1| helperOpenServers: No 'basic_ldap_auth' processes needed.
+2025/08/28 13:57:40 kid1| helperOpenServers: Starting 0/5 'ext_kerberos_ldap_group_acl' processes
+2025/08/28 13:57:40 kid1| helperOpenServers: No 'ext_kerberos_ldap_group_acl' processes needed.
+2025/08/28 13:57:40 kid1| helperOpenServers: Starting 0/5 'ext_kerberos_ldap_group_acl' processes
+2025/08/28 13:57:40 kid1| helperOpenServers: No 'ext_kerberos_ldap_group_acl' processes needed.
+2025/08/28 13:57:40 kid1| helperOpenServers: Starting 0/5 'ext_kerberos_ldap_group_acl' processes
+2025/08/28 13:57:40 kid1| helperOpenServers: No 'ext_kerberos_ldap_group_acl' processes needed.
+2025/08/28 13:57:40 kid1| helperOpenServers: Starting 0/5 'ext_ldap_group_acl' processes
+2025/08/28 13:57:40 kid1| helperOpenServers: No 'ext_ldap_group_acl' processes needed.
+2025/08/28 13:57:40 kid1| Logfile: opening log daemon:/var/log/squid/access.log
+2025/08/28 13:57:40 kid1| Logfile Daemon: opening log /var/log/squid/access.log
+2025/08/28 13:57:41 kid1| Unlinkd pipe opened on FD 25
+2025/08/28 13:57:41 kid1| Local cache digest enabled; rebuild/rewrite every 3600/3600 sec
+2025/08/28 13:57:41 kid1| Store logging disabled
+2025/08/28 13:57:41 kid1| Swap maxSize 8388608 + 1048576 KB, estimated 725937 objects
+2025/08/28 13:57:41 kid1| Target number of buckets: 36296
+2025/08/28 13:57:41 kid1| Using 65536 Store buckets
+2025/08/28 13:57:41 kid1| Max Mem  size: 1048576 KB
+2025/08/28 13:57:41 kid1| Max Swap size: 8388608 KB
+2025/08/28 13:57:41 kid1| Rebuilding storage in /var/spool/squid (clean log)
+2025/08/28 13:57:41 kid1| Using Least Load store dir selection
+2025/08/28 13:57:41 kid1| Set Current Directory to /var/spool/squid
+2025/08/28 13:57:41 kid1| Finished loading MIME types and icons.
+2025/08/28 13:57:41 kid1| HTCP Disabled.
+2025/08/28 13:57:41 kid1| Pinger socket opened on FD 32
+2025/08/28 13:57:41 kid1| Squid plugin modules loaded: 0
+2025/08/28 13:57:41 kid1| Adaptation support is off.
+2025/08/28 13:57:41 kid1| Accepting HTTP Socket connections at conn12 local=0.0.0.0:8443 remote=[::] FD 28 flags=9
+2025/08/28 13:57:41 kid1| Accepting HTTP Socket connections at conn14 local=0.0.0.0:3128 remote=[::] FD 29 flags=9
+2025/08/28 13:57:41 kid1| Accepting SSL bumped HTTP Socket connections at conn16 local=0.0.0.0:8080 remote=[::] FD 30 flags=9
+2025/08/28 13:57:41 kid1| Store rebuilding is 45.41% complete
+2025/08/28 13:57:41| WARNING: BCP 177 violation. Detected non-functional IPv6 loopback.
+2025/08/28 13:57:41| pinger: Initialising ICMP pinger ...
+2025/08/28 13:57:41| pinger: ICMP socket opened.
+2025/08/28 13:57:41| pinger: ICMPv6 socket opened
+2025/08/28 13:57:41 kid1| Done reading /var/spool/squid swaplog (8808 entries)
+2025/08/28 13:57:41 kid1| Finished rebuilding storage from disk.
+2025/08/28 13:57:41 kid1|      8808 Entries scanned
+2025/08/28 13:57:41 kid1|         0 Invalid entries.
+2025/08/28 13:57:41 kid1|         0 With invalid flags.
+2025/08/28 13:57:41 kid1|      8808 Objects loaded.
+2025/08/28 13:57:41 kid1|         0 Objects expired.
+2025/08/28 13:57:41 kid1|         0 Objects cancelled.
+2025/08/28 13:57:41 kid1|         0 Duplicate URLs purged.
+2025/08/28 13:57:41 kid1|         0 Swapfile clashes avoided.
+2025/08/28 13:57:41 kid1|   Took 0.07 seconds (131895.78 objects/sec).
+2025/08/28 13:57:41 kid1| Beginning Validation Procedure
+2025/08/28 13:57:41 kid1|   Completed Validation Procedure
+2025/08/28 13:57:41 kid1|   Validated 8808 Entries
+2025/08/28 13:57:41 kid1|   store_swap_size = 223312.00 KB
+2025/08/28 13:57:42 kid1| storeLateRelease: released 0 objects
+2025/08/28 14:01:52 kid1| Starting new negotiateauthenticator helpers...
+    current master transaction: master55
+2025/08/28 14:01:52 kid1| helperOpenServers: Starting 1/30 'negotiate_kerberos_auth' processes
+    current master transaction: master55
+2025/08/28 14:01:52 kid1| Starting new external_acl_type helpers...
+    current master transaction: master55
+2025/08/28 14:01:52 kid1| helperOpenServers: Starting 1/5 'ext_kerberos_ldap_group_acl' processes
+    current master transaction: master55
+2025/08/28 14:01:52 kid1| Starting new external_acl_type helpers...
+    current master transaction: master55
+2025/08/28 14:01:52 kid1| helperOpenServers: Starting 1/5 'ext_kerberos_ldap_group_acl' processes
+    current master transaction: master55
+2025/08/28 14:01:52 kid1| Starting new external_acl_type helpers...
+    current master transaction: master55
+2025/08/28 14:01:52 kid1| helperOpenServers: Starting 1/5 'ext_kerberos_ldap_group_acl' processes
+    current master transaction: master55
+2025/08/28 14:01:53 kid1| ERROR: failure while accepting a TLS connection on conn20 local=192.168.10.11:8080 remote=192.168.11.5:60062 FD 13 flags=1: 0x562a9f4160e0*1
+    current master transaction: master55
+2025/08/28 14:01:54 kid1| ERROR: failure while accepting a TLS connection on conn40 local=192.168.10.11:8080 remote=192.168.11.5:60067 FD 13 flags=1: 0x562a9f41ee30*1
+    current master transaction: master55
+2025/08/28 14:01:55 kid1| ERROR: failure while accepting a TLS connection on conn46 local=192.168.10.11:8080 remote=192.168.11.5:60068 FD 13 flags=1: 0x562a9f41ee30*1
+    current master transaction: master55
+2025/08/28 14:01:55 kid1| ERROR: failure while accepting a TLS connection on conn52 local=192.168.10.11:8080 remote=192.168.11.5:60069 FD 24 flags=1: 0x562a9f41ee30*1
+    current master transaction: master55
+2025/08/28 14:01:55 kid1| ERROR: failure while accepting a TLS connection on conn59 local=192.168.10.11:8080 remote=192.168.11.5:60071 FD 17 flags=1: 0x562a9f41ee30*1
+    current master transaction: master55
+2025/08/28 14:01:55 kid1| ERROR: failure while accepting a TLS connection on conn58 local=192.168.10.11:8080 remote=192.168.11.5:60070 FD 13 flags=1: 0x562a9f4d6850*1
+    current master transaction: master55
+2025/08/28 14:01:55 kid1| ERROR: failure while accepting a TLS connection on conn65 local=192.168.10.11:8080 remote=192.168.11.5:60072 FD 26 flags=1: 0x562a9f4d69b0*1
+    current master transaction: master55
+2025/08/28 14:01:57 kid1| Starting new negotiateauthenticator helpers...
+    current master transaction: master79
+2025/08/28 14:01:57 kid1| helperOpenServers: Starting 1/30 'negotiate_kerberos_auth' processes
+    current master transaction: master79
+2025/08/28 14:01:58 kid1| ERROR: failure while accepting a TLS connection on conn76 local=192.168.10.11:8080 remote=192.168.11.5:60080 FD 13 flags=1: 0x562a9f4d69b0*1
+    current master transaction: master55
+2025/08/28 14:01:58 kid1| ERROR: failure while accepting a TLS connection on conn77 local=192.168.10.11:8080 remote=192.168.11.5:60081 FD 17 flags=1: 0x562a9f4d69b0*1
+    current master transaction: master55
+2025/08/28 14:02:03 kid1| ERROR: failure while accepting a TLS connection on conn90 local=192.168.10.11:8080 remote=192.168.11.5:60100 FD 13 flags=1: 0x562a9f4d6850*1
+    current master transaction: master55
+2025/08/28 14:03:21 kid1| Starting new negotiateauthenticator helpers...
+    current master transaction: master584
+2025/08/28 14:03:21 kid1| helperOpenServers: Starting 1/30 'negotiate_kerberos_auth' processes
+    current master transaction: master584
+2025/08/28 14:03:26 kid1| Starting new negotiateauthenticator helpers...
+    current master transaction: master637
+2025/08/28 14:03:26 kid1| helperOpenServers: Starting 1/30 'negotiate_kerberos_auth' processes
+    current master transaction: master637
+2025/08/28 14:03:26 kid1| Starting new negotiateauthenticator helpers...
+    current master transaction: master638
+2025/08/28 14:03:26 kid1| helperOpenServers: Starting 1/30 'negotiate_kerberos_auth' processes
+    current master transaction: master638
+2025/08/28 14:03:26 kid1| Starting new negotiateauthenticator helpers...
+    current master transaction: master639
+2025/08/28 14:03:26 kid1| helperOpenServers: Starting 1/30 'negotiate_kerberos_auth' processes
+    current master transaction: master639
+2025/08/28 14:03:26 kid1| Starting new negotiateauthenticator helpers...
+    current master transaction: master640
+2025/08/28 14:03:26 kid1| helperOpenServers: Starting 1/30 'negotiate_kerberos_auth' processes
+    current master transaction: master640
+2025/08/28 14:04:16 kid1| ERROR: failure while accepting a TLS connection on conn1657 local=192.168.10.11:8080 remote=192.168.11.5:60410 FD 17 flags=1: 0x562a9f4d6850*1
+    current master transaction: master55
+2025/08/28 14:04:16 kid1| ERROR: failure while accepting a TLS connection on conn1656 local=192.168.10.11:8080 remote=192.168.11.5:60409 FD 13 flags=1: 0x562a9f41ee30*1
+    current master transaction: master55
+2025/08/28 14:04:38 kid1| ERROR: failure while accepting a TLS connection on conn1685 local=192.168.10.11:8080 remote=192.168.11.5:60459 FD 13 flags=1: 0x562a9f41ee30*1
+    current master transaction: master55
+2025/08/28 14:04:38 kid1| ERROR: failure while accepting a TLS connection on conn1686 local=192.168.10.11:8080 remote=192.168.11.5:60460 FD 17 flags=1: 0x562a9f4d6850*1
+    current master transaction: master55
+2025/08/28 14:43:06 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/08/28 14:43:06 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/08/28 14:43:06 kid1| NETDB state saved; 23 entries, 0 msec
+support_sasl.cc(276): pid=494247 :2025/08/28 15:18:28| kerberos_ldap_group: ERROR: ldap_sasl_interactive_bind_s error: Can't contact LDAP server
+support_ldap.cc(1085): pid=494247 :2025/08/28 15:18:28| kerberos_ldap_group: ERROR: Error while binding to ldap server with SASL/GSSAPI: Can't contact LDAP server
+2025/08/28 16:01:51 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/08/28 16:01:51 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/08/28 16:01:51 kid1| NETDB state saved; 41 entries, 0 msec
+2025/08/28 17:03:44 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/08/28 17:03:44 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/08/28 17:03:44 kid1| NETDB state saved; 48 entries, 0 msec
+2025/08/28 18:23:27 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/08/28 18:23:27 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/08/28 18:23:27 kid1| NETDB state saved; 49 entries, 0 msec
+2025/08/28 19:32:29 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/08/28 19:32:29 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/08/28 19:32:29 kid1| NETDB state saved; 51 entries, 1 msec
+2025/08/28 20:16:53 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/08/28 20:16:53 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/08/28 20:16:53 kid1| NETDB state saved; 53 entries, 0 msec
+2025/08/28 21:28:48 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/08/28 21:28:48 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/08/28 21:28:48 kid1| NETDB state saved; 54 entries, 0 msec
+2025/08/28 22:23:16 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/08/28 22:23:16 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/08/28 22:23:16 kid1| NETDB state saved; 54 entries, 0 msec
+2025/08/28 23:19:13 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/08/28 23:19:13 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/08/28 23:19:13 kid1| NETDB state saved; 54 entries, 0 msec
+2025/08/29 00:00:21 kid1| Closing Pinger socket on FD 32
+2025/08/29 00:00:21 kid1| log rotation failed: (2) No such file or directory
+2025/08/29 00:00:21 kid1| renaming file /var/log/squid/cache.log to /var/log/squid/cache.log.0failed: (2) No such file or directory
+2025/08/29 00:00:41| Pinger exiting.
+2025/08/29 08:32:57| Removing PID file (/run/squid.pid)

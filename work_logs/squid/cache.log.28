@@ -1,0 +1,563 @@
+2025/08/16 00:00:32 kid1| storeDirWriteCleanLogs: Starting...
+2025/08/16 00:00:32 kid1|   Finished.  Wrote 18373 entries.
+2025/08/16 00:00:32 kid1|   Took 0.03 seconds (562812.07 entries/sec).
+2025/08/16 00:00:32 kid1| logfileRotate: daemon:/var/log/squid/access.log
+2025/08/16 00:00:32 kid1| logfileRotate: daemon:/var/log/squid/access.log
+2025/08/16 00:00:32 kid1| Pinger socket opened on FD 13
+2025/08/16 00:00:32 kid1| helperOpenServers: Starting 1/30 'negotiate_kerberos_auth' processes
+2025/08/16 00:00:32 kid1| helperOpenServers: Starting 1/30 'basic_ldap_auth' processes
+2025/08/16 00:00:32 kid1| helperOpenServers: Starting 1/5 'ext_kerberos_ldap_group_acl' processes
+2025/08/16 00:00:32 kid1| helperOpenServers: Starting 1/5 'ext_kerberos_ldap_group_acl' processes
+2025/08/16 00:00:32 kid1| helperOpenServers: Starting 1/5 'ext_kerberos_ldap_group_acl' processes
+2025/08/16 00:00:32 kid1| helperOpenServers: Starting 1/5 'ext_ldap_group_acl' processes
+2025/08/16 00:00:32| WARNING: BCP 177 violation. Detected non-functional IPv6 loopback.
+2025/08/16 00:00:32| pinger: Initialising ICMP pinger ...
+2025/08/16 00:00:32| pinger: ICMP socket opened.
+2025/08/16 00:00:32| pinger: ICMPv6 socket opened
+2025/08/16 00:02:34 kid1| ERROR: failure while accepting a TLS connection on conn46369 local=192.168.10.11:8080 remote=192.168.11.50:64838 FD 11 flags=1: 0x56027b8a0670*1
+    current master transaction: master9526
+2025/08/16 00:02:34 kid1| ERROR: failure while accepting a TLS connection on conn46375 local=192.168.10.11:8080 remote=192.168.11.50:64840 FD 12 flags=1: 0x56027b8a0670*1
+    current master transaction: master9526
+2025/08/16 00:02:34 kid1| ERROR: failure while accepting a TLS connection on conn46381 local=192.168.10.11:8080 remote=192.168.11.50:64842 FD 17 flags=1: 0x56027b8a0670*1
+    current master transaction: master9526
+2025/08/16 00:02:35 kid1| ERROR: failure while accepting a TLS connection on conn46387 local=192.168.10.11:8080 remote=192.168.11.50:64844 FD 19 flags=1: 0x56027b8a0670*1
+    current master transaction: master9526
+2025/08/16 00:02:35 kid1| ERROR: failure while accepting a TLS connection on conn46393 local=192.168.10.11:8080 remote=192.168.11.50:64846 FD 22 flags=1: 0x56027b8a0670*1
+    current master transaction: master9526
+2025/08/16 00:02:35 kid1| ERROR: failure while accepting a TLS connection on conn46399 local=192.168.10.11:8080 remote=192.168.11.50:64848 FD 24 flags=1: 0x56027b8a0670*1
+    current master transaction: master9526
+2025/08/16 00:02:35 kid1| ERROR: failure while accepting a TLS connection on conn46405 local=192.168.10.11:8080 remote=192.168.11.50:64850 FD 27 flags=1: 0x56027b8a0670*1
+    current master transaction: master9526
+2025/08/16 00:02:35 kid1| ERROR: failure while accepting a TLS connection on conn46411 local=192.168.10.11:8080 remote=192.168.11.50:64852 FD 29 flags=1: 0x56027b8a0670*1
+    current master transaction: master9526
+2025/08/16 00:02:35 kid1| ERROR: failure while accepting a TLS connection on conn46417 local=192.168.10.11:8080 remote=192.168.11.50:64854 FD 30 flags=1: 0x56027b8a0670*1
+    current master transaction: master9526
+2025/08/16 00:02:36 kid1| ERROR: failure while accepting a TLS connection on conn46423 local=192.168.10.11:8080 remote=192.168.11.50:64856 FD 32 flags=1: 0x56027b8a0670*1
+    current master transaction: master9526
+2025/08/16 00:02:36 kid1| ERROR: failure while accepting a TLS connection on conn46429 local=192.168.10.11:8080 remote=192.168.11.50:64858 FD 36 flags=1: 0x56027b8a0670*1
+    current master transaction: master9526
+2025/08/16 00:02:40 kid1| ERROR: failure while accepting a TLS connection on conn46438 local=192.168.10.11:8080 remote=192.168.11.50:64863 FD 39 flags=1: 0x56027b8a0670*1
+    current master transaction: master9526
+2025/08/16 00:02:41 kid1| ERROR: failure while accepting a TLS connection on conn46444 local=192.168.10.11:8080 remote=192.168.11.50:64865 FD 42 flags=1: 0x56027b8a0670*1
+    current master transaction: master9526
+2025/08/16 00:02:41 kid1| ERROR: failure while accepting a TLS connection on conn46450 local=192.168.10.11:8080 remote=192.168.11.50:64867 FD 43 flags=1: 0x56027b8a0670*1
+    current master transaction: master9526
+2025/08/16 00:02:41 kid1| ERROR: failure while accepting a TLS connection on conn46456 local=192.168.10.11:8080 remote=192.168.11.50:64869 FD 44 flags=1: 0x56027b8a0670*1
+    current master transaction: master9526
+2025/08/16 00:02:41 kid1| ERROR: failure while accepting a TLS connection on conn46462 local=192.168.10.11:8080 remote=192.168.11.50:64871 FD 45 flags=1: 0x56027b8a0670*1
+    current master transaction: master9526
+2025/08/16 00:02:41 kid1| ERROR: failure while accepting a TLS connection on conn46468 local=192.168.10.11:8080 remote=192.168.11.50:64873 FD 46 flags=1: 0x56027b8a0670*1
+    current master transaction: master9526
+2025/08/16 00:02:42 kid1| ERROR: failure while accepting a TLS connection on conn46474 local=192.168.10.11:8080 remote=192.168.11.50:64875 FD 47 flags=1: 0x56027b8a0670*1
+    current master transaction: master9526
+2025/08/16 00:02:42 kid1| ERROR: failure while accepting a TLS connection on conn46480 local=192.168.10.11:8080 remote=192.168.11.50:64877 FD 48 flags=1: 0x56027b8a0670*1
+    current master transaction: master9526
+2025/08/16 00:02:42 kid1| ERROR: failure while accepting a TLS connection on conn46486 local=192.168.10.11:8080 remote=192.168.11.50:64879 FD 49 flags=1: 0x56027b8a0670*1
+    current master transaction: master9526
+2025/08/16 00:02:42 kid1| ERROR: failure while accepting a TLS connection on conn46492 local=192.168.10.11:8080 remote=192.168.11.50:64881 FD 50 flags=1: 0x56027b8a0670*1
+    current master transaction: master9526
+2025/08/16 00:02:42 kid1| ERROR: failure while accepting a TLS connection on conn46498 local=192.168.10.11:8080 remote=192.168.11.50:64883 FD 51 flags=1: 0x56027b8a0670*1
+    current master transaction: master9526
+2025/08/16 00:02:42 kid1| ERROR: failure while accepting a TLS connection on conn46504 local=192.168.10.11:8080 remote=192.168.11.50:64885 FD 51 flags=1: 0x56027b8a0670*1
+    current master transaction: master9526
+2025/08/16 00:06:59 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/08/16 00:06:59 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/08/16 00:06:59 kid1| NETDB state saved; 178 entries, 0 msec
+2025/08/16 00:23:02 kid1| ERROR: failure while accepting a TLS connection on conn46632 local=192.168.10.11:8080 remote=192.168.10.40:60055 FD 11 flags=1: 0x56027b8a0670*1
+    current master transaction: master9526
+2025/08/16 00:23:03 kid1| ERROR: failure while accepting a TLS connection on conn46637 local=192.168.10.11:8080 remote=192.168.10.40:60056 FD 11 flags=1: 0x56027b8a0670*1
+    current master transaction: master9526
+2025/08/16 00:55:28 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/08/16 00:55:28 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/08/16 00:55:28 kid1| NETDB state saved; 181 entries, 2 msec
+2025/08/16 01:51:25 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/08/16 01:51:25 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/08/16 01:51:25 kid1| NETDB state saved; 182 entries, 1 msec
+2025/08/16 01:54:05 kid1| Starting new negotiateauthenticator helpers...
+    current master transaction: master29624
+2025/08/16 01:54:05 kid1| helperOpenServers: Starting 1/30 'negotiate_kerberos_auth' processes
+    current master transaction: master29624
+2025/08/16 01:55:47 kid1| Starting new negotiateauthenticator helpers...
+    current master transaction: master29740
+2025/08/16 01:55:47 kid1| helperOpenServers: Starting 1/30 'negotiate_kerberos_auth' processes
+    current master transaction: master29740
+2025/08/16 02:17:29 kid1| ERROR: failure while accepting a TLS connection on conn47688 local=192.168.10.11:8080 remote=192.168.10.40:60354 FD 11 flags=1: 0x56027b8a0670*1
+    current master transaction: master9526
+2025/08/16 02:50:24 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/08/16 02:50:24 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/08/16 02:50:24 kid1| NETDB state saved; 182 entries, 2 msec
+2025/08/16 03:32:34 kid1| ERROR: failure while accepting a TLS connection on conn48313 local=192.168.10.11:8080 remote=192.168.11.50:65006 FD 3 flags=1: 0x56027b8a0670*1
+    current master transaction: master9526
+2025/08/16 03:32:35 kid1| ERROR: failure while accepting a TLS connection on conn48319 local=192.168.10.11:8080 remote=192.168.11.50:65008 FD 11 flags=1: 0x56027b8a0670*1
+    current master transaction: master9526
+2025/08/16 03:32:35 kid1| ERROR: failure while accepting a TLS connection on conn48325 local=192.168.10.11:8080 remote=192.168.11.50:65010 FD 12 flags=1: 0x56027b8a0670*1
+    current master transaction: master9526
+2025/08/16 03:32:35 kid1| ERROR: failure while accepting a TLS connection on conn48331 local=192.168.10.11:8080 remote=192.168.11.50:65012 FD 14 flags=1: 0x56027b8a0670*1
+    current master transaction: master9526
+2025/08/16 03:32:35 kid1| ERROR: failure while accepting a TLS connection on conn48337 local=192.168.10.11:8080 remote=192.168.11.50:65014 FD 19 flags=1: 0x56027b8a0670*1
+    current master transaction: master9526
+2025/08/16 03:32:35 kid1| ERROR: failure while accepting a TLS connection on conn48343 local=192.168.10.11:8080 remote=192.168.11.50:65016 FD 22 flags=1: 0x56027b8a0670*1
+    current master transaction: master9526
+2025/08/16 03:32:35 kid1| ERROR: failure while accepting a TLS connection on conn48349 local=192.168.10.11:8080 remote=192.168.11.50:65018 FD 27 flags=1: 0x56027b8a0670*1
+    current master transaction: master9526
+2025/08/16 03:32:36 kid1| ERROR: failure while accepting a TLS connection on conn48355 local=192.168.10.11:8080 remote=192.168.11.50:65020 FD 29 flags=1: 0x56027b8a0670*1
+    current master transaction: master9526
+2025/08/16 03:32:36 kid1| ERROR: failure while accepting a TLS connection on conn48361 local=192.168.10.11:8080 remote=192.168.11.50:65022 FD 30 flags=1: 0x56027b8a0670*1
+    current master transaction: master9526
+2025/08/16 03:32:36 kid1| ERROR: failure while accepting a TLS connection on conn48367 local=192.168.10.11:8080 remote=192.168.11.50:65024 FD 32 flags=1: 0x56027b8a0670*1
+    current master transaction: master9526
+2025/08/16 03:32:36 kid1| ERROR: failure while accepting a TLS connection on conn48373 local=192.168.10.11:8080 remote=192.168.11.50:65026 FD 36 flags=1: 0x56027b8a0670*1
+    current master transaction: master9526
+2025/08/16 03:32:36 kid1| ERROR: failure while accepting a TLS connection on conn48379 local=192.168.10.11:8080 remote=192.168.11.50:65028 FD 36 flags=1: 0x56027b8a0670*1
+    current master transaction: master9526
+2025/08/16 03:32:41 kid1| ERROR: failure while accepting a TLS connection on conn48388 local=192.168.10.11:8080 remote=192.168.11.50:65033 FD 36 flags=1: 0x56027b8a0670*1
+    current master transaction: master9526
+2025/08/16 03:32:41 kid1| ERROR: failure while accepting a TLS connection on conn48394 local=192.168.10.11:8080 remote=192.168.11.50:65035 FD 39 flags=1: 0x56027b8a0670*1
+    current master transaction: master9526
+2025/08/16 03:32:41 kid1| ERROR: failure while accepting a TLS connection on conn48400 local=192.168.10.11:8080 remote=192.168.11.50:65037 FD 43 flags=1: 0x56027b8a0670*1
+    current master transaction: master9526
+2025/08/16 03:32:41 kid1| ERROR: failure while accepting a TLS connection on conn48406 local=192.168.10.11:8080 remote=192.168.11.50:65039 FD 44 flags=1: 0x56027b8a0670*1
+    current master transaction: master9526
+2025/08/16 03:32:42 kid1| ERROR: failure while accepting a TLS connection on conn48412 local=192.168.10.11:8080 remote=192.168.11.50:65041 FD 45 flags=1: 0x56027b8a0670*1
+    current master transaction: master9526
+2025/08/16 03:32:42 kid1| ERROR: failure while accepting a TLS connection on conn48418 local=192.168.10.11:8080 remote=192.168.11.50:65043 FD 46 flags=1: 0x56027b8a0670*1
+    current master transaction: master9526
+2025/08/16 03:32:42 kid1| ERROR: failure while accepting a TLS connection on conn48424 local=192.168.10.11:8080 remote=192.168.11.50:65045 FD 47 flags=1: 0x56027b8a0670*1
+    current master transaction: master9526
+2025/08/16 03:32:42 kid1| ERROR: failure while accepting a TLS connection on conn48430 local=192.168.10.11:8080 remote=192.168.11.50:65047 FD 48 flags=1: 0x56027b8a0670*1
+    current master transaction: master9526
+2025/08/16 03:32:42 kid1| ERROR: failure while accepting a TLS connection on conn48436 local=192.168.10.11:8080 remote=192.168.11.50:65049 FD 49 flags=1: 0x56027b8a0670*1
+    current master transaction: master9526
+2025/08/16 03:32:42 kid1| ERROR: failure while accepting a TLS connection on conn48442 local=192.168.10.11:8080 remote=192.168.11.50:65051 FD 50 flags=1: 0x56027b8a0670*1
+    current master transaction: master9526
+2025/08/16 03:32:43 kid1| ERROR: failure while accepting a TLS connection on conn48448 local=192.168.10.11:8080 remote=192.168.11.50:65053 FD 51 flags=1: 0x56027b8a0670*1
+    current master transaction: master9526
+2025/08/16 03:32:43 kid1| ERROR: failure while accepting a TLS connection on conn48454 local=192.168.10.11:8080 remote=192.168.11.50:65055 FD 51 flags=1: 0x56027b8a0670*1
+    current master transaction: master9526
+2025/08/16 03:37:03 kid1| ERROR: failure while accepting a TLS connection on conn48487 local=192.168.10.11:8080 remote=192.168.10.40:60600 FD 3 flags=1: 0x56027b8a0670*1
+    current master transaction: master9526
+2025/08/16 03:37:22 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/08/16 03:37:22 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/08/16 03:37:22 kid1| NETDB state saved; 183 entries, 1 msec
+2025/08/16 04:29:26 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/08/16 04:29:26 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/08/16 04:29:26 kid1| NETDB state saved; 183 entries, 1 msec
+2025/08/16 05:22:06 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/08/16 05:22:06 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/08/16 05:22:06 kid1| NETDB state saved; 183 entries, 3 msec
+2025/08/16 06:08:04 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/08/16 06:08:04 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/08/16 06:08:04 kid1| NETDB state saved; 184 entries, 2 msec
+2025/08/16 06:43:09 kid1| ERROR: failure while accepting a TLS connection on conn50164 local=192.168.10.11:8080 remote=192.168.11.50:65173 FD 11 flags=1: 0x56027b8a0670*1
+    current master transaction: master9526
+2025/08/16 06:43:10 kid1| ERROR: failure while accepting a TLS connection on conn50170 local=192.168.10.11:8080 remote=192.168.11.50:65175 FD 12 flags=1: 0x56027f4a7a90*1
+    current master transaction: master9526
+2025/08/16 06:43:10 kid1| ERROR: failure while accepting a TLS connection on conn50176 local=192.168.10.11:8080 remote=192.168.11.50:65177 FD 14 flags=1: 0x560280587150*1
+    current master transaction: master9526
+2025/08/16 06:43:11 kid1| ERROR: failure while accepting a TLS connection on conn50182 local=192.168.10.11:8080 remote=192.168.11.50:65179 FD 19 flags=1: 0x56028043d1b0*1
+    current master transaction: master9526
+2025/08/16 06:43:11 kid1| ERROR: failure while accepting a TLS connection on conn50188 local=192.168.10.11:8080 remote=192.168.11.50:65181 FD 22 flags=1: 0x5602805361f0*1
+    current master transaction: master9526
+2025/08/16 06:43:11 kid1| ERROR: failure while accepting a TLS connection on conn50194 local=192.168.10.11:8080 remote=192.168.11.50:65183 FD 27 flags=1: 0x560280567870*1
+    current master transaction: master9526
+2025/08/16 06:43:12 kid1| ERROR: failure while accepting a TLS connection on conn50200 local=192.168.10.11:8080 remote=192.168.11.50:65185 FD 29 flags=1: 0x5602804550c0*1
+    current master transaction: master9526
+2025/08/16 06:43:12 kid1| ERROR: failure while accepting a TLS connection on conn50206 local=192.168.10.11:8080 remote=192.168.11.50:65187 FD 30 flags=1: 0x560280557e30*1
+    current master transaction: master9526
+2025/08/16 06:43:13 kid1| ERROR: failure while accepting a TLS connection on conn50212 local=192.168.10.11:8080 remote=192.168.11.50:65189 FD 32 flags=1: 0x560280586500*1
+    current master transaction: master9526
+2025/08/16 06:43:13 kid1| ERROR: failure while accepting a TLS connection on conn50218 local=192.168.10.11:8080 remote=192.168.11.50:65191 FD 36 flags=1: 0x5602805844e0*1
+    current master transaction: master9526
+2025/08/16 06:53:58 kid1| ERROR: failure while accepting a TLS connection on conn50331 local=192.168.10.11:8080 remote=192.168.10.40:61221 FD 3 flags=1: 0x5602802dfd20*1
+    current master transaction: master9526
+2025/08/16 06:56:34 kid1| Starting new negotiateauthenticator helpers...
+    current master transaction: master31719
+2025/08/16 06:56:34 kid1| helperOpenServers: Starting 1/30 'negotiate_kerberos_auth' processes
+    current master transaction: master31719
+2025/08/16 07:02:35 kid1| ERROR: failure while accepting a TLS connection on conn50490 local=192.168.10.11:8080 remote=192.168.11.50:65212 FD 12 flags=1: 0x5602802dfd20*1
+    current master transaction: master9526
+2025/08/16 07:02:35 kid1| ERROR: failure while accepting a TLS connection on conn50496 local=192.168.10.11:8080 remote=192.168.11.50:65214 FD 14 flags=1: 0x5602802dfd20*1
+    current master transaction: master9526
+2025/08/16 07:02:35 kid1| ERROR: failure while accepting a TLS connection on conn50502 local=192.168.10.11:8080 remote=192.168.11.50:65216 FD 22 flags=1: 0x5602802dfd20*1
+    current master transaction: master9526
+2025/08/16 07:02:35 kid1| ERROR: failure while accepting a TLS connection on conn50508 local=192.168.10.11:8080 remote=192.168.11.50:65218 FD 27 flags=1: 0x5602802dfd20*1
+    current master transaction: master9526
+2025/08/16 07:02:36 kid1| ERROR: failure while accepting a TLS connection on conn50514 local=192.168.10.11:8080 remote=192.168.11.50:65220 FD 29 flags=1: 0x5602802dfd20*1
+    current master transaction: master9526
+2025/08/16 07:02:36 kid1| ERROR: failure while accepting a TLS connection on conn50520 local=192.168.10.11:8080 remote=192.168.11.50:65222 FD 30 flags=1: 0x5602802dfd20*1
+    current master transaction: master9526
+2025/08/16 07:02:36 kid1| ERROR: failure while accepting a TLS connection on conn50526 local=192.168.10.11:8080 remote=192.168.11.50:65224 FD 32 flags=1: 0x5602802dfd20*1
+    current master transaction: master9526
+2025/08/16 07:02:36 kid1| ERROR: failure while accepting a TLS connection on conn50532 local=192.168.10.11:8080 remote=192.168.11.50:65226 FD 36 flags=1: 0x5602802dfd20*1
+    current master transaction: master9526
+2025/08/16 07:02:36 kid1| ERROR: failure while accepting a TLS connection on conn50538 local=192.168.10.11:8080 remote=192.168.11.50:65228 FD 39 flags=1: 0x5602802dfd20*1
+    current master transaction: master9526
+2025/08/16 07:02:37 kid1| ERROR: failure while accepting a TLS connection on conn50544 local=192.168.10.11:8080 remote=192.168.11.50:65230 FD 42 flags=1: 0x5602802dfd20*1
+    current master transaction: master9526
+2025/08/16 07:02:41 kid1| ERROR: failure while accepting a TLS connection on conn50557 local=192.168.10.11:8080 remote=192.168.11.50:65235 FD 42 flags=1: 0x5602802dfd20*1
+    current master transaction: master9526
+2025/08/16 07:02:41 kid1| ERROR: failure while accepting a TLS connection on conn50563 local=192.168.10.11:8080 remote=192.168.11.50:65237 FD 43 flags=1: 0x5602802dfd20*1
+    current master transaction: master9526
+2025/08/16 07:02:42 kid1| ERROR: failure while accepting a TLS connection on conn50569 local=192.168.10.11:8080 remote=192.168.11.50:65239 FD 45 flags=1: 0x5602802dfd20*1
+    current master transaction: master9526
+2025/08/16 07:02:42 kid1| ERROR: failure while accepting a TLS connection on conn50575 local=192.168.10.11:8080 remote=192.168.11.50:65241 FD 46 flags=1: 0x5602802dfd20*1
+    current master transaction: master9526
+2025/08/16 07:02:42 kid1| ERROR: failure while accepting a TLS connection on conn50581 local=192.168.10.11:8080 remote=192.168.11.50:65243 FD 47 flags=1: 0x5602802dfd20*1
+    current master transaction: master9526
+2025/08/16 07:02:42 kid1| ERROR: failure while accepting a TLS connection on conn50587 local=192.168.10.11:8080 remote=192.168.11.50:65245 FD 48 flags=1: 0x5602802dfd20*1
+    current master transaction: master9526
+2025/08/16 07:02:43 kid1| ERROR: failure while accepting a TLS connection on conn50593 local=192.168.10.11:8080 remote=192.168.11.50:65247 FD 49 flags=1: 0x5602802dfd20*1
+    current master transaction: master9526
+2025/08/16 07:02:43 kid1| ERROR: failure while accepting a TLS connection on conn50599 local=192.168.10.11:8080 remote=192.168.11.50:65249 FD 50 flags=1: 0x5602802dfd20*1
+    current master transaction: master9526
+2025/08/16 07:02:43 kid1| ERROR: failure while accepting a TLS connection on conn50605 local=192.168.10.11:8080 remote=192.168.11.50:65251 FD 51 flags=1: 0x5602802dfd20*1
+    current master transaction: master9526
+2025/08/16 07:02:43 kid1| ERROR: failure while accepting a TLS connection on conn50611 local=192.168.10.11:8080 remote=192.168.11.50:65253 FD 52 flags=1: 0x5602802dfd20*1
+    current master transaction: master9526
+2025/08/16 07:27:50 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/08/16 07:27:50 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/08/16 07:27:50 kid1| NETDB state saved; 185 entries, 1 msec
+2025/08/16 08:03:03 kid1| ERROR: failure while accepting a TLS connection on conn51103 local=192.168.10.11:8080 remote=192.168.10.40:61446 FD 12 flags=1: 0x5602802dfd20*1
+    current master transaction: master9526
+2025/08/16 08:38:23 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/08/16 08:38:23 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/08/16 08:38:23 kid1| NETDB state saved; 186 entries, 2 msec
+2025/08/16 09:44:55 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/08/16 09:44:55 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/08/16 09:44:55 kid1| NETDB state saved; 187 entries, 2 msec
+2025/08/16 10:29:49 kid1| ERROR: failure while accepting a TLS connection on conn52451 local=192.168.10.11:8080 remote=192.168.10.40:61870 FD 3 flags=1: 0x5602802dfd20*1
+    current master transaction: master9526
+2025/08/16 10:32:35 kid1| ERROR: failure while accepting a TLS connection on conn52551 local=192.168.10.11:8080 remote=192.168.11.50:65412 FD 29 flags=1: 0x5602802dfd20*1
+    current master transaction: master9526
+2025/08/16 10:32:35 kid1| ERROR: failure while accepting a TLS connection on conn52557 local=192.168.10.11:8080 remote=192.168.11.50:65414 FD 30 flags=1: 0x5602802dfd20*1
+    current master transaction: master9526
+2025/08/16 10:32:35 kid1| ERROR: failure while accepting a TLS connection on conn52563 local=192.168.10.11:8080 remote=192.168.11.50:65416 FD 32 flags=1: 0x5602802dfd20*1
+    current master transaction: master9526
+2025/08/16 10:32:36 kid1| ERROR: failure while accepting a TLS connection on conn52569 local=192.168.10.11:8080 remote=192.168.11.50:65418 FD 36 flags=1: 0x5602802dfd20*1
+    current master transaction: master9526
+2025/08/16 10:32:36 kid1| ERROR: failure while accepting a TLS connection on conn52575 local=192.168.10.11:8080 remote=192.168.11.50:65420 FD 39 flags=1: 0x5602802dfd20*1
+    current master transaction: master9526
+2025/08/16 10:32:36 kid1| ERROR: failure while accepting a TLS connection on conn52581 local=192.168.10.11:8080 remote=192.168.11.50:65422 FD 42 flags=1: 0x5602802dfd20*1
+    current master transaction: master9526
+2025/08/16 10:32:36 kid1| ERROR: failure while accepting a TLS connection on conn52587 local=192.168.10.11:8080 remote=192.168.11.50:65424 FD 43 flags=1: 0x5602802dfd20*1
+    current master transaction: master9526
+2025/08/16 10:32:36 kid1| ERROR: failure while accepting a TLS connection on conn52593 local=192.168.10.11:8080 remote=192.168.11.50:65426 FD 44 flags=1: 0x5602802dfd20*1
+    current master transaction: master9526
+2025/08/16 10:32:36 kid1| ERROR: failure while accepting a TLS connection on conn52599 local=192.168.10.11:8080 remote=192.168.11.50:65428 FD 45 flags=1: 0x5602802dfd20*1
+    current master transaction: master9526
+2025/08/16 10:32:37 kid1| ERROR: failure while accepting a TLS connection on conn52605 local=192.168.10.11:8080 remote=192.168.11.50:65430 FD 46 flags=1: 0x5602802dfd20*1
+    current master transaction: master9526
+2025/08/16 10:32:37 kid1| ERROR: failure while accepting a TLS connection on conn52611 local=192.168.10.11:8080 remote=192.168.11.50:65432 FD 47 flags=1: 0x5602802dfd20*1
+    current master transaction: master9526
+2025/08/16 10:32:37 kid1| ERROR: failure while accepting a TLS connection on conn52617 local=192.168.10.11:8080 remote=192.168.11.50:65434 FD 47 flags=1: 0x5602802dfd20*1
+    current master transaction: master9526
+2025/08/16 10:32:41 kid1| ERROR: failure while accepting a TLS connection on conn52626 local=192.168.10.11:8080 remote=192.168.11.50:65439 FD 47 flags=1: 0x5602802dfd20*1
+    current master transaction: master9526
+2025/08/16 10:32:42 kid1| ERROR: failure while accepting a TLS connection on conn52632 local=192.168.10.11:8080 remote=192.168.11.50:65441 FD 48 flags=1: 0x5602802dfd20*1
+    current master transaction: master9526
+2025/08/16 10:32:42 kid1| ERROR: failure while accepting a TLS connection on conn52638 local=192.168.10.11:8080 remote=192.168.11.50:65443 FD 50 flags=1: 0x5602802dfd20*1
+    current master transaction: master9526
+2025/08/16 10:32:42 kid1| ERROR: failure while accepting a TLS connection on conn52644 local=192.168.10.11:8080 remote=192.168.11.50:65445 FD 51 flags=1: 0x5602802dfd20*1
+    current master transaction: master9526
+2025/08/16 10:32:42 kid1| ERROR: failure while accepting a TLS connection on conn52650 local=192.168.10.11:8080 remote=192.168.11.50:65447 FD 52 flags=1: 0x5602802dfd20*1
+    current master transaction: master9526
+2025/08/16 10:32:42 kid1| ERROR: failure while accepting a TLS connection on conn52656 local=192.168.10.11:8080 remote=192.168.11.50:65449 FD 53 flags=1: 0x5602802dfd20*1
+    current master transaction: master9526
+2025/08/16 10:32:43 kid1| ERROR: failure while accepting a TLS connection on conn52662 local=192.168.10.11:8080 remote=192.168.11.50:65451 FD 54 flags=1: 0x5602802dfd20*1
+    current master transaction: master9526
+2025/08/16 10:32:43 kid1| ERROR: failure while accepting a TLS connection on conn52668 local=192.168.10.11:8080 remote=192.168.11.50:65453 FD 55 flags=1: 0x5602802dfd20*1
+    current master transaction: master9526
+2025/08/16 10:32:43 kid1| ERROR: failure while accepting a TLS connection on conn52674 local=192.168.10.11:8080 remote=192.168.11.50:65455 FD 56 flags=1: 0x5602802dfd20*1
+    current master transaction: master9526
+2025/08/16 10:32:43 kid1| ERROR: failure while accepting a TLS connection on conn52680 local=192.168.10.11:8080 remote=192.168.11.50:65457 FD 57 flags=1: 0x5602802dfd20*1
+    current master transaction: master9526
+2025/08/16 10:32:43 kid1| ERROR: failure while accepting a TLS connection on conn52686 local=192.168.10.11:8080 remote=192.168.11.50:65459 FD 58 flags=1: 0x5602802dfd20*1
+    current master transaction: master9526
+2025/08/16 10:32:44 kid1| ERROR: failure while accepting a TLS connection on conn52692 local=192.168.10.11:8080 remote=192.168.11.50:65461 FD 58 flags=1: 0x5602802dfd20*1
+    current master transaction: master9526
+2025/08/16 10:33:20 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/08/16 10:33:20 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/08/16 10:33:20 kid1| NETDB state saved; 188 entries, 1 msec
+2025/08/16 11:14:47 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/08/16 11:14:47 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/08/16 11:14:47 kid1| NETDB state saved; 188 entries, 1 msec
+2025/08/16 11:30:42 kid1| ERROR: failure while accepting a TLS connection on conn53165 local=192.168.10.11:8080 remote=192.168.11.50:65503 FD 11 flags=1: 0x5602802dfd20*1
+    current master transaction: master9526
+2025/08/16 11:30:42 kid1| ERROR: failure while accepting a TLS connection on conn53171 local=192.168.10.11:8080 remote=192.168.11.50:65505 FD 12 flags=1: 0x5602807b5370*1
+    current master transaction: master9526
+2025/08/16 11:30:43 kid1| ERROR: failure while accepting a TLS connection on conn53177 local=192.168.10.11:8080 remote=192.168.11.50:65507 FD 14 flags=1: 0x5602808446d0*1
+    current master transaction: master9526
+2025/08/16 11:30:44 kid1| ERROR: failure while accepting a TLS connection on conn53183 local=192.168.10.11:8080 remote=192.168.11.50:65509 FD 22 flags=1: 0x5602807d7180*1
+    current master transaction: master9526
+2025/08/16 11:30:44 kid1| ERROR: failure while accepting a TLS connection on conn53189 local=192.168.10.11:8080 remote=192.168.11.50:65511 FD 27 flags=1: 0x5602806a76d0*1
+    current master transaction: master9526
+2025/08/16 11:30:45 kid1| ERROR: failure while accepting a TLS connection on conn53195 local=192.168.10.11:8080 remote=192.168.11.50:65513 FD 29 flags=1: 0x5602805c0380*1
+    current master transaction: master9526
+2025/08/16 11:30:46 kid1| ERROR: failure while accepting a TLS connection on conn53201 local=192.168.10.11:8080 remote=192.168.11.50:65515 FD 30 flags=1: 0x5602807c8c80*1
+    current master transaction: master9526
+2025/08/16 11:30:47 kid1| ERROR: failure while accepting a TLS connection on conn53207 local=192.168.10.11:8080 remote=192.168.11.50:65517 FD 32 flags=1: 0x5602806c5e40*1
+    current master transaction: master9526
+2025/08/16 11:30:47 kid1| ERROR: failure while accepting a TLS connection on conn53213 local=192.168.10.11:8080 remote=192.168.11.50:65519 FD 36 flags=1: 0x560280744b10*1
+    current master transaction: master9526
+2025/08/16 11:30:48 kid1| ERROR: failure while accepting a TLS connection on conn53219 local=192.168.10.11:8080 remote=192.168.11.50:65521 FD 39 flags=1: 0x5602807a58f0*1
+    current master transaction: master9526
+2025/08/16 11:30:49 kid1| ERROR: failure while accepting a TLS connection on conn53226 local=192.168.10.11:8080 remote=192.168.11.50:65524 FD 11 flags=1: 0x5602807d6f50*1
+    current master transaction: master9526
+2025/08/16 11:30:50 kid1| ERROR: failure while accepting a TLS connection on conn53232 local=192.168.10.11:8080 remote=192.168.11.50:65526 FD 12 flags=1: 0x5602808457a0*1
+    current master transaction: master9526
+2025/08/16 11:30:50 kid1| ERROR: failure while accepting a TLS connection on conn53238 local=192.168.10.11:8080 remote=192.168.11.50:65528 FD 14 flags=1: 0x560280719e30*1
+    current master transaction: master9526
+2025/08/16 11:30:51 kid1| ERROR: failure while accepting a TLS connection on conn53244 local=192.168.10.11:8080 remote=192.168.11.50:65530 FD 22 flags=1: 0x56028070ed50*1
+    current master transaction: master9526
+2025/08/16 11:30:52 kid1| ERROR: failure while accepting a TLS connection on conn53250 local=192.168.10.11:8080 remote=192.168.11.50:65532 FD 27 flags=1: 0x5602806f5540*1
+    current master transaction: master9526
+2025/08/16 11:30:52 kid1| ERROR: failure while accepting a TLS connection on conn53256 local=192.168.10.11:8080 remote=192.168.11.50:65534 FD 29 flags=1: 0x560280724090*1
+    current master transaction: master9526
+2025/08/16 11:30:53 kid1| ERROR: failure while accepting a TLS connection on conn53262 local=192.168.10.11:8080 remote=192.168.11.50:49156 FD 30 flags=1: 0x5602807a67e0*1
+    current master transaction: master9526
+2025/08/16 11:30:54 kid1| ERROR: failure while accepting a TLS connection on conn53268 local=192.168.10.11:8080 remote=192.168.11.50:49158 FD 32 flags=1: 0x5602807e5400*1
+    current master transaction: master9526
+2025/08/16 11:30:54 kid1| ERROR: failure while accepting a TLS connection on conn53274 local=192.168.10.11:8080 remote=192.168.11.50:49160 FD 36 flags=1: 0x560280820570*1
+    current master transaction: master9526
+2025/08/16 11:30:55 kid1| ERROR: failure while accepting a TLS connection on conn53280 local=192.168.10.11:8080 remote=192.168.11.50:49162 FD 39 flags=1: 0x560280783760*1
+    current master transaction: master9526
+2025/08/16 11:36:18 kid1| ERROR: failure while accepting a TLS connection on conn53376 local=192.168.10.11:8080 remote=192.168.10.40:62091 FD 22 flags=1: 0x56028085fd60*1
+    current master transaction: master9526
+2025/08/16 12:13:06 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/08/16 12:13:06 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/08/16 12:13:06 kid1| NETDB state saved; 188 entries, 1 msec
+2025/08/16 13:24:52 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/08/16 13:24:52 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/08/16 13:24:52 kid1| NETDB state saved; 189 entries, 1 msec
+2025/08/16 14:02:34 kid1| ERROR: failure while accepting a TLS connection on conn54924 local=192.168.10.11:8080 remote=192.168.11.50:49307 FD 11 flags=1: 0x56028085fd60*1
+    current master transaction: master9526
+2025/08/16 14:02:35 kid1| ERROR: failure while accepting a TLS connection on conn54930 local=192.168.10.11:8080 remote=192.168.11.50:49309 FD 12 flags=1: 0x56028085fd60*1
+    current master transaction: master9526
+2025/08/16 14:02:37 kid1| ERROR: failure while accepting a TLS connection on conn54943 local=192.168.10.11:8080 remote=192.168.11.50:49314 FD 14 flags=1: 0x56028085fd60*1
+    current master transaction: master9526
+2025/08/16 14:02:37 kid1| ERROR: failure while accepting a TLS connection on conn54949 local=192.168.10.11:8080 remote=192.168.11.50:49316 FD 27 flags=1: 0x56028085fd60*1
+    current master transaction: master9526
+2025/08/16 14:02:37 kid1| ERROR: failure while accepting a TLS connection on conn54955 local=192.168.10.11:8080 remote=192.168.11.50:49318 FD 29 flags=1: 0x56028085fd60*1
+    current master transaction: master9526
+2025/08/16 14:02:38 kid1| ERROR: failure while accepting a TLS connection on conn54961 local=192.168.10.11:8080 remote=192.168.11.50:49320 FD 30 flags=1: 0x56028085fd60*1
+    current master transaction: master9526
+2025/08/16 14:02:38 kid1| ERROR: failure while accepting a TLS connection on conn54967 local=192.168.10.11:8080 remote=192.168.11.50:49322 FD 32 flags=1: 0x56028085fd60*1
+    current master transaction: master9526
+2025/08/16 14:02:38 kid1| ERROR: failure while accepting a TLS connection on conn54973 local=192.168.10.11:8080 remote=192.168.11.50:49324 FD 36 flags=1: 0x56028085fd60*1
+    current master transaction: master9526
+2025/08/16 14:02:38 kid1| ERROR: failure while accepting a TLS connection on conn54979 local=192.168.10.11:8080 remote=192.168.11.50:49326 FD 39 flags=1: 0x56028085fd60*1
+    current master transaction: master9526
+2025/08/16 14:02:38 kid1| ERROR: failure while accepting a TLS connection on conn54985 local=192.168.10.11:8080 remote=192.168.11.50:49328 FD 42 flags=1: 0x56028085fd60*1
+    current master transaction: master9526
+2025/08/16 14:02:39 kid1| ERROR: failure while accepting a TLS connection on conn54991 local=192.168.10.11:8080 remote=192.168.11.50:49330 FD 43 flags=1: 0x56028085fd60*1
+    current master transaction: master9526
+2025/08/16 14:02:39 kid1| ERROR: failure while accepting a TLS connection on conn54997 local=192.168.10.11:8080 remote=192.168.11.50:49332 FD 44 flags=1: 0x56028085fd60*1
+    current master transaction: master9526
+2025/08/16 14:02:39 kid1| ERROR: failure while accepting a TLS connection on conn55003 local=192.168.10.11:8080 remote=192.168.11.50:49334 FD 45 flags=1: 0x56028085fd60*1
+    current master transaction: master9526
+2025/08/16 14:02:39 kid1| ERROR: failure while accepting a TLS connection on conn55009 local=192.168.10.11:8080 remote=192.168.11.50:49336 FD 45 flags=1: 0x56028085fd60*1
+    current master transaction: master9526
+2025/08/16 14:02:44 kid1| ERROR: failure while accepting a TLS connection on conn55018 local=192.168.10.11:8080 remote=192.168.11.50:49341 FD 45 flags=1: 0x56028085fd60*1
+    current master transaction: master9526
+2025/08/16 14:02:44 kid1| ERROR: failure while accepting a TLS connection on conn55024 local=192.168.10.11:8080 remote=192.168.11.50:49343 FD 46 flags=1: 0x56028085fd60*1
+    current master transaction: master9526
+2025/08/16 14:02:44 kid1| ERROR: failure while accepting a TLS connection on conn55030 local=192.168.10.11:8080 remote=192.168.11.50:49345 FD 48 flags=1: 0x56028085fd60*1
+    current master transaction: master9526
+2025/08/16 14:02:44 kid1| ERROR: failure while accepting a TLS connection on conn55036 local=192.168.10.11:8080 remote=192.168.11.50:49347 FD 49 flags=1: 0x56028085fd60*1
+    current master transaction: master9526
+2025/08/16 14:02:44 kid1| ERROR: failure while accepting a TLS connection on conn55042 local=192.168.10.11:8080 remote=192.168.11.50:49349 FD 50 flags=1: 0x56028085fd60*1
+    current master transaction: master9526
+2025/08/16 14:02:44 kid1| ERROR: failure while accepting a TLS connection on conn55048 local=192.168.10.11:8080 remote=192.168.11.50:49351 FD 51 flags=1: 0x56028085fd60*1
+    current master transaction: master9526
+2025/08/16 14:02:45 kid1| ERROR: failure while accepting a TLS connection on conn55054 local=192.168.10.11:8080 remote=192.168.11.50:49353 FD 52 flags=1: 0x56028085fd60*1
+    current master transaction: master9526
+2025/08/16 14:02:45 kid1| ERROR: failure while accepting a TLS connection on conn55060 local=192.168.10.11:8080 remote=192.168.11.50:49355 FD 53 flags=1: 0x56028085fd60*1
+    current master transaction: master9526
+2025/08/16 14:02:45 kid1| ERROR: failure while accepting a TLS connection on conn55066 local=192.168.10.11:8080 remote=192.168.11.50:49357 FD 54 flags=1: 0x56028085fd60*1
+    current master transaction: master9526
+2025/08/16 14:02:45 kid1| ERROR: failure while accepting a TLS connection on conn55072 local=192.168.10.11:8080 remote=192.168.11.50:49359 FD 55 flags=1: 0x56028085fd60*1
+    current master transaction: master9526
+2025/08/16 14:02:45 kid1| ERROR: failure while accepting a TLS connection on conn55078 local=192.168.10.11:8080 remote=192.168.11.50:49361 FD 56 flags=1: 0x56028085fd60*1
+    current master transaction: master9526
+2025/08/16 14:02:46 kid1| ERROR: failure while accepting a TLS connection on conn55084 local=192.168.10.11:8080 remote=192.168.11.50:49363 FD 56 flags=1: 0x56028085fd60*1
+    current master transaction: master9526
+2025/08/16 14:19:41 kid1| ERROR: failure while accepting a TLS connection on conn55195 local=192.168.10.11:8080 remote=192.168.10.40:62565 FD 11 flags=1: 0x56028085fd60*1
+    current master transaction: master9526
+2025/08/16 14:37:10 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/08/16 14:37:10 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/08/16 14:37:10 kid1| NETDB state saved; 189 entries, 1 msec
+2025/08/16 15:17:17 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/08/16 15:17:17 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/08/16 15:17:17 kid1| NETDB state saved; 189 entries, 0 msec
+2025/08/16 16:23:02 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/08/16 16:23:02 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/08/16 16:23:02 kid1| NETDB state saved; 189 entries, 1 msec
+2025/08/16 16:26:05 kid1| ERROR: failure while accepting a TLS connection on conn56218 local=192.168.10.11:8080 remote=192.168.10.40:62948 FD 11 flags=1: 0x56028085fd60*1
+    current master transaction: master9526
+2025/08/16 17:32:36 kid1| ERROR: failure while accepting a TLS connection on conn56938 local=192.168.10.11:8080 remote=192.168.11.50:49493 FD 3 flags=1: 0x56028085fd60*1
+    current master transaction: master9526
+2025/08/16 17:32:36 kid1| ERROR: failure while accepting a TLS connection on conn56944 local=192.168.10.11:8080 remote=192.168.11.50:49495 FD 11 flags=1: 0x56028085fd60*1
+    current master transaction: master9526
+2025/08/16 17:32:36 kid1| ERROR: failure while accepting a TLS connection on conn56950 local=192.168.10.11:8080 remote=192.168.11.50:49497 FD 12 flags=1: 0x56028085fd60*1
+    current master transaction: master9526
+2025/08/16 17:32:37 kid1| ERROR: failure while accepting a TLS connection on conn56956 local=192.168.10.11:8080 remote=192.168.11.50:49499 FD 14 flags=1: 0x56028085fd60*1
+    current master transaction: master9526
+2025/08/16 17:32:37 kid1| ERROR: failure while accepting a TLS connection on conn56962 local=192.168.10.11:8080 remote=192.168.11.50:49501 FD 22 flags=1: 0x56028085fd60*1
+    current master transaction: master9526
+2025/08/16 17:32:37 kid1| ERROR: failure while accepting a TLS connection on conn56968 local=192.168.10.11:8080 remote=192.168.11.50:49503 FD 27 flags=1: 0x56028085fd60*1
+    current master transaction: master9526
+2025/08/16 17:32:37 kid1| ERROR: failure while accepting a TLS connection on conn56974 local=192.168.10.11:8080 remote=192.168.11.50:49505 FD 29 flags=1: 0x56028085fd60*1
+    current master transaction: master9526
+2025/08/16 17:32:38 kid1| ERROR: failure while accepting a TLS connection on conn56980 local=192.168.10.11:8080 remote=192.168.11.50:49507 FD 30 flags=1: 0x56028085fd60*1
+    current master transaction: master9526
+2025/08/16 17:32:38 kid1| ERROR: failure while accepting a TLS connection on conn56986 local=192.168.10.11:8080 remote=192.168.11.50:49509 FD 32 flags=1: 0x56028085fd60*1
+    current master transaction: master9526
+2025/08/16 17:32:42 kid1| ERROR: failure while accepting a TLS connection on conn56995 local=192.168.10.11:8080 remote=192.168.11.50:49514 FD 32 flags=1: 0x56028085fd60*1
+    current master transaction: master9526
+2025/08/16 17:32:42 kid1| ERROR: failure while accepting a TLS connection on conn57001 local=192.168.10.11:8080 remote=192.168.11.50:49516 FD 36 flags=1: 0x56028085fd60*1
+    current master transaction: master9526
+2025/08/16 17:32:43 kid1| ERROR: failure while accepting a TLS connection on conn57007 local=192.168.10.11:8080 remote=192.168.11.50:49518 FD 42 flags=1: 0x56028085fd60*1
+    current master transaction: master9526
+2025/08/16 17:32:43 kid1| ERROR: failure while accepting a TLS connection on conn57013 local=192.168.10.11:8080 remote=192.168.11.50:49520 FD 43 flags=1: 0x56028085fd60*1
+    current master transaction: master9526
+2025/08/16 17:32:43 kid1| ERROR: failure while accepting a TLS connection on conn57019 local=192.168.10.11:8080 remote=192.168.11.50:49522 FD 44 flags=1: 0x56028085fd60*1
+    current master transaction: master9526
+2025/08/16 17:32:43 kid1| ERROR: failure while accepting a TLS connection on conn57025 local=192.168.10.11:8080 remote=192.168.11.50:49524 FD 45 flags=1: 0x56028085fd60*1
+    current master transaction: master9526
+2025/08/16 17:32:44 kid1| ERROR: failure while accepting a TLS connection on conn57031 local=192.168.10.11:8080 remote=192.168.11.50:49526 FD 46 flags=1: 0x56028085fd60*1
+    current master transaction: master9526
+2025/08/16 17:32:44 kid1| ERROR: failure while accepting a TLS connection on conn57037 local=192.168.10.11:8080 remote=192.168.11.50:49528 FD 47 flags=1: 0x56028085fd60*1
+    current master transaction: master9526
+2025/08/16 17:32:44 kid1| ERROR: failure while accepting a TLS connection on conn57043 local=192.168.10.11:8080 remote=192.168.11.50:49530 FD 48 flags=1: 0x56028085fd60*1
+    current master transaction: master9526
+2025/08/16 17:32:44 kid1| ERROR: failure while accepting a TLS connection on conn57049 local=192.168.10.11:8080 remote=192.168.11.50:49532 FD 49 flags=1: 0x56028085fd60*1
+    current master transaction: master9526
+2025/08/16 17:34:00 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/08/16 17:34:00 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/08/16 17:34:00 kid1| NETDB state saved; 192 entries, 2 msec
+2025/08/16 18:13:50 kid1| ERROR: failure while accepting a TLS connection on conn58362 local=192.168.10.11:8080 remote=192.168.10.40:63326 FD 22 flags=1: 0x56028085fd60*1
+    current master transaction: master9526
+2025/08/16 18:31:18 kid1| ERROR: failure while accepting a TLS connection on conn58553 local=192.168.10.11:8080 remote=192.168.10.40:63437 FD 3 flags=1: 0x56028085fd60*1
+    current master transaction: master9526
+2025/08/16 18:49:04 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/08/16 18:49:04 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/08/16 18:49:04 kid1| NETDB state saved; 196 entries, 1 msec
+2025/08/16 19:29:47 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/08/16 19:29:47 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/08/16 19:29:47 kid1| NETDB state saved; 196 entries, 2 msec
+2025/08/16 19:37:58 kid1| ERROR: failure while accepting a TLS connection on conn59546 local=192.168.10.11:8080 remote=192.168.10.40:63645 FD 11 flags=1: 0x560280c85cd0*1
+    current master transaction: master9526
+2025/08/16 20:42:37 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/08/16 20:42:37 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/08/16 20:42:37 kid1| NETDB state saved; 198 entries, 3 msec
+2025/08/16 20:46:13 kid1| ERROR: failure while accepting a TLS connection on conn60204 local=192.168.10.11:8080 remote=192.168.10.40:63870 FD 3 flags=1: 0x560280d14f50*1
+    current master transaction: master9526
+2025/08/16 21:02:36 kid1| ERROR: failure while accepting a TLS connection on conn60417 local=192.168.10.11:8080 remote=192.168.11.50:49700 FD 3 flags=1: 0x560280d14f50*1
+    current master transaction: master9526
+2025/08/16 21:02:36 kid1| ERROR: failure while accepting a TLS connection on conn60423 local=192.168.10.11:8080 remote=192.168.11.50:49702 FD 11 flags=1: 0x560280d14f50*1
+    current master transaction: master9526
+2025/08/16 21:02:37 kid1| ERROR: failure while accepting a TLS connection on conn60429 local=192.168.10.11:8080 remote=192.168.11.50:49704 FD 12 flags=1: 0x560280d14f50*1
+    current master transaction: master9526
+2025/08/16 21:02:37 kid1| ERROR: failure while accepting a TLS connection on conn60435 local=192.168.10.11:8080 remote=192.168.11.50:49706 FD 14 flags=1: 0x560280d14f50*1
+    current master transaction: master9526
+2025/08/16 21:02:37 kid1| ERROR: failure while accepting a TLS connection on conn60441 local=192.168.10.11:8080 remote=192.168.11.50:49708 FD 22 flags=1: 0x560280d14f50*1
+    current master transaction: master9526
+2025/08/16 21:02:37 kid1| ERROR: failure while accepting a TLS connection on conn60447 local=192.168.10.11:8080 remote=192.168.11.50:49710 FD 27 flags=1: 0x560280d14f50*1
+    current master transaction: master9526
+2025/08/16 21:02:37 kid1| ERROR: failure while accepting a TLS connection on conn60453 local=192.168.10.11:8080 remote=192.168.11.50:49712 FD 29 flags=1: 0x560280d14f50*1
+    current master transaction: master9526
+2025/08/16 21:02:38 kid1| ERROR: failure while accepting a TLS connection on conn60459 local=192.168.10.11:8080 remote=192.168.11.50:49714 FD 30 flags=1: 0x560280d14f50*1
+    current master transaction: master9526
+2025/08/16 21:02:38 kid1| ERROR: failure while accepting a TLS connection on conn60465 local=192.168.10.11:8080 remote=192.168.11.50:49716 FD 32 flags=1: 0x560280d14f50*1
+    current master transaction: master9526
+2025/08/16 21:02:38 kid1| ERROR: failure while accepting a TLS connection on conn60471 local=192.168.10.11:8080 remote=192.168.11.50:49718 FD 36 flags=1: 0x560280d14f50*1
+    current master transaction: master9526
+2025/08/16 21:02:43 kid1| ERROR: failure while accepting a TLS connection on conn60480 local=192.168.10.11:8080 remote=192.168.11.50:49723 FD 36 flags=1: 0x560280d14f50*1
+    current master transaction: master9526
+2025/08/16 21:02:43 kid1| ERROR: failure while accepting a TLS connection on conn60486 local=192.168.10.11:8080 remote=192.168.11.50:49725 FD 39 flags=1: 0x560280d14f50*1
+    current master transaction: master9526
+2025/08/16 21:02:43 kid1| ERROR: failure while accepting a TLS connection on conn60492 local=192.168.10.11:8080 remote=192.168.11.50:49727 FD 43 flags=1: 0x560280d14f50*1
+    current master transaction: master9526
+2025/08/16 21:02:43 kid1| ERROR: failure while accepting a TLS connection on conn60498 local=192.168.10.11:8080 remote=192.168.11.50:49729 FD 44 flags=1: 0x560280d14f50*1
+    current master transaction: master9526
+2025/08/16 21:02:43 kid1| ERROR: failure while accepting a TLS connection on conn60504 local=192.168.10.11:8080 remote=192.168.11.50:49731 FD 45 flags=1: 0x560280d14f50*1
+    current master transaction: master9526
+2025/08/16 21:02:44 kid1| ERROR: failure while accepting a TLS connection on conn60510 local=192.168.10.11:8080 remote=192.168.11.50:49733 FD 46 flags=1: 0x560280d14f50*1
+    current master transaction: master9526
+2025/08/16 21:02:44 kid1| ERROR: failure while accepting a TLS connection on conn60516 local=192.168.10.11:8080 remote=192.168.11.50:49735 FD 47 flags=1: 0x560280d14f50*1
+    current master transaction: master9526
+2025/08/16 21:02:44 kid1| ERROR: failure while accepting a TLS connection on conn60522 local=192.168.10.11:8080 remote=192.168.11.50:49737 FD 48 flags=1: 0x560280d14f50*1
+    current master transaction: master9526
+2025/08/16 21:02:44 kid1| ERROR: failure while accepting a TLS connection on conn60528 local=192.168.10.11:8080 remote=192.168.11.50:49739 FD 49 flags=1: 0x560280d14f50*1
+    current master transaction: master9526
+2025/08/16 21:02:45 kid1| ERROR: failure while accepting a TLS connection on conn60534 local=192.168.10.11:8080 remote=192.168.11.50:49741 FD 50 flags=1: 0x560280d14f50*1
+    current master transaction: master9526
+2025/08/16 21:08:04 kid1| DNS error while resolving ipv6.msftconnecttest.com: No valid address records
+    current master transaction: master38405
+2025/08/16 21:08:04 kid1| DNS error while resolving ipv6.msftconnecttest.com: No valid address records
+    current master transaction: master38405
+2025/08/16 21:09:52 kid1| DNS error while resolving ipv6.msftconnecttest.com: No valid address records
+    current master transaction: master38436
+2025/08/16 21:09:52 kid1| DNS error while resolving ipv6.msftconnecttest.com: No valid address records
+    current master transaction: master38436
+2025/08/16 21:39:07 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/08/16 21:39:07 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/08/16 21:39:07 kid1| NETDB state saved; 198 entries, 2 msec
+2025/08/16 22:36:03 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/08/16 22:36:03 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/08/16 22:36:03 kid1| NETDB state saved; 200 entries, 1 msec
+2025/08/16 23:00:02 kid1| ERROR: failure while accepting a TLS connection on conn61704 local=192.168.10.11:8080 remote=192.168.11.50:49808 FD 3 flags=1: 0x560280d14f50*1
+    current master transaction: master9526
+2025/08/16 23:00:02 kid1| ERROR: failure while accepting a TLS connection on conn61710 local=192.168.10.11:8080 remote=192.168.11.50:49810 FD 11 flags=1: 0x560280d14f50*1
+    current master transaction: master9526
+2025/08/16 23:00:02 kid1| ERROR: failure while accepting a TLS connection on conn61716 local=192.168.10.11:8080 remote=192.168.11.50:49812 FD 12 flags=1: 0x560280d14f50*1
+    current master transaction: master9526
+2025/08/16 23:00:02 kid1| ERROR: failure while accepting a TLS connection on conn61722 local=192.168.10.11:8080 remote=192.168.11.50:49814 FD 14 flags=1: 0x560280d14f50*1
+    current master transaction: master9526
+2025/08/16 23:00:02 kid1| ERROR: failure while accepting a TLS connection on conn61728 local=192.168.10.11:8080 remote=192.168.11.50:49816 FD 22 flags=1: 0x560280d14f50*1
+    current master transaction: master9526
+2025/08/16 23:00:03 kid1| ERROR: failure while accepting a TLS connection on conn61734 local=192.168.10.11:8080 remote=192.168.11.50:49818 FD 27 flags=1: 0x560280d14f50*1
+    current master transaction: master9526
+2025/08/16 23:00:03 kid1| ERROR: failure while accepting a TLS connection on conn61740 local=192.168.10.11:8080 remote=192.168.11.50:49820 FD 29 flags=1: 0x560280d14f50*1
+    current master transaction: master9526
+2025/08/16 23:00:03 kid1| ERROR: failure while accepting a TLS connection on conn61746 local=192.168.10.11:8080 remote=192.168.11.50:49822 FD 30 flags=1: 0x560280d14f50*1
+    current master transaction: master9526
+2025/08/16 23:00:03 kid1| ERROR: failure while accepting a TLS connection on conn61752 local=192.168.10.11:8080 remote=192.168.11.50:49824 FD 32 flags=1: 0x560280d14f50*1
+    current master transaction: master9526
+2025/08/16 23:00:04 kid1| ERROR: failure while accepting a TLS connection on conn61758 local=192.168.10.11:8080 remote=192.168.11.50:49826 FD 36 flags=1: 0x560280d14f50*1
+    current master transaction: master9526
+2025/08/16 23:00:08 kid1| ERROR: failure while accepting a TLS connection on conn61767 local=192.168.10.11:8080 remote=192.168.11.50:49831 FD 36 flags=1: 0x560280d14f50*1
+    current master transaction: master9526
+2025/08/16 23:00:08 kid1| ERROR: failure while accepting a TLS connection on conn61773 local=192.168.10.11:8080 remote=192.168.11.50:49833 FD 39 flags=1: 0x560280d14f50*1
+    current master transaction: master9526
+2025/08/16 23:00:09 kid1| ERROR: failure while accepting a TLS connection on conn61779 local=192.168.10.11:8080 remote=192.168.11.50:49835 FD 43 flags=1: 0x560280d14f50*1
+    current master transaction: master9526
+2025/08/16 23:00:09 kid1| ERROR: failure while accepting a TLS connection on conn61785 local=192.168.10.11:8080 remote=192.168.11.50:49837 FD 44 flags=1: 0x560280d14f50*1
+    current master transaction: master9526
+2025/08/16 23:00:09 kid1| ERROR: failure while accepting a TLS connection on conn61791 local=192.168.10.11:8080 remote=192.168.11.50:49839 FD 45 flags=1: 0x560280d14f50*1
+    current master transaction: master9526
+2025/08/16 23:00:09 kid1| ERROR: failure while accepting a TLS connection on conn61797 local=192.168.10.11:8080 remote=192.168.11.50:49841 FD 46 flags=1: 0x560280d14f50*1
+    current master transaction: master9526
+2025/08/16 23:00:09 kid1| ERROR: failure while accepting a TLS connection on conn61803 local=192.168.10.11:8080 remote=192.168.11.50:49843 FD 47 flags=1: 0x560280d14f50*1
+    current master transaction: master9526
+2025/08/16 23:00:10 kid1| ERROR: failure while accepting a TLS connection on conn61809 local=192.168.10.11:8080 remote=192.168.11.50:49845 FD 48 flags=1: 0x560280d14f50*1
+    current master transaction: master9526
+2025/08/16 23:00:10 kid1| ERROR: failure while accepting a TLS connection on conn61815 local=192.168.10.11:8080 remote=192.168.11.50:49847 FD 49 flags=1: 0x560280d14f50*1
+    current master transaction: master9526
+2025/08/16 23:00:10 kid1| ERROR: failure while accepting a TLS connection on conn61821 local=192.168.10.11:8080 remote=192.168.11.50:49849 FD 50 flags=1: 0x560280d14f50*1
+    current master transaction: master9526
+2025/08/16 23:21:27 kid1| ERROR: failure while accepting a TLS connection on conn61994 local=192.168.10.11:8080 remote=192.168.10.40:64358 FD 3 flags=1: 0x560280d14f50*1
+    current master transaction: master9526
+2025/08/16 23:22:22 kid1| Logfile: opening log stdio:/var/spool/squid/netdb.state
+2025/08/16 23:22:22 kid1| Logfile: closing log stdio:/var/spool/squid/netdb.state
+2025/08/16 23:22:22 kid1| NETDB state saved; 200 entries, 1 msec
+2025/08/17 00:00:32 kid1| Closing Pinger socket on FD 13
+2025/08/17 00:00:32 kid1| log rotation failed: (2) No such file or directory
+2025/08/17 00:00:32 kid1| log rotation failed: (2) No such file or directory
+2025/08/17 00:00:32 kid1| log rotation failed: (2) No such file or directory
+2025/08/17 00:00:32 kid1| log rotation failed: (2) No such file or directory
+2025/08/17 00:00:32 kid1| log rotation failed: (2) No such file or directory
+2025/08/17 00:00:32 kid1| log rotation failed: (2) No such file or directory
+2025/08/17 00:00:32 kid1| log rotation failed: (2) No such file or directory
+2025/08/17 00:00:32 kid1| renaming file /var/log/squid/cache.log to /var/log/squid/cache.log.0failed: (2) No such file or directory
+2025/08/17 00:00:52| Pinger exiting.

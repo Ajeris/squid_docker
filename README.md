@@ -1,2 +1,1 @@
-# squid_docker
-squid-openssl apache2 (squid log analyzer)
+создать docker-compose.yml файл в катором собиратеся образ на базе стабильной версии debian c предустановлеными пакетам стабильным squid-openssl, kerberos,ldap аутификации.
