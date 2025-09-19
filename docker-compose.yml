@@ -1,13 +1,12 @@
----
 services:
-  squid:
+  squid-proxy-service:
     build:
       context: .
       dockerfile: Dockerfile
     container_name: squid-proxy
     ports:
-      - "3128:3128"
-      - "3129:3129"
+      - "8078:3128"
+      - "8077:3129"
     volumes:
       - ./config:/etc/squid
       - ./cache:/var/spool/squid
@@ -17,6 +16,43 @@ services:
     restart: unless-stopped
     networks:
       - squid-net
+
+  apache-analyzer:
+    build:
+      context: .
+      dockerfile: apache/Dockerfile
+    container_name: squid-apache-analyzer
+    ports:
+      - "8076:80"
+    volumes:
+      # Логи squid для анализа
+      - ./logs:/var/log/squid:ro
+      # Конфигурация SquidAnalyzer
+      - ./config/squidanalyzer:/etc/squidanalyzer
+      # Исходные коды программ (для SqStat)
+      - ./soft:/opt/soft:ro
+      # Данные веб-сервера
+      - apache-webdata:/var/www/html
+      # Логи анализатора
+      - apache-logs:/var/log/apache2
+    environment:
+      - TZ=Asia/Qyzylorda
+    restart: unless-stopped
+    networks:
+      - squid-net
+    depends_on:
+      - squid-proxy-service
+    healthcheck:
+      test: ["CMD", "apache2ctl", "configtest"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+volumes:
+  apache-webdata:
+    driver: local
+  apache-logs:
+    driver: local
 
 networks:
   squid-net:
