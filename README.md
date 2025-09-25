@@ -173,8 +173,7 @@ acl ldap_users proxy_auth REQUIRED
 - Конфигурацию можно изменить в файле `config/squid.conf`
 ##  Собранная версия docker-compose.yml
 ```bash
-version: "3.9"
-
+---
 services:
   squid:
     image: ajeris/squid_docker:latest
@@ -201,4 +200,3 @@ services:
 networks:
   squid-net:
     driver: bridge
-...
