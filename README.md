@@ -172,7 +172,7 @@ acl ldap_users proxy_auth REQUIRED
 - Кеш сохраняется в директории `cache/`
 - Конфигурацию можно изменить в файле `config/squid.conf`
 ##  Собранная версия docker-compose.yml
-...
+...yaml
 version: "3.9"
 
 services:
