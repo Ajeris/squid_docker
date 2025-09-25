@@ -200,3 +200,10 @@ services:
 networks:
   squid-net:
     driver: bridge
+```
+На хосте заранее создать каталоги и выставить права:
+```bash
+sudo mkdir -p ./logs ./cache ./config
+sudo chown -R 13:13 ./logs ./cache
+sudo chmod -R 755 ./logs ./cache
+```
