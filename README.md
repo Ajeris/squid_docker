@@ -171,3 +171,34 @@ acl ldap_users proxy_auth REQUIRED
 - Логи сохраняются в директории `logs/`
 - Кеш сохраняется в директории `cache/`
 - Конфигурацию можно изменить в файле `config/squid.conf`
+##  Собранная версия docker-compose.yml
+...
+version: "3.9"
+
+services:
+  squid:
+    image: ajeris/squid_docker:latest
+    container_name: squid-proxy
+    ports:
+      - "3128:3128"
+      # - "3129:3129" # enable only if SSL-bump is required
+    volumes:
+      - ./config:/etc/squid
+      - ./cache:/var/spool/squid
+      - ./logs:/var/log/squid
+    environment:
+      TZ: Asia/Qyzylorda
+    entrypoint: >
+      sh -c "if [ ! -d /var/spool/squid/00 ]; then
+               echo 'Initializing Squid cache...';
+               squid -z;
+             fi &&
+             exec squid -N -d 1"
+    restart: unless-stopped
+    networks:
+      - squid-net
+
+networks:
+  squid-net:
+    driver: bridge
+...
